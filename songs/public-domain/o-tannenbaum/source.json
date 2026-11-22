@@ -1,0 +1,380 @@
+{
+  "id": "o-tannenbaum",
+  "title": "O Tannenbaum",
+  "key": "F",
+  "meter": "3/4",
+  "pickup_quarters": 0.5,
+  "tempo_bpm": 80,
+  "difficulty": 2,
+  "composer": "Traditionelle Melodie (vor 1800)",
+  "lyricist": "Joachim August Christian Zarnack (1777–1827); Ernst Anschütz (1780–1861)",
+  "practice_notes_de": [
+    "Zuerst die ersten vier Takte lernen; sie kehren am Schluss wieder.",
+    "Den kurzen Auftakt nicht als ersten vollen Takt zählen.",
+    "Punktierte Achtel und Sechzehntel langsam im Verhältnis 3 zu 1 spielen."
+  ],
+  "source_note": "Melodie und Rhythmus aus der frei weiterverwendbaren alten MuseScore-Datei extrahiert; mit der zugehörigen LilyPond-Quelle und dem Notenbild verglichen. Originaltonart F-Dur, Achtelauftakt. Ein vollständiger Melodiedurchgang ohne Liedtext. Die historischen Melodie- und Texturheber sind gemeinfrei. Harmonieereignisse dokumentieren die alte Quelldatei; die spielbare C/F-Begleitung ist eine nachgelagerte Vereinfachung.",
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "C4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "F"
+        },
+        {
+          "offset": 2.5,
+          "chord": "C/E"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "Dm",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Dm"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "Gm",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Gm"
+        },
+        {
+          "offset": 2.0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "F"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 1.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "F"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "Gm",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Gm"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 1.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "F"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "Dm",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Dm"
+        },
+        {
+          "offset": 2.5,
+          "chord": "Gm"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "A",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "A"
+        },
+        {
+          "offset": 2.5,
+          "chord": "Dm"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "Gm",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Gm"
+        },
+        {
+          "offset": 2.0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "F"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/oh-tannenbaum/",
+    "https://www.kinder-wollen-singen.de/song/sources/oh-tannenbaum-de.mscz",
+    "https://www.kinder-wollen-singen.de/song/sources/oh-tannenbaum-de.ly"
+  ],
+  "rights_evidence_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/oh-tannenbaum/"
+  ]
+}

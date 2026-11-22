@@ -1,0 +1,3782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score-partwise version="4.0">
+  <work>
+    <work-title>Jingle Bells</work-title>
+  </work>
+  <identification>
+    <creator type="composer">James Lord Pierpont (1822–1893)</creator>
+    <rights>New C/F learning arrangement; sources and rights in source.json and README.md.</rights>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Corso C/F</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1" implicit="no">
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>2</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <staves>2</staves>
+        <clef number="1">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>66</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="66" />
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m0-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m0-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m0-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m0-e3-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b0-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b0-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b0-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b0-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="2" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m1-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot />
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m1-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m1-e2-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b1-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b1-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b1-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b1-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="3" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m2-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m2-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m2-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m2-e3-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b2-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b2-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b2-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b2-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b2-2-0-0">
+        <rest />
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="4" implicit="no">
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m3-e0-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b3-0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L8Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b3-1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L7Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b3-1-0-1">
+        <chord />
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b3-1-0-2">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="5" implicit="no">
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m4-e0-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m4-e1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m4-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m4-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b4-0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L8Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b4-1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L7Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b4-1-0-1">
+        <chord />
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b4-1-0-2">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b4-2-0-0">
+        <rest />
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="6" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m5-e0-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b5-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L2D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b5-1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L1D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b5-1-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b5-1-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="7" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m6-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m6-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m6-e2-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m6-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b6-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L2D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b6-1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b6-1-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b6-1-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="8" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m7-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b7-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b7-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b7-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b7-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="9" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m8-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m8-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m8-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m8-e3-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b8-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b8-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b8-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b8-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="10" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m9-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b9-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b9-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b9-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b9-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="11" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m10-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>13D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m10-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m10-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m10-e3-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b10-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b10-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b10-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b10-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b10-2-0-0">
+        <rest />
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="12" implicit="no">
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m11-e0-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot />
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m11-e1-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b11-0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L8Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b11-1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L7Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b11-1-0-1">
+        <chord />
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b11-1-0-2">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="13" implicit="no">
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m12-e0-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m12-e1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m12-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m12-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b12-0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L8Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b12-1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L7Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b12-1-0-1">
+        <chord />
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b12-1-0-2">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b12-2-0-0">
+        <rest />
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="14" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m13-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m13-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m13-e2-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m13-e3-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b13-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L2D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b13-1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L1D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b13-1-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b13-1-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="15" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m14-e0-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m14-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m14-e2-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m14-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b14-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b14-1-0-0">
+        <rest />
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note id="b14-2-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b14-2-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b14-2-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="16" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m15-e0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m15-e1-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b15-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b15-1-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="17" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m16-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m16-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m16-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b16-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b16-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b16-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b16-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="18" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m17-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m17-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m17-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b17-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b17-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b17-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b17-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="19" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m18-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m18-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m18-e2-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m18-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b18-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b18-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b18-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b18-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="20" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m19-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b19-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b19-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b19-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b19-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="21" implicit="no">
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m20-e0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m20-e1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m20-e2-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m20-e3-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b20-0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L8Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b20-1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L7Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b20-1-0-1">
+        <chord />
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b20-1-0-2">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="22" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m21-e0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m21-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m21-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m21-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m21-e4-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b21-0-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b21-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b21-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b21-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="23" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m22-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m22-e1-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m22-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m22-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b22-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L2D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b22-1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L1D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b22-1-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b22-1-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="24" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m23-e0-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m23-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b23-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L2D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b23-1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L1D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b23-1-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b23-1-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="25" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m24-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m24-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m24-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b24-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b24-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b24-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b24-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="26" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m25-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m25-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m25-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b25-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b25-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b25-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b25-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="27" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m26-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m26-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m26-e2-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m26-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b26-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b26-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b26-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b26-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="28" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m27-e0-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b27-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b27-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b27-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b27-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="29" implicit="no">
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m28-e0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m28-e1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m28-e2-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m28-e3-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b28-0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L8Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b28-1-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L7Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb</text>
+        </lyric>
+      </note>
+      <note id="b28-1-0-1">
+        <chord />
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b28-1-0-2">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="30" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m29-e0-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m29-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m29-e2-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m29-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m29-e4-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15D</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b29-0-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b29-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b29-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b29-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="31" implicit="no">
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m30-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m30-e1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>16D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m30-e2-0-0">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>15Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>Bb4</text>
+        </lyric>
+      </note>
+      <note id="jingle-bells-m30-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b30-0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L2D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b30-1-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>C</text>
+        </lyric>
+      </note>
+      <note id="b30-1-0-1">
+        <chord />
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b30-1-0-2">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+    </measure>
+    <measure number="32" implicit="no">
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major</kind>
+        <offset>0</offset>
+        <staff>1</staff>
+      </harmony>
+      <note id="jingle-bells-m31-e0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>14D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note id="b31-0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b31-1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        <lyric number="1">
+          <text>L3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>F</text>
+        </lyric>
+      </note>
+      <note id="b31-1-0-1">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note id="b31-1-0-2">
+        <chord />
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

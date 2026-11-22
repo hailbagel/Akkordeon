@@ -1,0 +1,1674 @@
+{
+  "id": "suesser-die-glocken",
+  "title": "Süßer die Glocken nie klingen",
+  "key": "F",
+  "source_key": "F",
+  "transposition_semitones": 0,
+  "meter": "6/8",
+  "tempo_bpm": 60,
+  "practice_tempo_bpm": 60,
+  "difficulty": 3,
+  "learning_order": 12,
+  "pickup_quarters": 0,
+  "total_quarters": 48.0,
+  "measures": [
+    {
+      "number": 1,
+      "start": 0.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m0-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 0.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m0-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 0.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m0-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 1.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m0-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 1.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m0-e4",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 2.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m0-e5",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 2.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 0.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 1.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": 3.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m1-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 3.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m1-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 4.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m1-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.5,
+          "offset": 1.5,
+          "start": 4.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 3.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 4.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": 6.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m2-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 6.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m2-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 6.75,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m2-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 7.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m2-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 7.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m2-e4",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 8.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m2-e5",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 8.5,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 6.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 7.5,
+          "offset": 1.5,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": 9.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m3-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.5,
+          "offset": 0.0,
+          "start": 9.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m3-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 11.5,
+          "button": null,
+          "row": null,
+          "dir": null
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 9.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 10.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": 12.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m4-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 12.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m4-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 12.75,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m4-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 13.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m4-e3",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 13.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m4-e4",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 14.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m4-e5",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 14.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 12.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 13.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": 15.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m5-e0",
+          "pitch": "F5",
+          "midi": 77,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 15.0,
+          "button": 17,
+          "row": "F",
+          "position": 6,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m5-e1",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 16.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m5-e2",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 1.5,
+          "offset": 1.5,
+          "start": 16.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 15.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 16.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": 18.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m6-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 18.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m6-e1",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 18.75,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m6-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 19.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m6-e3",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 19.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m6-e4",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 20.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m6-e5",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 20.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 18.0,
+          "offset": 0.0,
+          "duration": 0.75,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 19.5,
+          "offset": 1.5,
+          "duration": 0.5,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": 21.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m7-e0",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 2.5,
+          "offset": 0.0,
+          "start": 21.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m7-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 23.5,
+          "button": null,
+          "row": null,
+          "dir": null
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 21.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 22.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": 24.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m8-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 24.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m8-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 24.75,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m8-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 25.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m8-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 25.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m8-e4",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 26.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m8-e5",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 26.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 24.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 25.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": 27.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m9-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 27.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m9-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 27.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m9-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 28.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m9-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.5,
+          "offset": 1.5,
+          "start": 28.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 27.0,
+          "offset": 0.0,
+          "duration": 0.75,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 28.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": 30.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m10-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 30.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m10-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 30.75,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m10-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 31.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m10-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 31.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m10-e4",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 32.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m10-e5",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 32.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 30.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 31.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": 33.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m11-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 33.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m11-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 33.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m11-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 34.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m11-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.5,
+          "offset": 1.5,
+          "start": 34.5,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 33.0,
+          "offset": 0.0,
+          "duration": 0.75,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 34.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "start": 36.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m12-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 36.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m12-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 36.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m12-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 37.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m12-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 37.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m12-e4",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 38.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m12-e5",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 38.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 36.0,
+          "offset": 0.0,
+          "duration": 0.75,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 37.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "start": 39.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m13-e0",
+          "pitch": "F5",
+          "midi": 77,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 39.0,
+          "button": 17,
+          "row": "F",
+          "position": 6,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m13-e1",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 1.5,
+          "offset": 1.5,
+          "start": 40.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 39.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L8",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 40.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "start": 42.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m14-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.75,
+          "offset": 0.0,
+          "start": 42.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m14-e1",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 0.25,
+          "offset": 0.75,
+          "start": 42.75,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m14-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 43.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m14-e3",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 43.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m14-e4",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 2.0,
+          "start": 44.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "suesser-die-glocken-m14-e5",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 44.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 42.0,
+          "offset": 0.0,
+          "duration": 0.75,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 43.5,
+          "offset": 1.5,
+          "duration": 0.5,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "start": 45.0,
+      "duration": 3.0,
+      "events": [
+        {
+          "id": "suesser-die-glocken-m15-e0",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 2.5,
+          "offset": 0.0,
+          "start": 45.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "suesser-die-glocken-m15-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 0.5,
+          "offset": 2.5,
+          "start": 47.5,
+          "button": null,
+          "row": null,
+          "dir": null
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": null
+        }
+      ],
+      "bass": [
+        {
+          "start": 45.0,
+          "offset": 0.0,
+          "duration": 1.5,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 46.5,
+          "offset": 1.5,
+          "duration": 1.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    }
+  ],
+  "practice_notes_de": [
+    "In zwei großen Schlägen pro Takt denken: eins-zwei-drei, vier-fünf-sechs.",
+    "Punktierte Achtel und Sechzehntel zuerst klopfen.",
+    "Die zwei mittleren Takte werden zweimal gespielt; hohe Töne langsam vorbereiten."
+  ],
+  "source_urls": [
+    "https://de.wikipedia.org/wiki/S%C3%BC%C3%9Fer_die_Glocken_nie_klingen",
+    "https://www.kinder-wollen-singen.de/lieder/suesser-die-glocken-nie-klingen/",
+    "https://de.wikisource.org/wiki/S%C3%BC%C3%9Fer_die_Glocken_nie_klingen"
+  ],
+  "composer": "Traditional Thuringian melody documented in the nineteenth century",
+  "adaptations": [],
+  "bellows_reversals": 22,
+  "bass_pulses": 32,
+  "bass_pulses_omitted": 0,
+  "range": [
+    "F4",
+    "F5"
+  ],
+  "score_path": "../songs/public-domain/suesser-die-glocken/score.pdf",
+  "page_count": 2
+}

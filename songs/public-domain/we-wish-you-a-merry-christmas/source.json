@@ -1,0 +1,352 @@
+{
+  "id": "we-wish-you-a-merry-christmas",
+  "title": "We Wish You a Merry Christmas",
+  "composer": "Traditional English / West Country; composer unknown",
+  "lyricist": "Traditional; author unknown",
+  "source_urls": [
+    "https://trillian.mit.edu/~jc/music/abc/xmas/We_Wish_You_a_Merry_Christmas_1.abc",
+    "https://trillian.mit.edu/~jc/music/abc/xmas/We_Wish_You_a_Merry_Christmas_G_3V.abc",
+    "https://piano.rc-digital.it/en/we-wish-you-a-merry-christmas.html"
+  ],
+  "rights_evidence_urls": [
+    "https://ipo.blog.gov.uk/2025/11/27/copyright-carols-for-choirs/",
+    "https://www.kinder-wollen-singen.de/lieder/we-wish-you-merry-chrismas/",
+    "https://www.bristol.ac.uk/news/2017/december/we-wish-merry-christmas.html"
+  ],
+  "source_note": "Traditional melody only: voice 1 of John Chambers/Ted Neil ABC (2002-12-15), checked from the actual ABC. First eight melodic bars independently agree with RC-Digital public-domain teaching score. No lower voices, descant or piano accompaniment copied. One complete verse/refrain melody cycle including Good Tidings; the whole-stanza repeat is not needed to display the complete cycle. Initial two rest beats and final rest omitted to make conventional one-quarter pickup with two-quarter final bar. Harmony labels record source symbols as candidates and require separate C/F instrument adaptation. Arthur Warrell's four-part 1935 Oxford arrangement is not reproduced. Traditional melody treated separately from that arrangement; no claim of a documented pre1935 print.",
+  "key": "G",
+  "meter": "3/4",
+  "tempo_bpm": 84,
+  "pickup_quarters": 1,
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 1
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1
+        },
+        {
+          "pitch": "E4",
+          "duration": 1
+        },
+        {
+          "pitch": "E4",
+          "duration": 1
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 1
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "A7"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F#4",
+          "duration": 1
+        },
+        {
+          "pitch": "D4",
+          "duration": 1
+        },
+        {
+          "pitch": "D4",
+          "duration": 1
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 1
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1
+        },
+        {
+          "pitch": "E4",
+          "duration": 1
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1
+        },
+        {
+          "pitch": "A4",
+          "duration": 1
+        },
+        {
+          "pitch": "F#4",
+          "duration": 1
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 2,
+          "chord": "D"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 2
+        },
+        {
+          "pitch": "D4",
+          "duration": 1
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1
+        },
+        {
+          "pitch": "G4",
+          "duration": 1
+        },
+        {
+          "pitch": "G4",
+          "duration": 1
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F#4",
+          "duration": 2
+        },
+        {
+          "pitch": "F#4",
+          "duration": 1
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1
+        },
+        {
+          "pitch": "F#4",
+          "duration": 1
+        },
+        {
+          "pitch": "E4",
+          "duration": 1
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 2
+        },
+        {
+          "pitch": "B4",
+          "duration": 1
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 1
+        },
+        {
+          "pitch": "B4",
+          "duration": 1
+        },
+        {
+          "pitch": "A4",
+          "duration": 1
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D5",
+          "duration": 1
+        },
+        {
+          "pitch": "D4",
+          "duration": 1
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1
+        },
+        {
+          "pitch": "A4",
+          "duration": 1
+        },
+        {
+          "pitch": "F#4",
+          "duration": 1
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 2,
+          "chord": "D7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 2
+        }
+      ],
+      "chord": "G"
+    }
+  ],
+  "difficulty": 2,
+  "practice_notes_de": [
+    "Zähle vor dem Auftakt zwei Schläge; der erste Melodieton kommt auf Schlag drei.",
+    "Übe die ersten drei ähnlichen Phrasen einzeln, bevor du sie verbindest.",
+    "Lerne anschließend den Abschnitt Good Tidings und erst danach eine zur Balgbewegung passende Bassbegleitung."
+  ],
+  "sections": [
+    {
+      "start_measure_index": 0,
+      "title": "A – Anfangsteil mit Auftakt"
+    },
+    {
+      "start_measure_index": 9,
+      "title": "B – Good Tidings"
+    }
+  ]
+}

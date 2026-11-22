@@ -1,0 +1,232 @@
+{
+  "id": "schneefloeckchen",
+  "title": "Schneeflöckchen, Weißröckchen",
+  "composer": "Traditional; anonymous familiar melody documented in songbooks since 1915",
+  "lyricist": "After Hedwig Haberkern (1837-1901)",
+  "key": "C",
+  "meter": "3/4",
+  "tempo_bpm": 84,
+  "pickup_quarters": 1,
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 2.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "C5",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 2,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://wiki.jurtenland.eu/wiki/Schneefl%C3%B6ckchen%2C_Wei%C3%9Fr%C3%B6ckchen",
+    "https://de.wikibooks.org/wiki/Liederbuch/_Nikolauslieder",
+    "https://volksmusik-forschung.de/blog/2021-01-04/schneeflocke/"
+  ],
+  "rights_evidence_urls": [
+    "https://wiki.jurtenland.eu/wiki/Schneefl%C3%B6ckchen%2C_Wei%C3%9Fr%C3%B6ckchen",
+    "https://www.gemeinfreie-lieder.de/lieder/s/schneefloeckchen/",
+    "https://volksmusik-forschung.de/blog/2021-01-04/schneeflocke/"
+  ],
+  "source_note": "Familiar anonymous melody (not the older Mozart KV598 setting). Complete Ebersberger/Jurtenland LilyPond melody, corroborated by Wikibooks ABC, transposed D to C. One-quarter pickup and two-quarter final bar preserved. The Forschungsstelle für fränkische Volksmusik documents this familiar melody in songbooks since 1915; about 1945 describes its wider adoption, not first publication.",
+  "difficulty": 1,
+  "practice_notes_de": [
+    "Der Auftakt besteht aus zwei Achteln; vorher zwei ruhige Schläge zählen.",
+    "Immer drei Viertel pro vollem Takt zählen.",
+    "Die längeren Noten ruhig halten und den Balgwechsel vorher vorbereiten."
+  ],
+  "harmony_note": "Functional chord stream transcribed from the linked LilyPond/ABC source. It is not yet a mechanically playable bass part: reduce or omit unsupported triads and direction conflicts for the 8-bass Corso.",
+  "rights_status": "Public-domain traditional anonymous melody documented since 1915; new transcription.",
+  "rights_note": "Forschungsstelle für fränkische Volksmusik documents the familiar melody in songbooks since 1915. Jurtenland explicitly declares melody/text public domain and freely copyable. Only underlying melody and simple harmonic functions are transcribed. The older Mozart setting on Kinder wollen singen is a different melody and was not used."
+}

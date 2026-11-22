@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "model": "Hohner Corso",
+  "key": "C/F",
+  "system": "two-row Viennese diatonic, no Club gleichton",
+  "reference_url": "https://www.akkordeonshop24.de/media/pdf/07/50/24/Modell_21-8_Tonart_C-F_Akkordeonshop24.pdf",
+  "pitch_notation": "Scientific pitch notation; C4 = middle C; B = German H; Bb = German B.",
+  "button_numbering": "Added numbering: outer C row 1-11, inner F row 12-21; each from chin to knee.",
+  "melody": [
+    {
+      "button": 1,
+      "row": "C",
+      "position": 1,
+      "D": "F#4",
+      "Z": "G#4"
+    },
+    {
+      "button": 2,
+      "row": "C",
+      "position": 2,
+      "D": "G3",
+      "Z": "B3"
+    },
+    {
+      "button": 3,
+      "row": "C",
+      "position": 3,
+      "D": "C4",
+      "Z": "D4"
+    },
+    {
+      "button": 4,
+      "row": "C",
+      "position": 4,
+      "D": "E4",
+      "Z": "F4"
+    },
+    {
+      "button": 5,
+      "row": "C",
+      "position": 5,
+      "D": "G4",
+      "Z": "A4"
+    },
+    {
+      "button": 6,
+      "row": "C",
+      "position": 6,
+      "D": "C5",
+      "Z": "B4"
+    },
+    {
+      "button": 7,
+      "row": "C",
+      "position": 7,
+      "D": "E5",
+      "Z": "D5"
+    },
+    {
+      "button": 8,
+      "row": "C",
+      "position": 8,
+      "D": "G5",
+      "Z": "F5"
+    },
+    {
+      "button": 9,
+      "row": "C",
+      "position": 9,
+      "D": "C6",
+      "Z": "A5"
+    },
+    {
+      "button": 10,
+      "row": "C",
+      "position": 10,
+      "D": "E6",
+      "Z": "B5"
+    },
+    {
+      "button": 11,
+      "row": "C",
+      "position": 11,
+      "D": "G6",
+      "Z": "D6"
+    },
+    {
+      "button": 12,
+      "row": "F",
+      "position": 1,
+      "D": "Eb5",
+      "Z": "Db5"
+    },
+    {
+      "button": 13,
+      "row": "F",
+      "position": 2,
+      "D": "C4",
+      "Z": "E4"
+    },
+    {
+      "button": 14,
+      "row": "F",
+      "position": 3,
+      "D": "F4",
+      "Z": "G4"
+    },
+    {
+      "button": 15,
+      "row": "F",
+      "position": 4,
+      "D": "A4",
+      "Z": "Bb4"
+    },
+    {
+      "button": 16,
+      "row": "F",
+      "position": 5,
+      "D": "C5",
+      "Z": "D5"
+    },
+    {
+      "button": 17,
+      "row": "F",
+      "position": 6,
+      "D": "F5",
+      "Z": "E5"
+    },
+    {
+      "button": 18,
+      "row": "F",
+      "position": 7,
+      "D": "A5",
+      "Z": "G5"
+    },
+    {
+      "button": 19,
+      "row": "F",
+      "position": 8,
+      "D": "C6",
+      "Z": "Bb5"
+    },
+    {
+      "button": 20,
+      "row": "F",
+      "position": 9,
+      "D": "F6",
+      "Z": "D6"
+    },
+    {
+      "button": 21,
+      "row": "F",
+      "position": 10,
+      "D": "A6",
+      "Z": "E6"
+    }
+  ],
+  "bass": [
+    {
+      "button": "L1",
+      "kind": "chord",
+      "D": "C",
+      "Z": "G",
+      "diagram_row": 1,
+      "diagram_column": 1
+    },
+    {
+      "button": "L2",
+      "kind": "bass",
+      "D": "C",
+      "Z": "G",
+      "diagram_row": 1,
+      "diagram_column": 2
+    },
+    {
+      "button": "L3",
+      "kind": "chord",
+      "D": "F",
+      "Z": "C",
+      "diagram_row": 1,
+      "diagram_column": 3
+    },
+    {
+      "button": "L4",
+      "kind": "bass",
+      "D": "F",
+      "Z": "C",
+      "diagram_row": 1,
+      "diagram_column": 4
+    },
+    {
+      "button": "L5",
+      "kind": "chord",
+      "D": "A",
+      "Z": "Dm",
+      "diagram_row": 2,
+      "diagram_column": 1
+    },
+    {
+      "button": "L6",
+      "kind": "bass",
+      "D": "A",
+      "Z": "D",
+      "diagram_row": 2,
+      "diagram_column": 2
+    },
+    {
+      "button": "L7",
+      "kind": "chord",
+      "D": "Bb",
+      "Z": "Bb",
+      "diagram_row": 2,
+      "diagram_column": 3
+    },
+    {
+      "button": "L8",
+      "kind": "bass",
+      "D": "Bb",
+      "Z": "Bb",
+      "diagram_row": 2,
+      "diagram_column": 4
+    }
+  ],
+  "bass_register_note": "Bass octaves and chord voicings are not specified in the reference. Printed bass staves use schematic reading registers."
+}

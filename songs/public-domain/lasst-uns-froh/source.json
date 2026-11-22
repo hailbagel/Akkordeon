@@ -1,0 +1,380 @@
+{
+  "id": "lasst-uns-froh",
+  "title": "Lasst uns froh und munter sein",
+  "composer": "Traditional; author unconfirmed",
+  "lyricist": "Traditional; author unconfirmed",
+  "key": "C",
+  "meter": "4/4",
+  "tempo_bpm": 76,
+  "pickup_quarters": 0,
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        },
+        {
+          "offset": 2,
+          "chord": "C"
+        },
+        {
+          "offset": 3,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        },
+        {
+          "offset": 2,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        },
+        {
+          "offset": 2,
+          "chord": "C"
+        },
+        {
+          "offset": 3,
+          "chord": "F"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "C4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        },
+        {
+          "offset": 2,
+          "chord": "C"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://wiki.jurtenland.eu/wiki/Lasst_uns_froh_und_munter_sein",
+    "https://www.kinder-wollen-singen.de/lieder/lasst-uns-froh-und-munter-sein/"
+  ],
+  "rights_evidence_urls": [
+    "https://wiki.jurtenland.eu/wiki/Lasst_uns_froh_und_munter_sein",
+    "https://www.kinder-wollen-singen.de/lieder/lasst-uns-froh-und-munter-sein/"
+  ],
+  "source_note": "Complete 10-bar monophonic melody transcribed from Ebersberger/Jurtenland LilyPond in C, including the repeated closing phrase and its different final note. Anonymous attribution used because the older Josef Annegarn attribution is not secure. No copied accompaniment.",
+  "difficulty": 1,
+  "practice_notes_de": [
+    "Die kurzen Pausen bewusst zum Entspannen und Luftholen nutzen.",
+    "Die ähnliche Schlusszeile zweimal üben: erst Ende auf G, dann Ende auf C.",
+    "Zuerst Melodie allein; anschließend Grundbass auf den Taktanfang setzen."
+  ],
+  "harmony_note": "Functional chord stream transcribed from the linked LilyPond/ABC source. It is not yet a mechanically playable bass part: reduce or omit unsupported triads and direction conflicts for the 8-bass Corso.",
+  "rights_status": "Traditional/public-domain melody; new machine-readable transcription; no lyrics or recorded audio copied.",
+  "rights_note": "Jurtenland/Ebersberger source explicitly labels melody and lyrics as public domain and its notation freely copyable. Kinder wollen singen supplies historical composer/source information and publishes its new notation as CC0. Only the traditional melody and simple harmonic functions are represented here; no modern rendered edition is redistributed."
+}

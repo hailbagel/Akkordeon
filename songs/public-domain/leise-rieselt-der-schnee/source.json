@@ -1,0 +1,231 @@
+{
+  "id": "leise-rieselt-der-schnee",
+  "title": "Leise rieselt der Schnee",
+  "key": "G",
+  "meter": "6/8",
+  "pickup_quarters": 0,
+  "tempo_bpm": 72,
+  "difficulty": 2,
+  "composer": "Eduard Ebel (1839–1905), zugeschrieben",
+  "lyricist": "Eduard Ebel (1839–1905)",
+  "practice_notes_de": [
+    "Die langen Endtöne vollständig halten; sie geben Zeit für ruhige Balgführung.",
+    "Im 6/8-Takt zwei Dreiergruppen fühlen.",
+    "Takt 7 mit punktierter Achtel und Sechzehntel zunächst separat langsam üben."
+  ],
+  "source_note": "Melodie und Rhythmus aus der alten ausdrücklich frei weiterverwendbaren LilyPond- und MuseScore-Datei in G-Dur gelesen; zusätzlich mit dem neueren Notenbild abgeglichen. Verwendet wird die dort notierte rein diatonische Variante: in Takt 5 G natürlich statt des in anderen Fassungen üblichen G-sharp/Gis. Die langen Phrasenenden dauern jeweils einen ganzen 6/8-Takt. Diese konkrete Variante ist für die diatonische Harmonika günstiger; spätere Transposition nach C oder F ändert die Intervalle nicht. Die Todesjahresangabe 1902 in der alten Quelldatei ist fehlerhaft; korrekt ist 1905 gemäß Liedseite. Melodie und Text gemeinfrei. Harmonieereignisse dokumentieren die alte Quelldatei.",
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        },
+        {
+          "offset": 1.5,
+          "chord": "D7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 3.0
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 3.0
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "D7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "D7"
+        },
+        {
+          "offset": 1.5,
+          "chord": "B7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 3.0
+        }
+      ],
+      "chord": "Em",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Em"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1.5,
+          "chord": "D7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 3.0
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/leise-rieselt-der-schnee/",
+    "https://www.kinder-wollen-singen.de/song/sources/leise-rieselt-der-schnee-leiserieseltderschnee_0.mscz",
+    "https://www.kinder-wollen-singen.de/song/sources/leise-rieselt-der-schnee-leiserieseltderschnee_0.ly"
+  ],
+  "rights_evidence_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/leise-rieselt-der-schnee/"
+  ]
+}

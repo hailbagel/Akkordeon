@@ -1,0 +1,1356 @@
+{
+  "id": "ihr-kinderlein-kommet",
+  "title": "Ihr Kinderlein kommet",
+  "key": "F",
+  "source_key": "C",
+  "transposition_semitones": 5,
+  "meter": "2/4",
+  "tempo_bpm": 80,
+  "practice_tempo_bpm": 66,
+  "difficulty": 2,
+  "learning_order": 4,
+  "pickup_quarters": 0.5,
+  "total_quarters": 32.0,
+  "measures": [
+    {
+      "number": 0,
+      "start": 0.0,
+      "duration": 0.5,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m0-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 0.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": []
+    },
+    {
+      "number": 1,
+      "start": 0.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m1-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 0.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m1-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 1.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m1-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 2.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 0.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 1.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": 2.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m2-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 2.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m2-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 3.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m2-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 4.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 2.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 3.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": 4.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m3-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 4.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m3-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 5.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m3-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 6.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "G7"
+        }
+      ],
+      "bass": [
+        {
+          "start": 4.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 5.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": 6.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m4-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 6.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m4-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 7.5,
+          "button": null,
+          "row": null,
+          "dir": null
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m4-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 8.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 6.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": 8.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m5-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 8.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m5-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 9.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m5-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 10.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 8.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 9.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": 10.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m6-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 10.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m6-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 11.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m6-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 12.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 10.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 11.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": 12.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m7-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 12.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m7-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 13.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m7-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 14.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "G7"
+        }
+      ],
+      "bass": [
+        {
+          "start": 12.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 13.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": 14.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m8-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 14.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m8-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 15.5,
+          "button": null,
+          "row": null,
+          "dir": null
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m8-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 16.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 14.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": 16.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m9-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 16.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m9-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 17.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m9-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 18.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 16.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 17.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": 18.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m10-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 18.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m10-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 19.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m10-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 20.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "G7"
+        }
+      ],
+      "bass": [
+        {
+          "start": 18.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 19.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": 20.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m11-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 20.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m11-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 21.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m11-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 22.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 20.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 21.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": 22.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m12-e0",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 22.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m12-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 23.5,
+          "button": null,
+          "row": null,
+          "dir": null
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m12-e2",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 24.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "F"
+        }
+      ],
+      "bass": [
+        {
+          "start": 22.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "start": 24.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m13-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 24.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m13-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 25.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m13-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 26.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 24.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 25.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "start": 26.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m14-e0",
+          "pitch": "F5",
+          "midi": 77,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 26.5,
+          "button": 17,
+          "row": "F",
+          "position": 6,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m14-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 27.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m14-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 28.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 26.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 27.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "start": 28.5,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m15-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 28.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m15-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 29.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "ihr-kinderlein-kommet-m15-e2",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 30.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "G7"
+        }
+      ],
+      "bass": [
+        {
+          "start": 28.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 29.5,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "start": 30.5,
+      "duration": 1.5,
+      "events": [
+        {
+          "id": "ihr-kinderlein-kommet-m16-e0",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 30.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 30.5,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 31.5,
+          "offset": 1.0,
+          "duration": 0.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    }
+  ],
+  "practice_notes_de": [
+    "Der Auftakt ist nur eine Achtelnote: gedanklich 1 und 2 zählen, dann auf und beginnen.",
+    "Die ersten vier Takte kommen nahezu unverändert ein zweites Mal.",
+    "Die letzten drei Takte langsam üben: den tiefen Leitton unmittelbar vor dem Schlusston gesondert suchen."
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/ihr-kinderlein-kommet/",
+    "https://www.kinder-wollen-singen.de/song/sources/ihr-kinderlein-kommet-de_0.mscz",
+    "https://liederprojekt.org/medien/Lieddokumente/39141_Ihr_Kinderlein_kommet.pdf"
+  ],
+  "composer": "Johann Abraham Peter Schulz (1747–1800)",
+  "adaptations": [],
+  "bellows_reversals": 10,
+  "bass_pulses": 29,
+  "bass_pulses_omitted": 3,
+  "range": [
+    "E4",
+    "F5"
+  ],
+  "score_path": "../songs/public-domain/ihr-kinderlein-kommet/score.pdf",
+  "page_count": 1
+}

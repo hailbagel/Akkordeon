@@ -1,0 +1,375 @@
+{
+  "id": "suesser-die-glocken",
+  "title": "Süßer die Glocken nie klingen",
+  "composer": "Traditional Thuringian melody documented in the nineteenth century",
+  "lyricist": "Friedrich Wilhelm Kritzinger (1816-1890)",
+  "key": "F",
+  "meter": "6/8",
+  "tempo_bpm": 60,
+  "pickup_quarters": 0,
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 1.0
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 2.5
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.25
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F5",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 1.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.25
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 2.5
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F5",
+          "duration": 1.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 1.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.25
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "Bb4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 2.5
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://de.wikipedia.org/wiki/S%C3%BC%C3%9Fer_die_Glocken_nie_klingen",
+    "https://www.kinder-wollen-singen.de/lieder/suesser-die-glocken-nie-klingen/",
+    "https://de.wikisource.org/wiki/S%C3%BC%C3%9Fer_die_Glocken_nie_klingen"
+  ],
+  "rights_evidence_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/suesser-die-glocken-nie-klingen/",
+    "https://de.wikisource.org/wiki/S%C3%BC%C3%9Fer_die_Glocken_nie_klingen"
+  ],
+  "source_note": "Complete 16-bar soprano melody from the displayed LilyPond score; middle two-bar phrase repeated explicitly. Original F major retained. Only the traditional melody is transcribed, not the displayed choral arrangement. Dotted-quarter tied to quarter is represented as one sounding event of duration 2.5 quarter units, followed by an eighth rest. Engrave that duration with a tie.",
+  "difficulty": 3,
+  "practice_notes_de": [
+    "In zwei großen Schlägen pro Takt denken: eins-zwei-drei, vier-fünf-sechs.",
+    "Punktierte Achtel und Sechzehntel zuerst klopfen.",
+    "Die zwei mittleren Takte werden zweimal gespielt; hohe Töne langsam vorbereiten."
+  ],
+  "harmony_note": "No source chord stream supplied. The collection adds a new, simple accompaniment matched to the actual C/F instrument and bellows direction.",
+  "rights_status": "Traditional/public-domain melody; new machine-readable transcription; no lyrics or recorded audio copied.",
+  "rights_note": "Historical nineteenth-century melody and Kritzinger text are documented in Wikisource and Kinder wollen singen. Only the monophonic traditional soprano line is transcribed; the modern displayed choral voices are not copied."
+}

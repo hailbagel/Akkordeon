@@ -1,0 +1,591 @@
+{
+  "id": "jingle-bells",
+  "title": "Jingle Bells",
+  "composer": "James Lord Pierpont (1822–1893)",
+  "lyricist": "James Lord Pierpont (1822–1893)",
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/song/sources/jingle-bells-jinglebells.ly",
+    "https://www.kinder-wollen-singen.de/song/sources/jingle-bells-jinglebells.mscz",
+    "https://commons.wikimedia.org/wiki/File:Jingle_Bells_refrain_vector.svg"
+  ],
+  "rights_evidence_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/jingle-bells/",
+    "https://www.gutenberg.org/ebooks/10535",
+    "https://commons.wikimedia.org/wiki/File:Jingle_Bells_refrain_vector.svg"
+  ],
+  "source_note": "Complete verse and refrain, 32 bars, read directly from the 2010 MuseScore-generated LilyPond source AvoiceAA (G major, 2/4). The source itself expressly marks its notation gemeinfrei / unrestricted reuse; publisher page repeats that the old LilyPond and MuseScore files are public domain. Refrain pitches independently checked against the public-domain Commons LilyPond soprano; both use the familiar tune. The new 2026 PDF was rejected because it differs from the older melodic source. No lyrics or copied page images included. Simple G/C/D chord labels are newly chosen learning harmonies, not transcribed accompaniment; confirm bellows compatibility separately.",
+  "key": "G",
+  "meter": "2/4",
+  "tempo_bpm": 72,
+  "pickup_quarters": 0,
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.25
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F#4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.25
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.25
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D5",
+          "duration": 1.0
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.75
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "B4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.75
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.25
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.25
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C5",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "D"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "G"
+    }
+  ],
+  "difficulty": 3,
+  "practice_notes_de": [
+    "Beginne mit dem Refrain ab Takt 17: Die wiederholten Töne geben schnell Sicherheit.",
+    "Bei punktierten Achteln und Sechzehnteln sehr langsam zählen; erst dann das Tempo erhöhen.",
+    "Lerne die Strophe in Vier-Takt-Gruppen. Begleitung erst hinzufügen, wenn die Melodie und Balgwechsel sitzen."
+  ],
+  "sections": [
+    {
+      "start_measure_index": 0,
+      "title": "A – Strophe"
+    },
+    {
+      "start_measure_index": 16,
+      "title": "B – Refrain"
+    }
+  ]
+}

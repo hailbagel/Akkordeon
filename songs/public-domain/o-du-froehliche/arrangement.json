@@ -1,0 +1,1981 @@
+{
+  "id": "o-du-froehliche",
+  "title": "O du fröhliche",
+  "key": "C",
+  "source_key": "C",
+  "transposition_semitones": 0,
+  "meter": "4/4",
+  "tempo_bpm": 84,
+  "practice_tempo_bpm": 66,
+  "difficulty": 2,
+  "learning_order": 10,
+  "pickup_quarters": 0,
+  "total_quarters": 64.0,
+  "measures": [
+    {
+      "number": 1,
+      "start": 0.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m0-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 0.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m0-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 2.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "F",
+          "source_chord": "F"
+        }
+      ],
+      "bass": [
+        {
+          "start": 0.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 1.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 2.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 3.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": 4.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m1-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 4.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m1-e1",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 5.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m1-e2",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 6.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m1-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 7.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 4.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 5.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 6.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 7.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": 8.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m2-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 8.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m2-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 10.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "F",
+          "source_chord": "F"
+        }
+      ],
+      "bass": [
+        {
+          "start": 8.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 9.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 10.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 11.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": 12.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m3-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 12.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m3-e1",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 13.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m3-e2",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 14.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m3-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 15.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 12.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 13.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 14.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 15.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": 16.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m4-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 16.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m4-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 18.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "G",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 16.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 17.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 18.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 19.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": 20.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m5-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 20.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m5-e1",
+          "pitch": "B4",
+          "midi": 71,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 22.0,
+          "button": 6,
+          "row": "C",
+          "position": 6,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m5-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 23.0,
+          "button": 6,
+          "row": "C",
+          "position": 6,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "D"
+        },
+        {
+          "offset": 2.0,
+          "chord": "G",
+          "source_chord": "G"
+        },
+        {
+          "offset": 3.0,
+          "chord": "C",
+          "source_chord": "D7"
+        }
+      ],
+      "bass": [
+        {
+          "start": 20.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 21.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        },
+        {
+          "start": 22.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 23.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": 24.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m6-e0",
+          "pitch": "B4",
+          "midi": 71,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 24.0,
+          "button": 6,
+          "row": "C",
+          "position": 6,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m6-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 26.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "G",
+          "source_chord": "G"
+        },
+        {
+          "offset": 2.0,
+          "chord": "F",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 24.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 25.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        },
+        {
+          "start": 26.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 27.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": 28.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m7-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 3.0,
+          "offset": 0.0,
+          "start": 28.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m7-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 31.0,
+          "button": null,
+          "row": null,
+          "dir": null
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "G",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 28.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 29.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        },
+        {
+          "start": 30.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": 32.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m8-e0",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 32.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m8-e1",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 33.5,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m8-e2",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 34.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m8-e3",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 35.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "G",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 32.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 33.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        },
+        {
+          "start": 34.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 35.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": 36.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m9-e0",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 36.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m9-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 37.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m9-e2",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 38.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "G",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 36.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 37.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        },
+        {
+          "start": 38.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 39.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": 40.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m10-e0",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 40.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m10-e1",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 41.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m10-e2",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 42.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m10-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 43.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 40.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 41.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 42.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 43.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": 44.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m11-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 44.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m11-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 45.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m11-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 46.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 44.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 45.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 46.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 47.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "start": 48.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m12-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 48.0,
+          "button": 6,
+          "row": "C",
+          "position": 6,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m12-e1",
+          "pitch": "B4",
+          "midi": 71,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 49.0,
+          "button": 6,
+          "row": "C",
+          "position": 6,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m12-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 50.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m12-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 51.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        },
+        {
+          "offset": 1.0,
+          "chord": "G",
+          "source_chord": "G"
+        },
+        {
+          "offset": 2.0,
+          "chord": "F",
+          "source_chord": "F"
+        },
+        {
+          "offset": 3.0,
+          "chord": "C",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 48.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 49.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        },
+        {
+          "start": 50.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 51.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "start": 52.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m13-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 52.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m13-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 53.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m13-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.0,
+          "offset": 2.0,
+          "start": 54.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m13-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 55.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "F"
+        },
+        {
+          "offset": 2.0,
+          "chord": "C",
+          "source_chord": "C"
+        },
+        {
+          "offset": 3.0,
+          "chord": "Dm",
+          "source_chord": "Dm"
+        }
+      ],
+      "bass": [
+        {
+          "start": 52.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 53.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        },
+        {
+          "start": 54.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 55.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L5",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Dm",
+          "pitches": [
+            "D3",
+            "F3",
+            "A3"
+          ],
+          "midis": [
+            50,
+            53,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "start": 56.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m14-e0",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 56.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "Z"
+        },
+        {
+          "id": "o-du-froehliche-m14-e1",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 2.0,
+          "offset": 2.0,
+          "start": 58.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "G",
+          "source_chord": "G7"
+        }
+      ],
+      "bass": [
+        {
+          "start": 56.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 57.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 58.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "G",
+          "pitches": [
+            "G2"
+          ],
+          "midis": [
+            43
+          ]
+        },
+        {
+          "start": 59.0,
+          "offset": 3.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "G",
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "midis": [
+            43,
+            47,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "start": 60.0,
+      "duration": 4.0,
+      "events": [
+        {
+          "id": "o-du-froehliche-m15-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 3.0,
+          "offset": 0.0,
+          "start": 60.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "o-du-froehliche-m15-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 1.0,
+          "offset": 3.0,
+          "start": 63.0,
+          "button": null,
+          "row": null,
+          "dir": null
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 60.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 61.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "start": 62.0,
+          "offset": 2.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        }
+      ]
+    }
+  ],
+  "practice_notes_de": [
+    "Die halben Noten zwei Schläge lang halten.",
+    "Die beiden Eröffnungsphrasen identisch lernen; ab Takt 9 beginnt der Mittelteil.",
+    "Die Schlussphrase in den Takten 13–16 zuerst ohne Bass üben."
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/o-du-froehliche/",
+    "https://www.kinder-wollen-singen.de/song/sources/o-du-froehliche-odufroehliche.mscz",
+    "https://www.liederprojekt.org/medien/Lieddokumente/31675_O_du_Froehliche.pdf"
+  ],
+  "composer": "Traditionell: O sanctissima (Drucknachweis 1792)",
+  "adaptations": [
+    {
+      "measure": 5,
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "measure": 5,
+      "from": "D",
+      "to": "C"
+    },
+    {
+      "measure": 6,
+      "from": "D",
+      "to": "F"
+    }
+  ],
+  "bellows_reversals": 12,
+  "bass_pulses": 62,
+  "bass_pulses_omitted": 2,
+  "range": [
+    "C4",
+    "C5"
+  ],
+  "score_path": "../songs/public-domain/o-du-froehliche/score.pdf",
+  "page_count": 1
+}

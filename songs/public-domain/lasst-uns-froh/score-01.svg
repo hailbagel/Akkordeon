@@ -1,0 +1,2880 @@
+<svg width="720px" height="1019px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="fkl5v5d">
+   <desc>Engraved by Verovio 6.4.1-fbe8f46</desc>
+   <defs>
+      <g id="E050-fkl5v5d">
+         <path transform="scale(1,-1)" d="M376 415l25 -145c3 -18 3 -18 29 -18c147 0 241 -113 241 -241c0 -113 -67 -198 -168 -238c-14 -6 -15 -5 -13 -17c11 -62 29 -157 29 -214c0 -170 -130 -200 -197 -200c-151 0 -190 98 -190 163c0 62 40 115 107 115c61 0 96 -47 96 -102c0 -58 -36 -85 -67 -94 c-23 -7 -32 -10 -32 -17c0 -13 26 -29 80 -29c59 0 159 18 159 166c0 47 -15 134 -27 201c-2 12 -4 11 -15 9c-20 -4 -46 -6 -69 -6c-245 0 -364 165 -364 339c0 202 153 345 297 464c12 10 11 12 9 24c-7 41 -14 106 -14 164c0 104 24 229 98 311c20 22 51 48 65 48 c11 0 37 -28 52 -50c41 -60 65 -146 65 -233c0 -153 -82 -280 -190 -381c-6 -6 -8 -7 -6 -19zM470 943c-61 0 -133 -96 -133 -252c0 -32 2 -66 6 -92c2 -13 6 -14 13 -8c79 69 174 159 174 270c0 55 -27 82 -60 82zM361 262l-21 128c-2 11 -4 12 -14 4 c-47 -38 -93 -75 -153 -142c-83 -94 -93 -173 -93 -232c0 -139 113 -236 288 -236c20 0 40 2 56 5c15 3 16 3 14 14l-50 298c-2 11 -4 12 -20 8c-61 -17 -100 -60 -100 -117c0 -46 30 -89 72 -107c7 -3 15 -6 15 -13c0 -6 -4 -11 -12 -11c-7 0 -19 3 -27 6 c-68 23 -115 87 -115 177c0 85 57 164 145 194c18 6 18 5 15 24zM430 103l49 -285c2 -12 4 -12 16 -6c56 28 94 79 94 142c0 88 -67 156 -148 163c-12 1 -13 -2 -11 -14z" />
+      </g>
+      <g id="E084-fkl5v5d">
+         <path transform="scale(1,-1)" d="M362 -74h73c11 0 15 -7 15 -19s-5 -19 -15 -19h-73v-59c0 -32 21 -38 31 -38s22 -6 22 -20s-10 -21 -20 -21h-213c-15 0 -19 11 -19 21s7 19 23 19c18 0 40 8 40 35v63h-186c-12 0 -20 7 -20 17c0 3 1 7 3 12l1 1v1l6 8c30 42 128 181 128 305c0 16 14 19 23 19 c8 0 53 -2 71 -2s59 2 68 2c8 0 15 -6 15 -15l-1 -3c-3 -12 -163 -239 -243 -307h135v84c0 12 5 18 9 23l95 115c6 7 11 9 20 9c11 0 12 -9 12 -17v-214z" />
+      </g>
+      <g id="E0A4-fkl5v5d">
+         <path transform="scale(1,-1)" d="M97 -125c-54 0 -97 31 -97 83c0 86 88 167 198 167c57 0 97 -32 97 -83c0 -85 -109 -167 -198 -167z" />
+      </g>
+      <g id="E062-fkl5v5d">
+         <path transform="scale(1,-1)" d="M252 262c173 0 279 -116 279 -290c0 -304 -260 -482 -506 -602c-6 -3 -12 -5 -17 -5c-9 0 -13 6 -13 12c0 8 6 13 15 18c233 133 371 289 371 568c0 157 -46 261 -152 261c-102 0 -162 -73 -162 -113c0 -10 3 -18 16 -18s23 7 50 7c49 0 96 -40 96 -104 c0 -62 -43 -106 -106 -106c-81 0 -123 69 -123 149c0 96 78 223 252 223zM629 180c31 0 55 -24 55 -55s-24 -55 -55 -55s-55 24 -55 55s24 55 55 55zM630 -71c31 0 54 -23 54 -54s-23 -54 -54 -54s-54 23 -54 54s23 54 54 54z" />
+      </g>
+      <g id="E4E5-fkl5v5d">
+         <path transform="scale(1,-1)" d="M78 -38l-49 60s-10 10 -10 24c0 8 4 19 14 29c45 47 60 90 60 127c0 72 -57 123 -61 134c-3 6 -4 11 -4 16c0 14 10 21 20 21c6 0 13 -3 18 -8c17 -17 165 -193 165 -193s4 -9 4 -19c0 -5 -1 -10 -4 -15c-26 -41 -62 -89 -66 -147v-3l-1 -7v-3c0 -56 31 -93 69 -139 c11 -12 37 -45 37 -57c0 -3 -2 -4 -5 -4c-2 0 -4 0 -8 1l-1 1c-17 6 -50 17 -79 17c-42 0 -63 -32 -63 -73c0 -9 1 -18 4 -26c2 -9 13 -36 26 -36c8 -7 16 -15 16 -24c0 -2 -1 -4 -2 -7c-1 -4 -8 -6 -15 -6c-8 0 -18 3 -26 9c-73 56 -116 105 -116 155c0 49 34 96 86 96 l8 -3h4c4 -1 12 -3 16 -3c5 0 9 1 11 5c1 1 1 3 1 4c0 2 -4 10 -6 14c-13 21 -27 40 -43 60z" />
+      </g>
+   </defs>
+   <style type="text/css">#fkl5v5d g.ending, #fkl5v5d g.fing, #fkl5v5d g.reh, #fkl5v5d g.tempo {font-weight:bold;}#fkl5v5d g.dir, #fkl5v5d g.dynam, #fkl5v5d g.mNum {font-style:italic;}#fkl5v5d g.label {font-weight:normal;}#fkl5v5d ellipse, #fkl5v5d path, #fkl5v5d polygon, #fkl5v5d polyline, #fkl5v5d rect {stroke:currentColor}#fkl5v5d g.cursor {fill:dodgerblue; color:dodgerblue;}#fkl5v5d g.cursor.chord {fill:limegreen; color:limegreen;}#fkl5v5d g.placeholder {visibility:hidden}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 18000 25460">
+      <g class="page-margin" transform="translate(1100, 3200)">
+         <g id="g1ihrq03" class="mdiv pageMilestone" />
+         <g id="hibfz1z" class="score pageMilestone" />
+         <g id="jaguqiq" class="system">
+            <path d="M13 630 L13 3482" stroke-width="27" />
+            <g id="cmdx2ad" class="grpSym">
+               <path d="M-72,3464 C-432,2924 18,2236 -252,2056 C81,2236 -369,2924 -72,3464" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,648 C-369,1188 81,1876 -252,2056 C18,1876 -432,1188 -72,648" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="f10j6emy" class="section placeholder systemMilestone">
+               <ellipse cx="0" cy="0" rx="90" ry="90" />
+            </g>
+            <g id="lasst-uns-froh-measure-0" class="measure">
+               <g id="p11l9k5d" class="staff">
+                  <path d="M0 630 L6795 630" stroke-width="13" />
+                  <path d="M0 810 L6795 810" stroke-width="13" />
+                  <path d="M0 990 L6795 990" stroke-width="13" />
+                  <path d="M0 1170 L6795 1170" stroke-width="13" />
+                  <path d="M0 1350 L6795 1350" stroke-width="13" />
+                  <g id="p1pqglzc" class="clef">
+                     <use xlink:href="#E050-fkl5v5d" transform="translate(120, 1170) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="q13bbybe" class="keySig" />
+                  <g id="rrahk79" class="meterSig">
+                     <use xlink:href="#E084-fkl5v5d" transform="translate(779, 810) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-fkl5v5d" transform="translate(779, 1170) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="qnvng3s" class="layer">
+                     <g id="lasst-uns-froh-m0-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(1398, 1170) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="n1dj6q3c" class="stem">
+                           <path d="M1601 1140 L1601 540" stroke-width="18" />
+                        </g>
+                        <g id="s1mwdlz8" class="accid" />
+                        <g id="t4uz53x" class="verse">
+                           <g id="u8ols8d" class="syl">
+                              <text x="1302" y="1950" font-size="0px">
+                                 <tspan id="v1y8e6c1" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="w50c2b9" class="verse">
+                           <g id="x1jimt50" class="syl">
+                              <text x="1302" y="2374" font-size="0px">
+                                 <tspan id="y1k1g4k0" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m0-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(2466, 1170) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="o1gxw6g7" class="stem">
+                           <path d="M2669 1140 L2669 540" stroke-width="18" />
+                        </g>
+                        <g id="a1896kqo" class="accid" />
+                        <g id="b1p8tycb" class="verse">
+                           <g id="cawtiw" class="syl">
+                              <text x="2370" y="1950" font-size="0px">
+                                 <tspan id="d1bx6caz" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="e2jk5pb" class="verse">
+                           <g id="fsexdwq" class="syl">
+                              <text x="2370" y="2374" font-size="0px">
+                                 <tspan id="g3vtrzu" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="h1dpbrsp" class="beam">
+                        <polygon points="3728,540 4424,450 4424,540 3728,630" />
+                        <g id="lasst-uns-froh-m0-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(3534, 1170) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="p14t5c31" class="stem">
+                              <path d="M3737 1140 L3737 558" stroke-width="18" />
+                           </g>
+                           <g id="juj8fbb" class="accid" />
+                           <g id="kzeof03" class="verse">
+                              <g id="lzqlwia" class="syl">
+                                 <text x="3354" y="1950" font-size="0px">
+                                    <tspan id="m7mtm49" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="nzppp1a" class="verse">
+                              <g id="o26ywa9" class="syl">
+                                 <text x="3358" y="2374" font-size="0px">
+                                    <tspan id="p2q1n66" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m0-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(4212, 1080) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="qmrcv7l" class="stem">
+                              <path d="M4415 1050 L4415 468" stroke-width="18" />
+                           </g>
+                           <g id="r1ar2n0l" class="accid" />
+                           <g id="s1gam7e9" class="verse">
+                              <g id="t1236zgd" class="syl">
+                                 <text x="4116" y="1950" font-size="0px">
+                                    <tspan id="uqekbvy" class="text">
+                                       <tspan font-size="432px">15D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="v1k1xmcx" class="verse">
+                              <g id="wwgn9es" class="syl">
+                                 <text x="4116" y="2374" font-size="0px">
+                                    <tspan id="x1krbnfd" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="y4vyjyb" class="beam">
+                        <polygon points="5419,540 6202,630 6202,720 5419,630" />
+                        <g id="lasst-uns-froh-m0-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(5225, 1170) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="r15wqfk5" class="stem">
+                              <path d="M5428 1140 L5428 558" stroke-width="18" />
+                           </g>
+                           <g id="a1nrmmsq" class="accid" />
+                           <g id="blkvsxo" class="verse">
+                              <g id="ci26v17" class="syl">
+                                 <text x="5129" y="1950" font-size="0px">
+                                    <tspan id="d1232zs8" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="emeystx" class="verse">
+                              <g id="fcp6yip" class="syl">
+                                 <text x="5125" y="2374" font-size="0px">
+                                    <tspan id="gmkyqlk" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m0-e5-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(5990, 1260) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="s18rc5x4" class="stem">
+                              <path d="M6193 1230 L6193 648" stroke-width="18" />
+                           </g>
+                           <g id="ipm17ug" class="accid" />
+                           <g id="jbuq1sh" class="verse">
+                              <g id="k1lrqeyk" class="syl">
+                                 <text x="5894" y="1950" font-size="0px">
+                                    <tspan id="lbxam8s" class="text">
+                                       <tspan font-size="432px">14D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="mzu852a" class="verse">
+                              <g id="n1tz8lid" class="syl">
+                                 <text x="5894" y="2374" font-size="0px">
+                                    <tspan id="o3ac7m0" class="text">
+                                       <tspan font-size="432px">F4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="pjlx84r" class="staff">
+                  <path d="M0 2762 L6795 2762" stroke-width="13" />
+                  <path d="M0 2942 L6795 2942" stroke-width="13" />
+                  <path d="M0 3122 L6795 3122" stroke-width="13" />
+                  <path d="M0 3302 L6795 3302" stroke-width="13" />
+                  <path d="M0 3482 L6795 3482" stroke-width="13" />
+                  <g id="sx47des" class="clef">
+                     <use xlink:href="#E062-fkl5v5d" transform="translate(120, 2942) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="tg2c46v" class="keySig" />
+                  <g id="u12d7znd" class="meterSig">
+                     <use xlink:href="#E084-fkl5v5d" transform="translate(779, 2942) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-fkl5v5d" transform="translate(779, 3302) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="q1mq8kk2" class="layer">
+                     <g id="lasst-uns-froh-b0-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(1398, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="t70r43m" class="stem">
+                           <path d="M1601 3182 L1601 2582" stroke-width="18" />
+                        </g>
+                        <g id="sydh3rx" class="accid" />
+                        <g id="tkweei" class="verse">
+                           <g id="u1y48x3j" class="syl">
+                              <text x="1302" y="4121" font-size="0px">
+                                 <tspan id="voqac0z" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="w154yn5y" class="verse">
+                           <g id="x1ckpmvr" class="syl">
+                              <text x="1302" y="4545" font-size="0px">
+                                 <tspan id="ylo9whl" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="ztnpvrn" class="chord">
+                        <g id="u10iqzif" class="stem">
+                           <path d="M2475 2882 L2475 3782" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b0-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(2466, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="bjv8wyr" class="accid" />
+                           <g id="c1vebw5j" class="verse">
+                              <g id="d1x68vn7" class="syl">
+                                 <text x="2370" y="4121" font-size="0px">
+                                    <tspan id="e5x0ezt" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="fggq1rr" class="verse">
+                              <g id="g1p7w08t" class="syl">
+                                 <text x="2370" y="4545" font-size="0px">
+                                    <tspan id="h12d3z5u" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b0-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(2466, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="jzoduay" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b0-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(2466, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="lqga4wt" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b0-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(3534, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="v1si5tka" class="stem">
+                           <path d="M3737 3182 L3737 2582" stroke-width="18" />
+                        </g>
+                        <g id="n1u9j0lm" class="accid" />
+                        <g id="om2vc4k" class="verse">
+                           <g id="pa20xdn" class="syl">
+                              <text x="3438" y="4121" font-size="0px">
+                                 <tspan id="q1qwslxd" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r5hsb7b" class="verse">
+                           <g id="su3vqhb" class="syl">
+                              <text x="3438" y="4545" font-size="0px">
+                                 <tspan id="t1r83vkt" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="u125g62w" class="chord">
+                        <g id="wlkj25m" class="stem">
+                           <path d="M5234 2882 L5234 3782" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b0-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(5225, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="w1emc0k7" class="accid" />
+                           <g id="x11gzjyg" class="verse">
+                              <g id="y6e5a6w" class="syl">
+                                 <text x="5129" y="4121" font-size="0px">
+                                    <tspan id="z10epjhl" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="a12ir2xm" class="verse">
+                              <g id="b105149i" class="syl">
+                                 <text x="5129" y="4545" font-size="0px">
+                                    <tspan id="c6n2dnz" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b0-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(5225, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="e16fxpnr" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b0-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(5225, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="gbfn13u" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="h1ulvl4y" class="harm">
+                  <text x="1398" y="347" font-size="0px">
+                     <tspan id="i45gc1h" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="o4bq2gk" class="barLine">
+                  <path d="M6782 630 L6782 1350" stroke-width="27" />
+                  <path d="M6782 2762 L6782 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-1" class="measure">
+               <g id="sctdwfe" class="staff">
+                  <path d="M6795 630 L10667 630" stroke-width="13" />
+                  <path d="M6795 810 L10667 810" stroke-width="13" />
+                  <path d="M6795 990 L10667 990" stroke-width="13" />
+                  <path d="M6795 1170 L10667 1170" stroke-width="13" />
+                  <path d="M6795 1350 L10667 1350" stroke-width="13" />
+                  <g id="t1rgfj93" class="layer">
+                     <g id="lasst-uns-froh-m1-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(7001, 1350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="x9ft9s1" class="stem">
+                           <path d="M7204 1320 L7204 720" stroke-width="18" />
+                        </g>
+                        <g id="vp1ek7" class="accid" />
+                        <g id="w14nl4t3" class="verse">
+                           <g id="x1t9e76y" class="syl">
+                              <text x="6905" y="1950" font-size="0px">
+                                 <tspan id="yoc3d44" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="zhy8092" class="verse">
+                           <g id="a1jtak8f" class="syl">
+                              <text x="6905" y="2374" font-size="0px">
+                                 <tspan id="b1pxnwk8" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m1-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(7863, 1350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="y1skt4b9" class="stem">
+                           <path d="M8066 1320 L8066 720" stroke-width="18" />
+                        </g>
+                        <g id="d1y9uqwk" class="accid" />
+                        <g id="e19p16w6" class="verse">
+                           <g id="fnlrz2v" class="syl">
+                              <text x="7767" y="1950" font-size="0px">
+                                 <tspan id="gaft5fx" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="h1g3lf7j" class="verse">
+                           <g id="i1abxlpy" class="syl">
+                              <text x="7767" y="2374" font-size="0px">
+                                 <tspan id="j1iv2fk4" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m1-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(8931, 1350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="zz4od45" class="stem">
+                           <path d="M9134 1320 L9134 720" stroke-width="18" />
+                        </g>
+                        <g id="lj3523y" class="accid" />
+                        <g id="mkhg4w0" class="verse">
+                           <g id="n2f1nom" class="syl">
+                              <text x="8835" y="1950" font-size="0px">
+                                 <tspan id="od8mrr4" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="pmbvxdr" class="verse">
+                           <g id="qh9p7u7" class="syl">
+                              <text x="8835" y="2374" font-size="0px">
+                                 <tspan id="rzek4s0" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="sxz62md" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(9792, 990) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="t1beu5zj" class="staff">
+                  <path d="M6795 2762 L10667 2762" stroke-width="13" />
+                  <path d="M6795 2942 L10667 2942" stroke-width="13" />
+                  <path d="M6795 3122 L10667 3122" stroke-width="13" />
+                  <path d="M6795 3302 L10667 3302" stroke-width="13" />
+                  <path d="M6795 3482 L10667 3482" stroke-width="13" />
+                  <g id="us4bvjk" class="layer">
+                     <g id="lasst-uns-froh-b1-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(7001, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="a1jzdcfe" class="stem">
+                           <path d="M7204 3182 L7204 2582" stroke-width="18" />
+                        </g>
+                        <g id="wbbhklv" class="accid" />
+                        <g id="xdt8lgn" class="verse">
+                           <g id="y1ke3l1u" class="syl">
+                              <text x="6725" y="4121" font-size="0px">
+                                 <tspan id="zux5ygx" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="a9jpfoy" class="verse">
+                           <g id="b10pm2ot" class="syl">
+                              <text x="6905" y="4545" font-size="0px">
+                                 <tspan id="colxyyc" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="dtz424a" class="chord">
+                        <g id="b1hyeelr" class="stem">
+                           <path d="M7872 2882 L7872 3782" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b1-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(7863, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="fvt9j3g" class="accid" />
+                           <g id="gttgzko" class="verse">
+                              <g id="h62vje1" class="syl">
+                                 <text x="7767" y="4121" font-size="0px">
+                                    <tspan id="i1d6cxib" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="j9gqny9" class="verse">
+                              <g id="khxrsvg" class="syl">
+                                 <text x="7767" y="4545" font-size="0px">
+                                    <tspan id="l13wbemq" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b1-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(7863, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="n6pcjzb" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b1-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(7863, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="pfg8jy8" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b1-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(8931, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="c1xjx94h" class="stem">
+                           <path d="M9134 3182 L9134 2582" stroke-width="18" />
+                        </g>
+                        <g id="r10do359" class="accid" />
+                        <g id="sznj4p4" class="verse">
+                           <g id="t1u05ap2" class="syl">
+                              <text x="8835" y="4121" font-size="0px">
+                                 <tspan id="uopnafv" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="v1xi6wbd" class="verse">
+                           <g id="w1w9ueau" class="syl">
+                              <text x="8835" y="4545" font-size="0px">
+                                 <tspan id="x1rediw4" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="y1j1o0la" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(9792, 3122) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="zdeby8y" class="harm">
+                  <text x="7001" y="347" font-size="0px">
+                     <tspan id="a1gjdqna" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="rx0bqwb" class="barLine">
+                  <path d="M10654 630 L10654 1350" stroke-width="27" />
+                  <path d="M10654 2762 L10654 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-2" class="measure">
+               <g id="kb9ggr2" class="staff">
+                  <path d="M10667 630 L15801 630" stroke-width="13" />
+                  <path d="M10667 810 L15801 810" stroke-width="13" />
+                  <path d="M10667 990 L15801 990" stroke-width="13" />
+                  <path d="M10667 1170 L15801 1170" stroke-width="13" />
+                  <path d="M10667 1350 L15801 1350" stroke-width="13" />
+                  <g id="l1vkihnd" class="layer">
+                     <g id="lasst-uns-froh-m2-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(10873, 1260) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="d1q4pmb" class="stem">
+                           <path d="M11076 1230 L11076 630" stroke-width="18" />
+                        </g>
+                        <g id="n19h5a56" class="accid" />
+                        <g id="o156tqoo" class="verse">
+                           <g id="p1839nta" class="syl">
+                              <text x="10777" y="1950" font-size="0px">
+                                 <tspan id="qfnbrz" class="text">
+                                    <tspan font-size="432px">4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r18m1hok" class="verse">
+                           <g id="s1ojzrhw" class="syl">
+                              <text x="10777" y="2374" font-size="0px">
+                                 <tspan id="t144p8k0" class="text">
+                                    <tspan font-size="432px">F4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m2-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(11735, 1260) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="e1bdcome" class="stem">
+                           <path d="M11938 1230 L11938 630" stroke-width="18" />
+                        </g>
+                        <g id="v17zj0tv" class="accid" />
+                        <g id="w1j498eq" class="verse">
+                           <g id="x1ly3t10" class="syl">
+                              <text x="11639" y="1950" font-size="0px">
+                                 <tspan id="y1vv4n9p" class="text">
+                                    <tspan font-size="432px">4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="zecvg3a" class="verse">
+                           <g id="a1w47zz4" class="syl">
+                              <text x="11639" y="2374" font-size="0px">
+                                 <tspan id="bm82u1g" class="text">
+                                    <tspan font-size="432px">F4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="c1a8h7on" class="beam">
+                        <polygon points="12967,630 13595,540 13595,630 12967,720" />
+                        <g id="lasst-uns-froh-m2-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12773, 1260) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="fkiozag" class="stem">
+                              <path d="M12976 1230 L12976 648" stroke-width="18" />
+                           </g>
+                           <g id="ekqlk9j" class="accid" />
+                           <g id="f1f99hej" class="verse">
+                              <g id="gz5xtuk" class="syl">
+                                 <text x="12567" y="1950" font-size="0px">
+                                    <tspan id="h14i1c9k" class="text">
+                                       <tspan font-size="432px">4Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="i1966me5" class="verse">
+                              <g id="jtf3p5r" class="syl">
+                                 <text x="12590" y="2374" font-size="0px">
+                                    <tspan id="kivmjh0" class="text">
+                                       <tspan font-size="432px">F4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m2-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(13383, 1170) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="g119nbss" class="stem">
+                              <path d="M13586 1140 L13586 558" stroke-width="18" />
+                           </g>
+                           <g id="mzdkw0y" class="accid" />
+                           <g id="n2wbgbv" class="verse">
+                              <g id="o1hpa346" class="syl">
+                                 <text x="13287" y="1950" font-size="0px">
+                                    <tspan id="p1pftvus" class="text">
+                                       <tspan font-size="432px">14Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="q1799kbr" class="verse">
+                              <g id="rv1tn68" class="syl">
+                                 <text x="13287" y="2374" font-size="0px">
+                                    <tspan id="ssdv8fe" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="tnloce0" class="beam">
+                        <polygon points="14560,630 15314,720 15314,810 14560,720" />
+                        <g id="lasst-uns-froh-m2-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14366, 1260) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="hu1a0az" class="stem">
+                              <path d="M14569 1230 L14569 648" stroke-width="18" />
+                           </g>
+                           <g id="v17abkgn" class="accid" />
+                           <g id="wp8kg7r" class="verse">
+                              <g id="xckurcn" class="syl">
+                                 <text x="14270" y="1950" font-size="0px">
+                                    <tspan id="yep2ram" class="text">
+                                       <tspan font-size="432px">4Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="z1conl7t" class="verse">
+                              <g id="avkbwsy" class="syl">
+                                 <text x="14270" y="2374" font-size="0px">
+                                    <tspan id="b1hrsi0b" class="text">
+                                       <tspan font-size="432px">F4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m2-e5-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(15102, 1350) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="is09ac2" class="stem">
+                              <path d="M15305 1320 L15305 738" stroke-width="18" />
+                           </g>
+                           <g id="dphf534" class="accid" />
+                           <g id="e12kq1g8" class="verse">
+                              <g id="f1gl4hlm" class="syl">
+                                 <text x="15006" y="1950" font-size="0px">
+                                    <tspan id="gk8razf" class="text">
+                                       <tspan font-size="432px">13Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="hi8utpf" class="verse">
+                              <g id="iosxc2t" class="syl">
+                                 <text x="15006" y="2374" font-size="0px">
+                                    <tspan id="j9a5gup" class="text">
+                                       <tspan font-size="432px">E4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="kfv201q" class="staff">
+                  <path d="M10667 2762 L15801 2762" stroke-width="13" />
+                  <path d="M10667 2942 L15801 2942" stroke-width="13" />
+                  <path d="M10667 3122 L15801 3122" stroke-width="13" />
+                  <path d="M10667 3302 L15801 3302" stroke-width="13" />
+                  <path d="M10667 3482 L15801 3482" stroke-width="13" />
+                  <g id="l18fagcf" class="layer">
+                     <g id="lasst-uns-froh-b2-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(10873, 3482) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="jki180a" class="stem">
+                           <path d="M11076 3452 L11076 2852" stroke-width="18" />
+                        </g>
+                        <g id="nfdxzg7" class="accid" />
+                        <g id="oz24hqd" class="verse">
+                           <g id="pre2qg5" class="syl">
+                              <text x="10623" y="4121" font-size="0px">
+                                 <tspan id="q1m9lynp" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r1nz8qcq" class="verse">
+                           <g id="sta8yo5" class="syl">
+                              <text x="10777" y="4545" font-size="0px">
+                                 <tspan id="t9d8n7p" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="ukwcvqr" class="chord">
+                        <g id="k507hvw" class="stem">
+                           <path d="M11938 3452 L11938 2522" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b2-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(11735, 3482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="w1mvd5qx" class="accid" />
+                           <g id="x17x1l2n" class="verse">
+                              <g id="y1m5nmp5" class="syl">
+                                 <text x="11639" y="4121" font-size="0px">
+                                    <tspan id="z1ncofm4" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="auuafd0" class="verse">
+                              <g id="b29gz55" class="syl">
+                                 <text x="11639" y="4545" font-size="0px">
+                                    <tspan id="c1qxiobs" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b2-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(11735, 3302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="e1qvefph" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b2-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(11735, 3122) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="g1pf1h86" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b2-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(12773, 3482) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="llru7c6" class="stem">
+                           <path d="M12976 3452 L12976 2852" stroke-width="18" />
+                        </g>
+                        <g id="isngksf" class="accid" />
+                        <g id="j1p94mvr" class="verse">
+                           <g id="k1hqj488" class="syl">
+                              <text x="12677" y="4121" font-size="0px">
+                                 <tspan id="lgc5ght" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="m10pxpmd" class="verse">
+                           <g id="nrrs8jm" class="syl">
+                              <text x="12677" y="4545" font-size="0px">
+                                 <tspan id="oqb80cp" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="pnsdo5e" class="chord">
+                        <g id="m1x1e160" class="stem">
+                           <path d="M14569 3452 L14569 2522" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b2-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14366, 3482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ra0n6md" class="accid" />
+                           <g id="s1k1gkyp" class="verse">
+                              <g id="t1p2zo2a" class="syl">
+                                 <text x="14270" y="4121" font-size="0px">
+                                    <tspan id="utg3voi" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="v176lk7m" class="verse">
+                              <g id="w1rsmwqy" class="syl">
+                                 <text x="14270" y="4545" font-size="0px">
+                                    <tspan id="x1yr8mzj" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b2-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14366, 3302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ztjbyfq" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b2-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14366, 3122) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b1y4k8f3" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="czf60pt" class="harm">
+                  <text x="10873" y="347" font-size="0px">
+                     <tspan id="d17j1mch" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="jf3fq7l" class="barLine">
+                  <path d="M15788 630 L15788 1350" stroke-width="27" />
+                  <path d="M15788 2762 L15788 3482" stroke-width="27" />
+               </g>
+            </g>
+         </g>
+         <g id="m1wm7f9i" class="system">
+            <path d="M13 5854 L13 8706" stroke-width="27" />
+            <g id="a1p0zxal" class="grpSym">
+               <path d="M-72,8688 C-432,8148 18,7460 -252,7280 C81,7460 -369,8148 -72,8688" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,5872 C-369,6412 81,7100 -252,7280 C18,7100 -432,6412 -72,5872" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="lasst-uns-froh-measure-3" class="measure">
+               <g id="f1wb8h4b" class="mNum autogenerated">
+                  <text y="5595" text-anchor="middle" font-size="0px">
+                     <tspan id="giy7ngr" class="text">
+                        <tspan font-size="345px">4</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="n1u47jv9" class="staff">
+                  <path d="M0 5854 L3886 5854" stroke-width="13" />
+                  <path d="M0 6034 L3886 6034" stroke-width="13" />
+                  <path d="M0 6214 L3886 6214" stroke-width="13" />
+                  <path d="M0 6394 L3886 6394" stroke-width="13" />
+                  <path d="M0 6574 L3886 6574" stroke-width="13" />
+                  <g id="n1qhevmo" class="clef">
+                     <use xlink:href="#E050-fkl5v5d" transform="translate(120, 6394) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="o1skux7v" class="keySig" />
+                  <g id="o10e2byn" class="layer">
+                     <g id="lasst-uns-froh-m3-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(876, 6664) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="n1uy27pt" class="stem">
+                           <path d="M1079 6634 L1079 6034" stroke-width="18" />
+                        </g>
+                        <g id="q8ttmcn" class="accid" />
+                        <g id="rk9rihn" class="verse">
+                           <g id="suae61r" class="syl">
+                              <text x="780" y="7174" font-size="0px">
+                                 <tspan id="t17mdu1l" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="uqnjjc9" class="verse">
+                           <g id="v1ufgqio" class="syl">
+                              <text x="780" y="7598" font-size="0px">
+                                 <tspan id="w1u6jhrc" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m3-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(1745, 6664) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="ozax69x" class="stem">
+                           <path d="M1948 6634 L1948 6034" stroke-width="18" />
+                        </g>
+                        <g id="y1mwm06j" class="accid" />
+                        <g id="zc0o02j" class="verse">
+                           <g id="a14j988w" class="syl">
+                              <text x="1649" y="7174" font-size="0px">
+                                 <tspan id="b6h4dtv" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="c18arwvu" class="verse">
+                           <g id="dmeo5h7" class="syl">
+                              <text x="1649" y="7598" font-size="0px">
+                                 <tspan id="e1yl375f" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m3-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(2614, 6664) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="pkcsk3n" class="stem">
+                           <path d="M2817 6634 L2817 6034" stroke-width="18" />
+                        </g>
+                        <g id="g7r6saz" class="accid" />
+                        <g id="h1teoure" class="verse">
+                           <g id="i19qutgj" class="syl">
+                              <text x="2518" y="7174" font-size="0px">
+                                 <tspan id="j1gew8hf" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="k1mct3wa" class="verse">
+                           <g id="l1gc39mb" class="syl">
+                              <text x="2518" y="7598" font-size="0px">
+                                 <tspan id="mcchnfo" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="np7fm01" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(3243, 6214) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="o1lbp7b7" class="staff">
+                  <path d="M0 7986 L3886 7986" stroke-width="13" />
+                  <path d="M0 8166 L3886 8166" stroke-width="13" />
+                  <path d="M0 8346 L3886 8346" stroke-width="13" />
+                  <path d="M0 8526 L3886 8526" stroke-width="13" />
+                  <path d="M0 8706 L3886 8706" stroke-width="13" />
+                  <g id="p25am4r" class="clef">
+                     <use xlink:href="#E062-fkl5v5d" transform="translate(120, 8166) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="q11j2ltm" class="keySig" />
+                  <g id="pktbp5l" class="layer">
+                     <g id="lasst-uns-froh-b3-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(876, 8706) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="q1kmqiu9" class="stem">
+                           <path d="M1079 8676 L1079 8076" stroke-width="18" />
+                        </g>
+                        <g id="r5xqi3i" class="accid" />
+                        <g id="s3pf2cv" class="verse">
+                           <g id="t1tumfgf" class="syl">
+                              <text x="780" y="9345" font-size="0px">
+                                 <tspan id="uy7jccu" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="vntplvm" class="verse">
+                           <g id="w1ak5gg7" class="syl">
+                              <text x="780" y="9769" font-size="0px">
+                                 <tspan id="x17aw420" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="yv40zqj" class="chord">
+                        <g id="rcsv4ac" class="stem">
+                           <path d="M1948 8676 L1948 7746" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b3-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(1745, 8706) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="a915va0" class="accid" />
+                           <g id="b24drhf" class="verse">
+                              <g id="c1bp6yfk" class="syl">
+                                 <text x="1649" y="9345" font-size="0px">
+                                    <tspan id="dq13g5j" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="e1c5m732" class="verse">
+                              <g id="fgiqh05" class="syl">
+                                 <text x="1649" y="9769" font-size="0px">
+                                    <tspan id="gfu38vd" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b3-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(1745, 8526) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="i1tvy3g8" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b3-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(1745, 8346) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="knkor1g" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b3-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(2614, 8706) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="s1wheo0q" class="stem">
+                           <path d="M2817 8676 L2817 8076" stroke-width="18" />
+                        </g>
+                        <g id="mchknhb" class="accid" />
+                        <g id="n1wo0f39" class="verse">
+                           <g id="ok9peu5" class="syl">
+                              <text x="2518" y="9345" font-size="0px">
+                                 <tspan id="p1ysb75i" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="qnu2n00" class="verse">
+                           <g id="rc6mdkh" class="syl">
+                              <text x="2518" y="9769" font-size="0px">
+                                 <tspan id="smvjchc" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="tiof9h0" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(3243, 8346) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="u1p2g2ii" class="harm">
+                  <text x="876" y="5471" font-size="0px">
+                     <tspan id="vebbk2p" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="mrcqbyl" class="barLine">
+                  <path d="M3873 5854 L3873 6574" stroke-width="27" />
+                  <path d="M3873 7986 L3873 8706" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-4" class="measure">
+               <g id="f4k84xy" class="staff">
+                  <path d="M3886 5854 L7129 5854" stroke-width="13" />
+                  <path d="M3886 6034 L7129 6034" stroke-width="13" />
+                  <path d="M3886 6214 L7129 6214" stroke-width="13" />
+                  <path d="M3886 6394 L7129 6394" stroke-width="13" />
+                  <path d="M3886 6574 L7129 6574" stroke-width="13" />
+                  <g class="ledgerLines below">
+                     <path d="M4011 6754 L4319 6754" stroke-width="22" />
+                  </g>
+                  <g id="g1o9vwa2" class="layer">
+                     <g id="lasst-uns-froh-m4-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(4059, 6754) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="tf5j0hg" class="stem">
+                           <path d="M4262 6724 L4262 6124" stroke-width="18" />
+                        </g>
+                        <g id="i1vmztdi" class="accid" />
+                        <g id="j1kz9s5k" class="verse">
+                           <g id="k1bqu9cb" class="syl">
+                              <text x="3951" y="7174" font-size="0px">
+                                 <tspan id="lt3ww9c" class="text">
+                                    <tspan font-size="432px">3D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="mdvt5s6" class="verse">
+                           <g id="n1xs515e" class="syl">
+                              <text x="3952" y="7598" font-size="0px">
+                                 <tspan id="o4md23h" class="text">
+                                    <tspan font-size="432px">C4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m4-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(4694, 6664) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="u1dtzspg" class="stem">
+                           <path d="M4897 6634 L4897 6034" stroke-width="18" />
+                        </g>
+                        <g id="qbru82f" class="accid" />
+                        <g id="r10bgeya" class="verse">
+                           <g id="s1plwxxm" class="syl">
+                              <text x="4598" y="7174" font-size="0px">
+                                 <tspan id="t1kz5m6z" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="uh80dg6" class="verse">
+                           <g id="va2wjuw" class="syl">
+                              <text x="4598" y="7598" font-size="0px">
+                                 <tspan id="w1dm8lww" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m4-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(5563, 6574) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="v15ugf99" class="stem">
+                           <path d="M5766 6544 L5766 5944" stroke-width="18" />
+                        </g>
+                        <g id="y1o0rb0i" class="accid" />
+                        <g id="ztmn4ex" class="verse">
+                           <g id="a1o5bppz" class="syl">
+                              <text x="5453" y="7174" font-size="0px">
+                                 <tspan id="b2rmrbn" class="text">
+                                    <tspan font-size="432px">13Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="c1rtn76z" class="verse">
+                           <g id="dqsvgh7" class="syl">
+                              <text x="5467" y="7598" font-size="0px">
+                                 <tspan id="e1pmd2ui" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m4-e3-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(6432, 6484) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="w1r3gzv1" class="stem">
+                           <path d="M6635 6454 L6635 5854" stroke-width="18" />
+                        </g>
+                        <g id="ggm5ram" class="accid" />
+                        <g id="htyx0lj" class="verse">
+                           <g id="ii1maaj" class="syl">
+                              <text x="6336" y="7174" font-size="0px">
+                                 <tspan id="joqypyf" class="text">
+                                    <tspan font-size="432px">4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ksj6ll3" class="verse">
+                           <g id="l6rsibm" class="syl">
+                              <text x="6336" y="7598" font-size="0px">
+                                 <tspan id="m1smo1fk" class="text">
+                                    <tspan font-size="432px">F4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="np5mu78" class="staff">
+                  <path d="M3886 7986 L7129 7986" stroke-width="13" />
+                  <path d="M3886 8166 L7129 8166" stroke-width="13" />
+                  <path d="M3886 8346 L7129 8346" stroke-width="13" />
+                  <path d="M3886 8526 L7129 8526" stroke-width="13" />
+                  <path d="M3886 8706 L7129 8706" stroke-width="13" />
+                  <g id="og0uyq9" class="layer">
+                     <g id="lasst-uns-froh-b4-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(4059, 8436) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="xt8xt17" class="stem">
+                           <path d="M4262 8406 L4262 7806" stroke-width="18" />
+                        </g>
+                        <g id="q4dv4ni" class="accid" />
+                        <g id="rhxocwf" class="verse">
+                           <g id="s181bmx1" class="syl">
+                              <text x="3693" y="9345" font-size="0px">
+                                 <tspan id="t3i5fbk" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ulizog0" class="verse">
+                           <g id="v1wx8m16" class="syl">
+                              <text x="3963" y="9769" font-size="0px">
+                                 <tspan id="w14pmaf4" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="x1vhb07a" class="chord">
+                        <g id="ysyy0lp" class="stem">
+                           <path d="M4897 8676 L4897 7746" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b4-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(4694, 8706) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="znd4ld" class="accid" />
+                           <g id="a10dffgv" class="verse">
+                              <g id="br7s57q" class="syl">
+                                 <text x="4598" y="9345" font-size="0px">
+                                    <tspan id="cama32i" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="dlfhl0c" class="verse">
+                              <g id="e1fu2zaj" class="syl">
+                                 <text x="4598" y="9769" font-size="0px">
+                                    <tspan id="fnh7f1b" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b4-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(4694, 8526) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="hs0ajwv" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b4-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(4694, 8346) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="juyjrpv" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b4-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(5563, 8436) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="zgrt66c" class="stem">
+                           <path d="M5766 8406 L5766 7806" stroke-width="18" />
+                        </g>
+                        <g id="l1kcnn9z" class="accid" />
+                        <g id="m15qdwrf" class="verse">
+                           <g id="n130oye9" class="syl">
+                              <text x="5467" y="9345" font-size="0px">
+                                 <tspan id="otvqec7" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="p1o6jdu7" class="verse">
+                           <g id="qf6k0wh" class="syl">
+                              <text x="5467" y="9769" font-size="0px">
+                                 <tspan id="r1n6yc14" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="sbcsjhh" class="chord">
+                        <g id="a1f5lx6y" class="stem">
+                           <path d="M6635 8676 L6635 7746" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b4-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(6432, 8706) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="u1oxqncn" class="accid" />
+                           <g id="vonpgb2" class="verse">
+                              <g id="w84ydkz" class="syl">
+                                 <text x="6336" y="9345" font-size="0px">
+                                    <tspan id="x1doguto" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="y1elsw11" class="verse">
+                              <g id="z1ndppeu" class="syl">
+                                 <text x="6336" y="9769" font-size="0px">
+                                    <tspan id="as0o1mh" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b4-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(6432, 8526) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="cb8oyiq" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b4-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(6432, 8346) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="e1wsnugq" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="f784eep" class="harm">
+                  <text x="4059" y="5471" font-size="0px">
+                     <tspan id="g1vvi3ho" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="h3pqkvb" class="harm">
+                  <text x="4694" y="5471" font-size="0px">
+                     <tspan id="i1hu52ab" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="js1xjm" class="harm">
+                  <text x="5563" y="5471" font-size="0px">
+                     <tspan id="k44hdaz" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="l1v3avlv" class="harm">
+                  <text x="6432" y="5471" font-size="0px">
+                     <tspan id="m1uejdff" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="e1n5ae5x" class="barLine">
+                  <path d="M7116 5854 L7116 6574" stroke-width="27" />
+                  <path d="M7116 7986 L7116 8706" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-5" class="measure">
+               <g id="wncnlxv" class="staff">
+                  <path d="M7129 5854 L11353 5854" stroke-width="13" />
+                  <path d="M7129 6034 L11353 6034" stroke-width="13" />
+                  <path d="M7129 6214 L11353 6214" stroke-width="13" />
+                  <path d="M7129 6394 L11353 6394" stroke-width="13" />
+                  <path d="M7129 6574 L11353 6574" stroke-width="13" />
+                  <g id="x1ehth5a" class="layer">
+                     <g id="ypv1aj4" class="beam">
+                        <polygon points="7496,5674 7957,5629 7957,5719 7496,5764" />
+                        <g id="lasst-uns-froh-m5-e0-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(7302, 6394) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b1klj74n" class="stem">
+                              <path d="M7505 6364 L7505 5692" stroke-width="18" />
+                           </g>
+                           <g id="adnspq0" class="accid" />
+                           <g id="b1mvl1h1" class="verse">
+                              <g id="c1fnx2x4" class="syl">
+                                 <text x="6999" y="7174" font-size="0px">
+                                    <tspan id="d1dwjoq" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="e1kf89gx" class="verse">
+                              <g id="f1sk75dz" class="syl">
+                                 <text x="6995" y="7598" font-size="0px">
+                                    <tspan id="g2xx144" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m5-e1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(7745, 6304) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="c1con0x9" class="stem">
+                              <path d="M7948 6274 L7948 5647" stroke-width="18" />
+                           </g>
+                           <g id="ihcuqcz" class="accid" />
+                           <g id="jr1zb6x" class="verse">
+                              <g id="k13cv52c" class="syl">
+                                 <text x="7649" y="7174" font-size="0px">
+                                    <tspan id="lvoc5nq" class="text">
+                                       <tspan font-size="432px">15D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="mq5avz0" class="verse">
+                              <g id="nh671rv" class="syl">
+                                 <text x="7649" y="7598" font-size="0px">
+                                    <tspan id="o8sbd90" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="p1utidh3" class="beam">
+                        <polygon points="8787,5764 9445,5674 9445,5764 8787,5854" />
+                        <g id="lasst-uns-froh-m5-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(8593, 6394) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="d1k6rmmx" class="stem">
+                              <path d="M8796 6364 L8796 5782" stroke-width="18" />
+                           </g>
+                           <g id="r1hpdak4" class="accid" />
+                           <g id="s1vbfp5v" class="verse">
+                              <g id="t18jd8si" class="syl">
+                                 <text x="8497" y="7174" font-size="0px">
+                                    <tspan id="u1qhunes" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="vi648w3" class="verse">
+                              <g id="w7fa19l" class="syl">
+                                 <text x="8493" y="7598" font-size="0px">
+                                    <tspan id="x1xfrzda" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m5-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(9233, 6304) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="e1qgudu1" class="stem">
+                              <path d="M9436 6274 L9436 5692" stroke-width="18" />
+                           </g>
+                           <g id="zxfx27i" class="accid" />
+                           <g id="a102fuur" class="verse">
+                              <g id="bfvrkak" class="syl">
+                                 <text x="9137" y="7174" font-size="0px">
+                                    <tspan id="cx4on3d" class="text">
+                                       <tspan font-size="432px">15D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="dtu6y4s" class="verse">
+                              <g id="e1pnledh" class="syl">
+                                 <text x="9137" y="7598" font-size="0px">
+                                    <tspan id="f1fe4pkv" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m5-e4-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(10081, 6394) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="f17rmiov" class="stem">
+                           <path d="M10284 6364 L10284 5764" stroke-width="18" />
+                        </g>
+                        <g id="hd29pb0" class="accid" />
+                        <g id="if7c1vo" class="verse">
+                           <g id="j12sk0s8" class="syl">
+                              <text x="9985" y="7174" font-size="0px">
+                                 <tspan id="ksfxkxp" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="l1mj8fpn" class="verse">
+                           <g id="m1ac38t6" class="syl">
+                              <text x="9985" y="7598" font-size="0px">
+                                 <tspan id="n1gjc7ge" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="o1wj1n0y" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(10711, 6214) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="p16xgeb3" class="staff">
+                  <path d="M7129 7986 L11353 7986" stroke-width="13" />
+                  <path d="M7129 8166 L11353 8166" stroke-width="13" />
+                  <path d="M7129 8346 L11353 8346" stroke-width="13" />
+                  <path d="M7129 8526 L11353 8526" stroke-width="13" />
+                  <path d="M7129 8706 L11353 8706" stroke-width="13" />
+                  <g id="qj4ysix" class="layer">
+                     <g id="lasst-uns-froh-b5-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(7302, 8436) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="gmbob8g" class="stem">
+                           <path d="M7505 8406 L7505 7806" stroke-width="18" />
+                        </g>
+                        <g id="sv70awp" class="accid" />
+                        <g id="tbaqt2s" class="verse">
+                           <g id="ut63kuy" class="syl">
+                              <text x="7206" y="9345" font-size="0px">
+                                 <tspan id="v2vcucc" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="wuae507" class="verse">
+                           <g id="xsj0052" class="syl">
+                              <text x="7206" y="9769" font-size="0px">
+                                 <tspan id="y8qnf29" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="z5sqb1b" class="chord">
+                        <g id="h1xlf791" class="stem">
+                           <path d="M8602 8106 L8602 9006" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b5-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(8593, 8436) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b1ep99y0" class="accid" />
+                           <g id="c1b3hcca" class="verse">
+                              <g id="d8uvao" class="syl">
+                                 <text x="8497" y="9345" font-size="0px">
+                                    <tspan id="e1o5xd1d" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="f1a3ex8l" class="verse">
+                              <g id="gz0irjn" class="syl">
+                                 <text x="8497" y="9769" font-size="0px">
+                                    <tspan id="hy9gd21" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b5-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(8593, 8256) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="jxqq9wm" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b5-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(8593, 8076) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="l1r2gyfn" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b5-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(10081, 8436) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="i12gj0aq" class="stem">
+                           <path d="M10284 8406 L10284 7806" stroke-width="18" />
+                        </g>
+                        <g id="ngd1y2k" class="accid" />
+                        <g id="o1e8ovc1" class="verse">
+                           <g id="p1gscjj7" class="syl">
+                              <text x="9985" y="9345" font-size="0px">
+                                 <tspan id="q1fq89zh" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="rlyq8rs" class="verse">
+                           <g id="saupkv0" class="syl">
+                              <text x="9985" y="9769" font-size="0px">
+                                 <tspan id="t1kvxxiz" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="u1sigmuf" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(10711, 8346) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="v1jr34gs" class="harm">
+                  <text x="7302" y="5471" font-size="0px">
+                     <tspan id="w1nkoxma" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="vpjla7x" class="barLine">
+                  <path d="M11340 5854 L11340 6574" stroke-width="27" />
+                  <path d="M11340 7986 L11340 8706" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-6" class="measure">
+               <g id="gcb45jc" class="staff">
+                  <path d="M11353 5854 L15802 5854" stroke-width="13" />
+                  <path d="M11353 6034 L15802 6034" stroke-width="13" />
+                  <path d="M11353 6214 L15802 6214" stroke-width="13" />
+                  <path d="M11353 6394 L15802 6394" stroke-width="13" />
+                  <path d="M11353 6574 L15802 6574" stroke-width="13" />
+                  <g id="hkosnjg" class="layer">
+                     <g id="lasst-uns-froh-m6-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(11526, 6124) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="jxfbr9c" class="stem">
+                           <path d="M11535 6154 L11535 6754" stroke-width="18" />
+                        </g>
+                        <g id="joju4zj" class="accid" />
+                        <g id="k5drdnq" class="verse">
+                           <g id="lsvnrok" class="syl">
+                              <text x="11418" y="7174" font-size="0px">
+                                 <tspan id="m31xzmf" class="text">
+                                    <tspan font-size="432px">6D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="n5igpif" class="verse">
+                           <g id="o88720m" class="syl">
+                              <text x="11419" y="7598" font-size="0px">
+                                 <tspan id="pf42kah" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m6-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(12161, 6394) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="k6so4su" class="stem">
+                           <path d="M12364 6364 L12364 5764" stroke-width="18" />
+                        </g>
+                        <g id="rdx66ub" class="accid" />
+                        <g id="srdemxq" class="verse">
+                           <g id="t1hu3ds7" class="syl">
+                              <text x="12065" y="7174" font-size="0px">
+                                 <tspan id="uek67we" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="v1d8t3t7" class="verse">
+                           <g id="w1aew6ut" class="syl">
+                              <text x="12065" y="7598" font-size="0px">
+                                 <tspan id="x1598iit" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="yzmqbye" class="beam">
+                        <polygon points="13249,5764 13912,5674 13912,5764 13249,5854" />
+                        <g id="lasst-uns-froh-m6-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(13055, 6394) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="lkvx0d5" class="stem">
+                              <path d="M13258 6364 L13258 5782" stroke-width="18" />
+                           </g>
+                           <g id="ah9pjf0" class="accid" />
+                           <g id="b1savluo" class="verse">
+                              <g id="ci8d299" class="syl">
+                                 <text x="12959" y="7174" font-size="0px">
+                                    <tspan id="dpgawr4" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="e180ddze" class="verse">
+                              <g id="f15e4lqy" class="syl">
+                                 <text x="12959" y="7598" font-size="0px">
+                                    <tspan id="g1r1yvxu" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m6-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(13700, 6304) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="my01pip" class="stem">
+                              <path d="M13903 6274 L13903 5692" stroke-width="18" />
+                           </g>
+                           <g id="i2u57rj" class="accid" />
+                           <g id="j10fbm55" class="verse">
+                              <g id="kgxit" class="syl">
+                                 <text x="13604" y="7174" font-size="0px">
+                                    <tspan id="l13bd9gw" class="text">
+                                       <tspan font-size="432px">15D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="muwv52p" class="verse">
+                              <g id="n13xr99n" class="syl">
+                                 <text x="13604" y="7598" font-size="0px">
+                                    <tspan id="ozmht7v" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="p188uiw6" class="beam">
+                        <polygon points="14742,5764 15401,5854 15401,5944 14742,5854" />
+                        <g id="lasst-uns-froh-m6-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14548, 6394) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="nrjr7w0" class="stem">
+                              <path d="M14751 6364 L14751 5782" stroke-width="18" />
+                           </g>
+                           <g id="r1tgkiip" class="accid" />
+                           <g id="svu6lsl" class="verse">
+                              <g id="t14cwvih" class="syl">
+                                 <text x="14452" y="7174" font-size="0px">
+                                    <tspan id="u1hc9xp0" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="vwt03eh" class="verse">
+                              <g id="w4fn33z" class="syl">
+                                 <text x="14448" y="7598" font-size="0px">
+                                    <tspan id="x3m4cj1" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m6-e5-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(15189, 6484) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="o6xkj3m" class="stem">
+                              <path d="M15392 6454 L15392 5872" stroke-width="18" />
+                           </g>
+                           <g id="z16hvd04" class="accid" />
+                           <g id="ao1ozup" class="verse">
+                              <g id="b7gevbv" class="syl">
+                                 <text x="15093" y="7174" font-size="0px">
+                                    <tspan id="c1ff86te" class="text">
+                                       <tspan font-size="432px">14D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="darifg2" class="verse">
+                              <g id="ewfqywx" class="syl">
+                                 <text x="15093" y="7598" font-size="0px">
+                                    <tspan id="f1g5i05o" class="text">
+                                       <tspan font-size="432px">F4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="g7yqwd4" class="staff">
+                  <path d="M11353 7986 L15802 7986" stroke-width="13" />
+                  <path d="M11353 8166 L15802 8166" stroke-width="13" />
+                  <path d="M11353 8346 L15802 8346" stroke-width="13" />
+                  <path d="M11353 8526 L15802 8526" stroke-width="13" />
+                  <path d="M11353 8706 L15802 8706" stroke-width="13" />
+                  <g id="hqudhhg" class="layer">
+                     <g id="lasst-uns-froh-b6-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(11526, 8436) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="pzj71hh" class="stem">
+                           <path d="M11729 8406 L11729 7806" stroke-width="18" />
+                        </g>
+                        <g id="j12y9qql" class="accid" />
+                        <g id="k49kudn" class="verse">
+                           <g id="lsdd06x" class="syl">
+                              <text x="11160" y="9345" font-size="0px">
+                                 <tspan id="m3wkd4s" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="nvgmigm" class="verse">
+                           <g id="o1rclyb7" class="syl">
+                              <text x="11430" y="9769" font-size="0px">
+                                 <tspan id="p10gcfcb" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="q1qy9rem" class="chord">
+                        <g id="q1qn24kw" class="stem">
+                           <path d="M12170 8106 L12170 9006" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b6-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12161, 8436) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="shyfspn" class="accid" />
+                           <g id="t18tsiwr" class="verse">
+                              <g id="u1vaijlp" class="syl">
+                                 <text x="12065" y="9345" font-size="0px">
+                                    <tspan id="vhf8tdj" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="wscmn1" class="verse">
+                              <g id="x7g2lu7" class="syl">
+                                 <text x="12065" y="9769" font-size="0px">
+                                    <tspan id="yok6kvx" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b6-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12161, 8256) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="a1txish3" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b6-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12161, 8076) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="c1bkxcu4" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b6-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(13055, 8436) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="r1p6kqob" class="stem">
+                           <path d="M13258 8406 L13258 7806" stroke-width="18" />
+                        </g>
+                        <g id="e1vypesi" class="accid" />
+                        <g id="f1xg0sc0" class="verse">
+                           <g id="g1pd1549" class="syl">
+                              <text x="12959" y="9345" font-size="0px">
+                                 <tspan id="hvvwi0j" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="i1r9a0pi" class="verse">
+                           <g id="jz3rn4m" class="syl">
+                              <text x="12959" y="9769" font-size="0px">
+                                 <tspan id="k3nvkkm" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="l1j35nr0" class="chord">
+                        <g id="s14skqvv" class="stem">
+                           <path d="M14557 8106 L14557 9006" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b6-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14548, 8436) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="n13tvrzf" class="accid" />
+                           <g id="o1rksqu" class="verse">
+                              <g id="p9tcgfw" class="syl">
+                                 <text x="14452" y="9345" font-size="0px">
+                                    <tspan id="qd171t3" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="rbzd62q" class="verse">
+                              <g id="s1h39np9" class="syl">
+                                 <text x="14452" y="9769" font-size="0px">
+                                    <tspan id="t1e0pwdz" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b6-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14548, 8256) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="vq7s74a" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b6-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(14548, 8076) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="x1sctku3" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="y11spifd" class="harm">
+                  <text x="11526" y="5471" font-size="0px">
+                     <tspan id="zv5v954" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="f1mm4vim" class="barLine">
+                  <path d="M15789 5854 L15789 6574" stroke-width="27" />
+                  <path d="M15789 7986 L15789 8706" stroke-width="27" />
+               </g>
+            </g>
+         </g>
+         <g id="pnqb8z5" class="system">
+            <path d="M13 11033 L13 13885" stroke-width="27" />
+            <g id="w17aw6hh" class="grpSym">
+               <path d="M-72,13867 C-432,13327 18,12639 -252,12459 C81,12639 -369,13327 -72,13867" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,11051 C-369,11591 81,12279 -252,12459 C18,12279 -432,11591 -72,11051" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="lasst-uns-froh-measure-7" class="measure">
+               <g id="n1jnn8gw" class="mNum autogenerated">
+                  <text y="10774" text-anchor="middle" font-size="0px">
+                     <tspan id="oc6hddh" class="text">
+                        <tspan font-size="345px">8</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="j1y1etjy" class="staff">
+                  <path d="M0 11033 L5301 11033" stroke-width="13" />
+                  <path d="M0 11213 L5301 11213" stroke-width="13" />
+                  <path d="M0 11393 L5301 11393" stroke-width="13" />
+                  <path d="M0 11573 L5301 11573" stroke-width="13" />
+                  <path d="M0 11753 L5301 11753" stroke-width="13" />
+                  <g id="j1gu4p0w" class="clef">
+                     <use xlink:href="#E050-fkl5v5d" transform="translate(120, 11573) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="k1xjo5oc" class="keySig" />
+                  <g id="k1qwwlqr" class="layer">
+                     <g id="lasst-uns-froh-m7-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(951, 11753) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="t1g6d3wm" class="stem">
+                           <path d="M1154 11723 L1154 11123" stroke-width="18" />
+                        </g>
+                        <g id="m1mb114w" class="accid" />
+                        <g id="n1u5fjqd" class="verse">
+                           <g id="oh42dr7" class="syl">
+                              <text x="855" y="12353" font-size="0px">
+                                 <tspan id="p1cfgsrh" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="qq9vf5s" class="verse">
+                           <g id="rdl7z1k" class="syl">
+                              <text x="855" y="12777" font-size="0px">
+                                 <tspan id="s1dupfqx" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m7-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(2234, 11843) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="un9nye4" class="stem">
+                           <path d="M2437 11813 L2437 11213" stroke-width="18" />
+                        </g>
+                        <g id="u189z2br" class="accid" />
+                        <g id="vm0ao8d" class="verse">
+                           <g id="w17k9h83" class="syl">
+                              <text x="2138" y="12353" font-size="0px">
+                                 <tspan id="xzypm73" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ybdwucv" class="verse">
+                           <g id="z1ycbrvd" class="syl">
+                              <text x="2126" y="12777" font-size="0px">
+                                 <tspan id="acq03v3" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m7-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(3481, 11573) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="v1olykci" class="stem">
+                           <path d="M3684 11543 L3684 10943" stroke-width="18" />
+                        </g>
+                        <g id="caredwc" class="accid" />
+                        <g id="d2ox49c" class="verse">
+                           <g id="e18z1982" class="syl">
+                              <text x="3385" y="12353" font-size="0px">
+                                 <tspan id="f1j4twwp" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="g16t64eh" class="verse">
+                           <g id="h1xkcdxf" class="syl">
+                              <text x="3385" y="12777" font-size="0px">
+                                 <tspan id="ib51hwo" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="j1muh4zb" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(4385, 11393) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="k9fv4jr" class="staff">
+                  <path d="M0 13165 L5301 13165" stroke-width="13" />
+                  <path d="M0 13345 L5301 13345" stroke-width="13" />
+                  <path d="M0 13525 L5301 13525" stroke-width="13" />
+                  <path d="M0 13705 L5301 13705" stroke-width="13" />
+                  <path d="M0 13885 L5301 13885" stroke-width="13" />
+                  <g id="lfpfjbq" class="clef">
+                     <use xlink:href="#E062-fkl5v5d" transform="translate(120, 13345) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="m46l1mx" class="keySig" />
+                  <g id="l1cmh8ts" class="layer">
+                     <g id="lasst-uns-froh-b7-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(951, 13615) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="w15or595" class="stem">
+                           <path d="M1154 13585 L1154 12985" stroke-width="18" />
+                        </g>
+                        <g id="n9viueo" class="accid" />
+                        <g id="og4amow" class="verse">
+                           <g id="p1qdpdfx" class="syl">
+                              <text x="855" y="14485" font-size="0px">
+                                 <tspan id="q1jkia6m" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r16180i6" class="verse">
+                           <g id="s1vxp57" class="syl">
+                              <text x="855" y="14909" font-size="0px">
+                                 <tspan id="t17qg5qi" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="uxe9pmm" class="chord">
+                        <g id="x1g402pz" class="stem">
+                           <path d="M2437 13855 L2437 12925" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b7-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(2234, 13885) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="w1ornyn2" class="accid" />
+                           <g id="x16q3ryt" class="verse">
+                              <g id="yvfypv6" class="syl">
+                                 <text x="2138" y="14485" font-size="0px">
+                                    <tspan id="zoaxohk" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="aib1dqx" class="verse">
+                              <g id="b53bire" class="syl">
+                                 <text x="2138" y="14909" font-size="0px">
+                                    <tspan id="cdq6ggu" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b7-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(2234, 13705) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="eroa3z3" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b7-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(2234, 13525) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="g1qurezy" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b7-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(3481, 13615) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="y1lye6nc" class="stem">
+                           <path d="M3684 13585 L3684 12985" stroke-width="18" />
+                        </g>
+                        <g id="ipqmdi4" class="accid" />
+                        <g id="jl7ec6y" class="verse">
+                           <g id="k11576uu" class="syl">
+                              <text x="3385" y="14485" font-size="0px">
+                                 <tspan id="lf3kqyj" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="m11d6tf8" class="verse">
+                           <g id="n17d243s" class="syl">
+                              <text x="3385" y="14909" font-size="0px">
+                                 <tspan id="o5tdeze" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="p1i0rofj" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(4385, 13525) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="q111tmql" class="harm">
+                  <text x="951" y="10741" font-size="0px">
+                     <tspan id="r1iaps58" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="s8lf2jz" class="harm">
+                  <text x="2234" y="10741" font-size="0px">
+                     <tspan id="t193dizy" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="u1xiohp4" class="harm">
+                  <text x="3481" y="10741" font-size="0px">
+                     <tspan id="vwz36wc" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="i1duj7i3" class="barLine">
+                  <path d="M5288 11033 L5288 11753" stroke-width="27" />
+                  <path d="M5288 13165 L5288 13885" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-8" class="measure">
+               <g id="fiuz0tu" class="staff">
+                  <path d="M5301 11033 L11405 11033" stroke-width="13" />
+                  <path d="M5301 11213 L11405 11213" stroke-width="13" />
+                  <path d="M5301 11393 L11405 11393" stroke-width="13" />
+                  <path d="M5301 11573 L11405 11573" stroke-width="13" />
+                  <path d="M5301 11753 L11405 11753" stroke-width="13" />
+                  <g id="g1wg4x46" class="layer">
+                     <g id="lasst-uns-froh-m8-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(5549, 11303) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="z9j2lcd" class="stem">
+                           <path d="M5558 11333 L5558 11933" stroke-width="18" />
+                        </g>
+                        <g id="i5a3xyr" class="accid" />
+                        <g id="jnico5u" class="verse">
+                           <g id="k1gyz0zb" class="syl">
+                              <text x="5441" y="12353" font-size="0px">
+                                 <tspan id="llp0h5" class="text">
+                                    <tspan font-size="432px">6D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="m12341zd" class="verse">
+                           <g id="n1wnypsy" class="syl">
+                              <text x="5442" y="12777" font-size="0px">
+                                 <tspan id="o1xzsvhr" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m8-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(6452, 11573) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="aobppxl" class="stem">
+                           <path d="M6655 11543 L6655 10943" stroke-width="18" />
+                        </g>
+                        <g id="q1t75n5z" class="accid" />
+                        <g id="r1hov085" class="verse">
+                           <g id="s1dkmcgy" class="syl">
+                              <text x="6356" y="12353" font-size="0px">
+                                 <tspan id="ty1tcgk" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="u1rds0hl" class="verse">
+                           <g id="v1y8pp2e" class="syl">
+                              <text x="6356" y="12777" font-size="0px">
+                                 <tspan id="w1izhmo5" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="xbaamkq" class="beam">
+                        <polygon points="7572,10943 8515,10853 8515,10943 7572,11033" />
+                        <g id="lasst-uns-froh-m8-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(7378, 11573) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="bgbr66u" class="stem">
+                              <path d="M7581 11543 L7581 10961" stroke-width="18" />
+                           </g>
+                           <g id="zzqwd4q" class="accid" />
+                           <g id="a1elobwv" class="verse">
+                              <g id="b1fpuakj" class="syl">
+                                 <text x="7282" y="12353" font-size="0px">
+                                    <tspan id="c1y1lhpm" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="d1lxfb4u" class="verse">
+                              <g id="e172s0u6" class="syl">
+                                 <text x="7282" y="12777" font-size="0px">
+                                    <tspan id="f14rfoad" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m8-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(8303, 11483) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="clp2z2j" class="stem">
+                              <path d="M8506 11453 L8506 10871" stroke-width="18" />
+                           </g>
+                           <g id="h1bvqjub" class="accid" />
+                           <g id="i1pnznju" class="verse">
+                              <g id="j1t0bmvh" class="syl">
+                                 <text x="8207" y="12353" font-size="0px">
+                                    <tspan id="k1l04051" class="text">
+                                       <tspan font-size="432px">15D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="l1mlfryq" class="verse">
+                              <g id="m19rmjx5" class="syl">
+                                 <text x="8207" y="12777" font-size="0px">
+                                    <tspan id="n1lmyxr7" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="onqpi7y" class="beam">
+                        <polygon points="9714,10943 10652,11033 10652,11123 9714,11033" />
+                        <g id="lasst-uns-froh-m8-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(9520, 11573) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="d117phts" class="stem">
+                              <path d="M9723 11543 L9723 10961" stroke-width="18" />
+                           </g>
+                           <g id="q1awp1ud" class="accid" />
+                           <g id="r1erq1wb" class="verse">
+                              <g id="s1v2wv6i" class="syl">
+                                 <text x="9424" y="12353" font-size="0px">
+                                    <tspan id="t1k03frk" class="text">
+                                       <tspan font-size="432px">5D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="uy81wmg" class="verse">
+                              <g id="v165fhx1" class="syl">
+                                 <text x="9420" y="12777" font-size="0px">
+                                    <tspan id="w1chuxag" class="text">
+                                       <tspan font-size="432px">G4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-m8-e5-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(10440, 11663) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="e1wle8uf" class="stem">
+                              <path d="M10643 11633 L10643 11051" stroke-width="18" />
+                           </g>
+                           <g id="yp3pkke" class="accid" />
+                           <g id="zwlysu7" class="verse">
+                              <g id="agy3oh2" class="syl">
+                                 <text x="10344" y="12353" font-size="0px">
+                                    <tspan id="b19wjte" class="text">
+                                       <tspan font-size="432px">14D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="c1og5i9t" class="verse">
+                              <g id="d8z8ufq" class="syl">
+                                 <text x="10344" y="12777" font-size="0px">
+                                    <tspan id="e1e8mdu5" class="text">
+                                       <tspan font-size="432px">F4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="ffshj2y" class="staff">
+                  <path d="M5301 13165 L11405 13165" stroke-width="13" />
+                  <path d="M5301 13345 L11405 13345" stroke-width="13" />
+                  <path d="M5301 13525 L11405 13525" stroke-width="13" />
+                  <path d="M5301 13705 L11405 13705" stroke-width="13" />
+                  <path d="M5301 13885 L11405 13885" stroke-width="13" />
+                  <g id="gpoamjo" class="layer">
+                     <g id="lasst-uns-froh-b8-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(5549, 13615) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="fpnng0v" class="stem">
+                           <path d="M5752 13585 L5752 12985" stroke-width="18" />
+                        </g>
+                        <g id="i2k27wg" class="accid" />
+                        <g id="jn65ujq" class="verse">
+                           <g id="k1hdfiim" class="syl">
+                              <text x="5453" y="14485" font-size="0px">
+                                 <tspan id="l35o6ow" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="m10xulzw" class="verse">
+                           <g id="nuc3f77" class="syl">
+                              <text x="5453" y="14909" font-size="0px">
+                                 <tspan id="o1qq4d68" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="p16j8lgp" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(6452, 13525) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="lasst-uns-froh-b8-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(7378, 13615) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="g19arhr6" class="stem">
+                           <path d="M7581 13585 L7581 12985" stroke-width="18" />
+                        </g>
+                        <g id="rwxd46w" class="accid" />
+                        <g id="s196ww1r" class="verse">
+                           <g id="trmd0f4" class="syl">
+                              <text x="7282" y="14485" font-size="0px">
+                                 <tspan id="uzksl6i" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="v9kntv4" class="verse">
+                           <g id="wnv1d1t" class="syl">
+                              <text x="7282" y="14909" font-size="0px">
+                                 <tspan id="x1s55ry7" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="yk0nhwg" class="chord">
+                        <g id="h744fng" class="stem">
+                           <path d="M9723 13945 L9723 12985" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b8-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(9520, 13975) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="a1d2swg5" class="accid" />
+                           <g id="b1dxau8t" class="verse">
+                              <g id="c1naruv7" class="syl">
+                                 <text x="9424" y="14485" font-size="0px">
+                                    <tspan id="d1hvzysk" class="text">
+                                       <tspan font-size="432px">L3D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="e1wfqsgt" class="verse">
+                              <g id="f5f750b" class="syl">
+                                 <text x="9424" y="14909" font-size="0px">
+                                    <tspan id="g1amp7ip" class="text">
+                                       <tspan font-size="432px">F</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b8-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(9520, 13795) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ios19bw" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b8-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(9520, 13615) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="k11cfzmx" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="l17qfyug" class="harm">
+                  <text x="5549" y="10741" font-size="0px">
+                     <tspan id="m1yz07yh" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="nrmo81n" class="harm">
+                  <text x="6452" y="10741" font-size="0px">
+                     <tspan id="o11cearo" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="pl6s218" class="harm">
+                  <text x="7378" y="10741" font-size="0px">
+                     <tspan id="q1ckbr8x" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="r1ina4ja" class="harm">
+                  <text x="9520" y="10741" font-size="0px">
+                     <tspan id="sirmk6p" class="text">
+                        <tspan font-size="432px">F</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="e1ju4zvk" class="barLine">
+                  <path d="M11392 11033 L11392 11753" stroke-width="27" />
+                  <path d="M11392 13165 L11392 13885" stroke-width="27" />
+               </g>
+            </g>
+            <g id="lasst-uns-froh-measure-9" class="measure">
+               <g id="c1hkr7q2" class="staff">
+                  <path d="M11405 11033 L15802 11033" stroke-width="13" />
+                  <path d="M11405 11213 L15802 11213" stroke-width="13" />
+                  <path d="M11405 11393 L15802 11393" stroke-width="13" />
+                  <path d="M11405 11573 L15802 11573" stroke-width="13" />
+                  <path d="M11405 11753 L15802 11753" stroke-width="13" />
+                  <g class="ledgerLines below">
+                     <path d="M13772 11933 L14080 11933" stroke-width="22" />
+                  </g>
+                  <g id="d1mliprt" class="layer">
+                     <g id="lasst-uns-froh-m9-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(11653, 11753) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="iej8072" class="stem">
+                           <path d="M11856 11723 L11856 11123" stroke-width="18" />
+                        </g>
+                        <g id="f1my7x7d" class="accid" />
+                        <g id="gp25dx5" class="verse">
+                           <g id="h140awk6" class="syl">
+                              <text x="11557" y="12353" font-size="0px">
+                                 <tspan id="i1ovetzv" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="jbeh0uv" class="verse">
+                           <g id="kea62un" class="syl">
+                              <text x="11557" y="12777" font-size="0px">
+                                 <tspan id="l1plz918" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m9-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(12573, 11843) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="j1jiszzb" class="stem">
+                           <path d="M12776 11813 L12776 11213" stroke-width="18" />
+                        </g>
+                        <g id="n16ym11j" class="accid" />
+                        <g id="o86qjpg" class="verse">
+                           <g id="pb00sw7" class="syl">
+                              <text x="12477" y="12353" font-size="0px">
+                                 <tspan id="q4vjn4m" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ru8cs9a" class="verse">
+                           <g id="s184be06" class="syl">
+                              <text x="12465" y="12777" font-size="0px">
+                                 <tspan id="t1lwcjq8" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-m9-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(13820, 11933) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="k1t70n15" class="stem">
+                           <path d="M14023 11903 L14023 11303" stroke-width="18" />
+                        </g>
+                        <g id="vj8b2ki" class="accid" />
+                        <g id="wjtmhuz" class="verse">
+                           <g id="xr6zqej" class="syl">
+                              <text x="13724" y="12353" font-size="0px">
+                                 <tspan id="y48an7t" class="text">
+                                    <tspan font-size="432px">3D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="z1ifyn1l" class="verse">
+                           <g id="aot34z" class="syl">
+                              <text x="13724" y="12777" font-size="0px">
+                                 <tspan id="b1cs18gn" class="text">
+                                    <tspan font-size="432px">C4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="crbxjnt" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(14724, 11393) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="d185t6ix" class="staff">
+                  <path d="M11405 13165 L15802 13165" stroke-width="13" />
+                  <path d="M11405 13345 L15802 13345" stroke-width="13" />
+                  <path d="M11405 13525 L15802 13525" stroke-width="13" />
+                  <path d="M11405 13705 L15802 13705" stroke-width="13" />
+                  <path d="M11405 13885 L15802 13885" stroke-width="13" />
+                  <g id="enya9v8" class="layer">
+                     <g id="lasst-uns-froh-b9-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(11653, 13615) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="lh4pzi4" class="stem">
+                           <path d="M11856 13585 L11856 12985" stroke-width="18" />
+                        </g>
+                        <g id="g1oz5kjp" class="accid" />
+                        <g id="hk6piu1" class="verse">
+                           <g id="iylu9bk" class="syl">
+                              <text x="11293" y="14485" font-size="0px">
+                                 <tspan id="j1bznatr" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="k8dprnt" class="verse">
+                           <g id="l2aaehj" class="syl">
+                              <text x="11557" y="14909" font-size="0px">
+                                 <tspan id="m1l6rxy8" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="nwqwgzi" class="chord">
+                        <g id="m14bn5x1" class="stem">
+                           <path d="M12776 13855 L12776 12925" stroke-width="18" />
+                        </g>
+                        <g id="lasst-uns-froh-b9-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12573, 13885) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="p1awp2e" class="accid" />
+                           <g id="q1hbgjfv" class="verse">
+                              <g id="r13pnrvt" class="syl">
+                                 <text x="12477" y="14485" font-size="0px">
+                                    <tspan id="svvho3q" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="t12jwvm4" class="verse">
+                              <g id="un8edyd" class="syl">
+                                 <text x="12477" y="14909" font-size="0px">
+                                    <tspan id="vb2ou1r" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="lasst-uns-froh-b9-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12573, 13705) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="x9xkjxv" class="accid" />
+                        </g>
+                        <g id="lasst-uns-froh-b9-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-fkl5v5d" transform="translate(12573, 13525) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="z1yg9mj9" class="accid" />
+                        </g>
+                     </g>
+                     <g id="lasst-uns-froh-b9-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-fkl5v5d" transform="translate(13820, 13615) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="n9zn7dv" class="stem">
+                           <path d="M14023 13585 L14023 12985" stroke-width="18" />
+                        </g>
+                        <g id="blcsaf2" class="accid" />
+                        <g id="ce8ezky" class="verse">
+                           <g id="difzbn8" class="syl">
+                              <text x="13724" y="14485" font-size="0px">
+                                 <tspan id="e8b675i" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="f470k4s" class="verse">
+                           <g id="g10e057l" class="syl">
+                              <text x="13724" y="14909" font-size="0px">
+                                 <tspan id="h12c1qya" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="i1hp8qpq" class="rest">
+                        <use xlink:href="#E4E5-fkl5v5d" transform="translate(14724, 13525) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="j1lkmuib" class="harm">
+                  <text x="11653" y="10741" font-size="0px">
+                     <tspan id="k1dl5swc" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="l18l8rng" class="harm">
+                  <text x="12573" y="10741" font-size="0px">
+                     <tspan id="m1idcbyj" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="n5eoegg" class="harm">
+                  <text x="13820" y="10741" font-size="0px">
+                     <tspan id="o1q8ck24" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="bct2vql" class="barLine">
+                  <path d="M15627 11033 L15627 11753" stroke-width="27" />
+                  <path d="M15757 11033 L15757 11753" stroke-width="90" />
+                  <path d="M15627 13165 L15627 13885" stroke-width="27" />
+                  <path d="M15757 13165 L15757 13885" stroke-width="90" />
+               </g>
+            </g>
+            <g id="wa4hler" class="systemMilestoneEnd f10j6emy" />
+         </g>
+         <g id="x1yzti6z" class="pageMilestoneEnd hibfz1z" />
+         <g id="y3qx5j7" class="pageMilestoneEnd g1ihrq03" />
+      </g>
+   </svg>
+</svg>

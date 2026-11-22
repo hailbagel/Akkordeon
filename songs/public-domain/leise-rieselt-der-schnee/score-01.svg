@@ -1,0 +1,1691 @@
+<svg width="720px" height="1019px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="ewg1bei">
+   <desc>Engraved by Verovio 6.4.1-fbe8f46</desc>
+   <defs>
+      <g id="E050-ewg1bei">
+         <path transform="scale(1,-1)" d="M376 415l25 -145c3 -18 3 -18 29 -18c147 0 241 -113 241 -241c0 -113 -67 -198 -168 -238c-14 -6 -15 -5 -13 -17c11 -62 29 -157 29 -214c0 -170 -130 -200 -197 -200c-151 0 -190 98 -190 163c0 62 40 115 107 115c61 0 96 -47 96 -102c0 -58 -36 -85 -67 -94 c-23 -7 -32 -10 -32 -17c0 -13 26 -29 80 -29c59 0 159 18 159 166c0 47 -15 134 -27 201c-2 12 -4 11 -15 9c-20 -4 -46 -6 -69 -6c-245 0 -364 165 -364 339c0 202 153 345 297 464c12 10 11 12 9 24c-7 41 -14 106 -14 164c0 104 24 229 98 311c20 22 51 48 65 48 c11 0 37 -28 52 -50c41 -60 65 -146 65 -233c0 -153 -82 -280 -190 -381c-6 -6 -8 -7 -6 -19zM470 943c-61 0 -133 -96 -133 -252c0 -32 2 -66 6 -92c2 -13 6 -14 13 -8c79 69 174 159 174 270c0 55 -27 82 -60 82zM361 262l-21 128c-2 11 -4 12 -14 4 c-47 -38 -93 -75 -153 -142c-83 -94 -93 -173 -93 -232c0 -139 113 -236 288 -236c20 0 40 2 56 5c15 3 16 3 14 14l-50 298c-2 11 -4 12 -20 8c-61 -17 -100 -60 -100 -117c0 -46 30 -89 72 -107c7 -3 15 -6 15 -13c0 -6 -4 -11 -12 -11c-7 0 -19 3 -27 6 c-68 23 -115 87 -115 177c0 85 57 164 145 194c18 6 18 5 15 24zM430 103l49 -285c2 -12 4 -12 16 -6c56 28 94 79 94 142c0 88 -67 156 -148 163c-12 1 -13 -2 -11 -14z" />
+      </g>
+      <g id="E086-ewg1bei">
+         <path transform="scale(1,-1)" d="M305 83c-13 0 -42 8 -49 21c-10 11 -15 26 -15 41c0 10 2 20 7 29c6 12 25 24 25 38c0 10 -13 15 -33 15c-21 0 -80 -5 -83 -190c0 -16 3 -24 9 -24c2 0 4 0 6 2c26 23 59 35 91 35c77 0 151 -67 151 -145c0 -45 -23 -90 -58 -118c-36 -29 -86 -36 -131 -36 c-84 0 -133 36 -174 110c-22 40 -30 92 -31 138v4c0 47 17 100 39 142c36 68 107 105 183 106c54 0 132 -17 142 -81c1 -4 1 -7 1 -11c0 -43 -38 -76 -80 -76zM222 2c-32 0 -58 -50 -58 -112s26 -112 58 -112s59 50 59 112s-27 112 -59 112z" />
+      </g>
+      <g id="E088-ewg1bei">
+         <path transform="scale(1,-1)" d="M334 36c47 -24 82 -57 82 -117c0 -135 -107 -178 -207 -178c-99 0 -189 40 -189 127c0 63 40 96 92 121c-48 27 -87 64 -87 133c0 84 79 137 195 137c27 0 174 -15 174 -117c0 -50 -24 -83 -60 -106zM282 59c33 19 53 45 53 85c0 70 -85 86 -117 86 c-44 0 -101 -21 -101 -63c0 -63 85 -80 165 -108zM205 -226c67 0 98 34 98 74c0 66 -74 87 -147 119c-44 -17 -79 -54 -79 -94c0 -65 61 -99 128 -99z" />
+      </g>
+      <g id="E0A4-ewg1bei">
+         <path transform="scale(1,-1)" d="M97 -125c-54 0 -97 31 -97 83c0 86 88 167 198 167c57 0 97 -32 97 -83c0 -85 -109 -167 -198 -167z" />
+      </g>
+      <g id="E241-ewg1bei">
+         <path transform="scale(1,-1)" d="M240 760c-10 29 7 48 22 48c7 0 13 -4 16 -15c8 -32 28 -103 28 -181c0 -125 -61 -244 -124 -343c-51 -79 -125 -166 -142 -261c-2 -16 -15 -22 -24 -22c-8 0 -16 5 -16 15v235c134 45 184 126 221 210c15 34 40 118 40 177c0 45 -7 95 -21 137z" />
+      </g>
+      <g id="E062-ewg1bei">
+         <path transform="scale(1,-1)" d="M252 262c173 0 279 -116 279 -290c0 -304 -260 -482 -506 -602c-6 -3 -12 -5 -17 -5c-9 0 -13 6 -13 12c0 8 6 13 15 18c233 133 371 289 371 568c0 157 -46 261 -152 261c-102 0 -162 -73 -162 -113c0 -10 3 -18 16 -18s23 7 50 7c49 0 96 -40 96 -104 c0 -62 -43 -106 -106 -106c-81 0 -123 69 -123 149c0 96 78 223 252 223zM629 180c31 0 55 -24 55 -55s-24 -55 -55 -55s-55 24 -55 55s24 55 55 55zM630 -71c31 0 54 -23 54 -54s-23 -54 -54 -54s-54 23 -54 54s23 54 54 54z" />
+      </g>
+      <g id="E0A3-ewg1bei">
+         <path transform="scale(1,-1)" d="M97 -125c-55 0 -97 30 -97 83c0 52 47 167 196 167c58 0 99 -32 99 -83c0 -33 -33 -167 -198 -167zM75 -87c48 0 189 88 189 131c0 7 -3 13 -6 19c-7 12 -18 21 -37 21c-47 0 -192 -79 -192 -128c0 -7 3 -14 6 -20c7 -12 19 -23 40 -23z" />
+      </g>
+      <g id="E240-ewg1bei">
+         <path transform="scale(1,-1)" d="M238 -790c-5 -17 -22 -23 -28 -19s-16 13 -16 29c0 4 1 9 3 15c17 45 24 92 24 137c0 59 -9 116 -24 150c-36 85 -131 221 -197 233v239c0 12 8 15 19 15c10 0 18 -6 21 -22c16 -96 58 -182 109 -261c63 -100 115 -218 115 -343c0 -78 -26 -173 -26 -173z" />
+      </g>
+      <g id="E4E5-ewg1bei">
+         <path transform="scale(1,-1)" d="M78 -38l-49 60s-10 10 -10 24c0 8 4 19 14 29c45 47 60 90 60 127c0 72 -57 123 -61 134c-3 6 -4 11 -4 16c0 14 10 21 20 21c6 0 13 -3 18 -8c17 -17 165 -193 165 -193s4 -9 4 -19c0 -5 -1 -10 -4 -15c-26 -41 -62 -89 -66 -147v-3l-1 -7v-3c0 -56 31 -93 69 -139 c11 -12 37 -45 37 -57c0 -3 -2 -4 -5 -4c-2 0 -4 0 -8 1l-1 1c-17 6 -50 17 -79 17c-42 0 -63 -32 -63 -73c0 -9 1 -18 4 -26c2 -9 13 -36 26 -36c8 -7 16 -15 16 -24c0 -2 -1 -4 -2 -7c-1 -4 -8 -6 -15 -6c-8 0 -18 3 -26 9c-73 56 -116 105 -116 155c0 49 34 96 86 96 l8 -3h4c4 -1 12 -3 16 -3c5 0 9 1 11 5c1 1 1 3 1 4c0 2 -4 10 -6 14c-13 21 -27 40 -43 60z" />
+      </g>
+   </defs>
+   <style type="text/css">#ewg1bei g.ending, #ewg1bei g.fing, #ewg1bei g.reh, #ewg1bei g.tempo {font-weight:bold;}#ewg1bei g.dir, #ewg1bei g.dynam, #ewg1bei g.mNum {font-style:italic;}#ewg1bei g.label {font-weight:normal;}#ewg1bei ellipse, #ewg1bei path, #ewg1bei polygon, #ewg1bei polyline, #ewg1bei rect {stroke:currentColor}#ewg1bei g.cursor {fill:dodgerblue; color:dodgerblue;}#ewg1bei g.cursor.chord {fill:limegreen; color:limegreen;}#ewg1bei g.placeholder {visibility:hidden}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 18000 25460">
+      <g class="page-margin" transform="translate(1100, 3200)">
+         <g id="f8ocmag" class="mdiv pageMilestone" />
+         <g id="gqy4evp" class="score pageMilestone" />
+         <g id="xu0jshw" class="system">
+            <path d="M13 630 L13 3482" stroke-width="27" />
+            <g id="o3pxcnz" class="grpSym">
+               <path d="M-72,3464 C-432,2924 18,2236 -252,2056 C81,2236 -369,2924 -72,3464" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,648 C-369,1188 81,1876 -252,2056 C18,1876 -432,1188 -72,648" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="e6in2le" class="section placeholder systemMilestone">
+               <ellipse cx="0" cy="0" rx="90" ry="90" />
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-0" class="measure">
+               <g id="o1omrh9m" class="staff">
+                  <path d="M0 630 L6120 630" stroke-width="13" />
+                  <path d="M0 810 L6120 810" stroke-width="13" />
+                  <path d="M0 990 L6120 990" stroke-width="13" />
+                  <path d="M0 1170 L6120 1170" stroke-width="13" />
+                  <path d="M0 1350 L6120 1350" stroke-width="13" />
+                  <g id="b1ikp5rw" class="clef">
+                     <use xlink:href="#E050-ewg1bei" transform="translate(120, 1170) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="ccdg7vm" class="keySig" />
+                  <g id="dv7m3uj" class="meterSig">
+                     <use xlink:href="#E086-ewg1bei" transform="translate(780, 810) scale(0.72, 0.72)" />
+                     <use xlink:href="#E088-ewg1bei" transform="translate(779, 1170) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="p1uetnnc" class="layer">
+                     <g id="leise-rieselt-der-schnee-m0-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(1376, 720) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="zdtsjmk" class="stem">
+                           <path d="M1385 750 L1385 1350" stroke-width="18" />
+                        </g>
+                        <g id="rv4xmuf" class="accid" />
+                        <g id="s16ss2ts" class="verse">
+                           <g id="tgx2o67" class="syl">
+                              <text x="1280" y="1950" font-size="0px">
+                                 <tspan id="u18mtm6c" class="text">
+                                    <tspan font-size="432px">17Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="vdmbnke" class="verse">
+                           <g id="w1bsqezu" class="syl">
+                              <text x="1280" y="2374" font-size="0px">
+                                 <tspan id="x1oxz37m" class="text">
+                                    <tspan font-size="432px">E5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="leise-rieselt-der-schnee-m0-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(2367, 720) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="a64izgt" class="stem">
+                           <path d="M2376 750 L2376 1350" stroke-width="18" />
+                           <g id="bcrw739" class="flag">
+                              <use xlink:href="#E241-ewg1bei" transform="translate(2367, 1350) scale(0.72, 0.72)" />
+                           </g>
+                        </g>
+                        <g id="zu3w3cq" class="accid" />
+                        <g id="a1f0nhh4" class="verse">
+                           <g id="b83ycph" class="syl">
+                              <text x="2271" y="1950" font-size="0px">
+                                 <tspan id="c1bzyxod" class="text">
+                                    <tspan font-size="432px">17Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="d1booxzd" class="verse">
+                           <g id="e17rh5yc" class="syl">
+                              <text x="2271" y="2374" font-size="0px">
+                                 <tspan id="f1u39rbu" class="text">
+                                    <tspan font-size="432px">E5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="g1cf5zo4" class="beam">
+                        <polygon points="3357,1395 5357,1395 5357,1305 3357,1305" />
+                        <g id="leise-rieselt-der-schnee-m0-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3357, 810) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="c18mhvz3" class="stem">
+                              <path d="M3366 840 L3366 1377" stroke-width="18" />
+                           </g>
+                           <g id="i3jkonn" class="accid" />
+                           <g id="j1qijhsy" class="verse">
+                              <g id="k18c97lp" class="syl">
+                                 <text x="3261" y="1950" font-size="0px">
+                                    <tspan id="l1jxnykb" class="text">
+                                       <tspan font-size="432px">16Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="m13sqlwb" class="verse">
+                              <g id="n178zqq5" class="syl">
+                                 <text x="3261" y="2374" font-size="0px">
+                                    <tspan id="ogystlf" class="text">
+                                       <tspan font-size="432px">D5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m0-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(4348, 720) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="d1kq9b3i" class="stem">
+                              <path d="M4357 750 L4357 1377" stroke-width="18" />
+                           </g>
+                           <g id="q17sqcj8" class="accid" />
+                           <g id="ra2hqfz" class="verse">
+                              <g id="s1nopk9b" class="syl">
+                                 <text x="4252" y="1950" font-size="0px">
+                                    <tspan id="tswzodf" class="text">
+                                       <tspan font-size="432px">17Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="u4ayts0" class="verse">
+                              <g id="v1rkzusm" class="syl">
+                                 <text x="4252" y="2374" font-size="0px">
+                                    <tspan id="w150sxzo" class="text">
+                                       <tspan font-size="432px">E5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m0-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(5339, 810) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ey2z4zu" class="stem">
+                              <path d="M5348 840 L5348 1377" stroke-width="18" />
+                           </g>
+                           <g id="y1pxcrdf" class="accid" />
+                           <g id="zd810le" class="verse">
+                              <g id="a1aqgxqa" class="syl">
+                                 <text x="5243" y="1950" font-size="0px">
+                                    <tspan id="b1soz8kc" class="text">
+                                       <tspan font-size="432px">16Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="cibg02e" class="verse">
+                              <g id="d1ejcpfr" class="syl">
+                                 <text x="5243" y="2374" font-size="0px">
+                                    <tspan id="eh992ph" class="text">
+                                       <tspan font-size="432px">D5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="ffozzbg" class="staff">
+                  <path d="M0 2762 L6120 2762" stroke-width="13" />
+                  <path d="M0 2942 L6120 2942" stroke-width="13" />
+                  <path d="M0 3122 L6120 3122" stroke-width="13" />
+                  <path d="M0 3302 L6120 3302" stroke-width="13" />
+                  <path d="M0 3482 L6120 3482" stroke-width="13" />
+                  <g id="e2ytpje" class="clef">
+                     <use xlink:href="#E062-ewg1bei" transform="translate(120, 2942) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="f1ht0c1p" class="keySig" />
+                  <g id="gsbjx3v" class="meterSig">
+                     <use xlink:href="#E086-ewg1bei" transform="translate(780, 2942) scale(0.72, 0.72)" />
+                     <use xlink:href="#E088-ewg1bei" transform="translate(779, 3302) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="g1m1qv86" class="layer">
+                     <g id="leise-rieselt-der-schnee-b0-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(1376, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="g1icgx4s" class="dots">
+                           <ellipse cx="1678" cy="3212" rx="36" ry="36" />
+                        </g>
+                        <g id="f9esb73" class="stem">
+                           <path d="M1579 3182 L1579 2582" stroke-width="18" />
+                        </g>
+                        <g id="i1psuni0" class="accid" />
+                        <g id="jk47spi" class="verse">
+                           <g id="kr63va2" class="syl">
+                              <text x="1280" y="4121" font-size="0px">
+                                 <tspan id="l1rqatic" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="mq4suld" class="verse">
+                           <g id="nsntti1" class="syl">
+                              <text x="1280" y="4545" font-size="0px">
+                                 <tspan id="ou0wpr8" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="p13vdpwj" class="chord">
+                        <g id="i1j1wmwf" class="dots">
+                           <ellipse cx="3659" cy="3392" rx="36" ry="36" />
+                           <ellipse cx="3659" cy="3212" rx="36" ry="36" />
+                           <ellipse cx="3659" cy="3032" rx="36" ry="36" />
+                        </g>
+                        <g id="hoh9x60" class="stem">
+                           <path d="M3560 3452 L3560 2522" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b0-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3357, 3482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="r1pxp8vq" class="accid" />
+                           <g id="s122frii" class="verse">
+                              <g id="trl1phv" class="syl">
+                                 <text x="3261" y="4121" font-size="0px">
+                                    <tspan id="uu8weky" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="v1wa4v3t" class="verse">
+                              <g id="wf5x6fy" class="syl">
+                                 <text x="3261" y="4545" font-size="0px">
+                                    <tspan id="x9yx9tj" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b0-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3357, 3302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="z8fb53a" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b0-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3357, 3122) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="bb4rg1h" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="c1rh90r4" class="harm">
+                  <text x="1376" y="347" font-size="0px">
+                     <tspan id="dsh7flh" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="e194gsu1" class="harm">
+                  <text x="3357" y="347" font-size="0px">
+                     <tspan id="fz2481g" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="n6788ze" class="barLine">
+                  <path d="M6107 630 L6107 1350" stroke-width="27" />
+                  <path d="M6107 2762 L6107 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-1" class="measure">
+               <g id="po3qmya" class="staff">
+                  <path d="M6120 630 L8696 630" stroke-width="13" />
+                  <path d="M6120 810 L8696 810" stroke-width="13" />
+                  <path d="M6120 990 L8696 990" stroke-width="13" />
+                  <path d="M6120 1170 L8696 1170" stroke-width="13" />
+                  <path d="M6120 1350 L8696 1350" stroke-width="13" />
+                  <g id="q11v1275" class="layer">
+                     <g id="leise-rieselt-der-schnee-m1-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-ewg1bei" transform="translate(6328, 900) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="ksz6rat" class="dots">
+                           <ellipse cx="6630" cy="900" rx="36" ry="36" />
+                        </g>
+                        <g id="jmcrys9" class="stem">
+                           <path d="M6337 930 L6337 1530" stroke-width="18" />
+                        </g>
+                        <g id="s12f5w2" class="accid" />
+                        <g id="tvm47rt" class="verse">
+                           <g id="u1hvurf1" class="syl">
+                              <text x="6232" y="1950" font-size="0px">
+                                 <tspan id="vj59efp" class="text">
+                                    <tspan font-size="432px">16D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="w1kbmb9y" class="verse">
+                           <g id="x18t0eog" class="syl">
+                              <text x="6232" y="2374" font-size="0px">
+                                 <tspan id="y19rq4w9" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="z11cjxry" class="staff">
+                  <path d="M6120 2762 L8696 2762" stroke-width="13" />
+                  <path d="M6120 2942 L8696 2942" stroke-width="13" />
+                  <path d="M6120 3122 L8696 3122" stroke-width="13" />
+                  <path d="M6120 3302 L8696 3302" stroke-width="13" />
+                  <path d="M6120 3482 L8696 3482" stroke-width="13" />
+                  <g id="a1n2uo0h" class="layer">
+                     <g id="leise-rieselt-der-schnee-b1-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(6328, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="m1mjc7hf" class="dots">
+                           <ellipse cx="6630" cy="3212" rx="36" ry="36" />
+                        </g>
+                        <g id="lckwcfk" class="stem">
+                           <path d="M6531 3182 L6531 2582" stroke-width="18" />
+                        </g>
+                        <g id="cdjka9n" class="accid" />
+                        <g id="dikoroc" class="verse">
+                           <g id="e1acwgby" class="syl">
+                              <text x="6232" y="4121" font-size="0px">
+                                 <tspan id="fub4auo" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="g7bgwez" class="verse">
+                           <g id="hw78ons" class="syl">
+                              <text x="6232" y="4545" font-size="0px">
+                                 <tspan id="iaqe5ii" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="j108mrp3" class="chord">
+                        <g id="ovknvvm" class="dots">
+                           <ellipse cx="7808" cy="3212" rx="36" ry="36" />
+                           <ellipse cx="7808" cy="3032" rx="36" ry="36" />
+                           <ellipse cx="7808" cy="2852" rx="36" ry="36" />
+                        </g>
+                        <g id="n12f0gub" class="stem">
+                           <path d="M7515 2882 L7515 3782" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b1-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(7506, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="l1atcmyz" class="accid" />
+                           <g id="m9k21as" class="verse">
+                              <g id="nqei6c5" class="syl">
+                                 <text x="7410" y="4121" font-size="0px">
+                                    <tspan id="oj8v5nr" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="p6evrzx" class="verse">
+                              <g id="q1q5vfk5" class="syl">
+                                 <text x="7410" y="4545" font-size="0px">
+                                    <tspan id="re5e5iz" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b1-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(7506, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="tc11gip" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b1-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(7506, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="vwhqgb9" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="w1gj8ypr" class="harm">
+                  <text x="6328" y="347" font-size="0px">
+                     <tspan id="xhldbv5" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="otls60q" class="barLine">
+                  <path d="M8683 630 L8683 1350" stroke-width="27" />
+                  <path d="M8683 2762 L8683 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-2" class="measure">
+               <g id="hzpqwzy" class="staff">
+                  <path d="M8696 630 L13226 630" stroke-width="13" />
+                  <path d="M8696 810 L13226 810" stroke-width="13" />
+                  <path d="M8696 990 L13226 990" stroke-width="13" />
+                  <path d="M8696 1170 L13226 1170" stroke-width="13" />
+                  <path d="M8696 1350 L13226 1350" stroke-width="13" />
+                  <g id="im1r97q" class="layer">
+                     <g id="leise-rieselt-der-schnee-m2-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(8904, 900) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="p17n1ow3" class="stem">
+                           <path d="M8913 930 L8913 1530" stroke-width="18" />
+                        </g>
+                        <g id="k1wfgg3l" class="accid" />
+                        <g id="lww17dd" class="verse">
+                           <g id="m19yzofk" class="syl">
+                              <text x="8724" y="1950" font-size="0px">
+                                 <tspan id="n1ynpd22" class="text">
+                                    <tspan font-size="432px">16D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="oh6msym" class="verse">
+                           <g id="p1wsjhk0" class="syl">
+                              <text x="8808" y="2374" font-size="0px">
+                                 <tspan id="q1jwwdsv" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="leise-rieselt-der-schnee-m2-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(9828, 1080) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="ql97w8v" class="stem">
+                           <path d="M10031 1050 L10031 450" stroke-width="18" />
+                           <g id="r18gq0el" class="flag">
+                              <use xlink:href="#E240-ewg1bei" transform="translate(10022, 450) scale(0.72, 0.72)" />
+                           </g>
+                        </g>
+                        <g id="s107pyp9" class="accid" />
+                        <g id="t19zty0s" class="verse">
+                           <g id="u1u04gov" class="syl">
+                              <text x="9732" y="1950" font-size="0px">
+                                 <tspan id="v1wm4ijh" class="text">
+                                    <tspan font-size="432px">15D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="wqc5nuv" class="verse">
+                           <g id="xg9o0ga" class="syl">
+                              <text x="9732" y="2374" font-size="0px">
+                                 <tspan id="y1lvfvmi" class="text">
+                                    <tspan font-size="432px">A4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="z15ddk3o" class="beam">
+                        <polygon points="10849,1440 12629,1620 12629,1530 10849,1350" />
+                        <g id="leise-rieselt-der-schnee-m2-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(10849, 900) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="s1orw6x8" class="stem">
+                              <path d="M10858 930 L10858 1422" stroke-width="18" />
+                           </g>
+                           <g id="b163edwc" class="accid" />
+                           <g id="cn70r79" class="verse">
+                              <g id="d1kbq87s" class="syl">
+                                 <text x="10753" y="1950" font-size="0px">
+                                    <tspan id="esgi3gy" class="text">
+                                       <tspan font-size="432px">16D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="f1amgz48" class="verse">
+                              <g id="g1fcik0e" class="syl">
+                                 <text x="10753" y="2374" font-size="0px">
+                                    <tspan id="he5nmhl" class="text">
+                                       <tspan font-size="432px">C5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m2-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(11869, 990) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="t1pvelzl" class="stem">
+                              <path d="M11878 1020 L11878 1527" stroke-width="18" />
+                           </g>
+                           <g id="jg18a1" class="accid" />
+                           <g id="kjp5322" class="verse">
+                              <g id="l1wvufpd" class="syl">
+                                 <text x="11773" y="1950" font-size="0px">
+                                    <tspan id="mzmnvnw" class="text">
+                                       <tspan font-size="432px">6Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="n1sgksvf" class="verse">
+                              <g id="o19z7jjt" class="syl">
+                                 <text x="11748" y="2374" font-size="0px">
+                                    <tspan id="pl70093" class="text">
+                                       <tspan font-size="432px">B4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m2-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(12611, 1080) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ukxwsgz" class="stem">
+                              <path d="M12620 1110 L12620 1602" stroke-width="18" />
+                           </g>
+                           <g id="r8juqmt" class="accid" />
+                           <g id="sz4hvl0" class="verse">
+                              <g id="tr5ws91" class="syl">
+                                 <text x="12515" y="1950" font-size="0px">
+                                    <tspan id="u1x6dt3h" class="text">
+                                       <tspan font-size="432px">5Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="v775sy9" class="verse">
+                              <g id="we3698h" class="syl">
+                                 <text x="12515" y="2374" font-size="0px">
+                                    <tspan id="x18nsxzg" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="y1yskkn9" class="staff">
+                  <path d="M8696 2762 L13226 2762" stroke-width="13" />
+                  <path d="M8696 2942 L13226 2942" stroke-width="13" />
+                  <path d="M8696 3122 L13226 3122" stroke-width="13" />
+                  <path d="M8696 3302 L13226 3302" stroke-width="13" />
+                  <path d="M8696 3482 L13226 3482" stroke-width="13" />
+                  <g id="z1yq0m6e" class="layer">
+                     <g id="leise-rieselt-der-schnee-b2-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(8904, 3572) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="wzinbjq" class="dots">
+                           <ellipse cx="9206" cy="3572" rx="36" ry="36" />
+                        </g>
+                        <g id="vn6jt87" class="stem">
+                           <path d="M9107 3542 L9107 2942" stroke-width="18" />
+                        </g>
+                        <g id="bgbrsnj" class="accid" />
+                        <g id="c10h5t41" class="verse">
+                           <g id="dzyi74k" class="syl">
+                              <text x="8808" y="4121" font-size="0px">
+                                 <tspan id="ertj6gu" class="text">
+                                    <tspan font-size="432px">L4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="fvpjvp7" class="verse">
+                           <g id="g48krt5" class="syl">
+                              <text x="8808" y="4545" font-size="0px">
+                                 <tspan id="h1qhi842" class="text">
+                                    <tspan font-size="432px">F</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="i15jnlml" class="chord">
+                        <g id="x1it6nxq" class="stem">
+                           <path d="M11052 3542 L11052 2582" stroke-width="18" />
+                           <g id="y1pwlxpj" class="flag">
+                              <use xlink:href="#E240-ewg1bei" transform="translate(11043, 2582) scale(0.72, 0.72)" />
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b2-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(10849, 3572) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="k1upxqrt" class="accid" />
+                           <g id="l1cpzuws" class="verse">
+                              <g id="m8edf7c" class="syl">
+                                 <text x="10753" y="4121" font-size="0px">
+                                    <tspan id="nen7lhj" class="text">
+                                       <tspan font-size="432px">L3D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="o113zj08" class="verse">
+                              <g id="ptkldjv" class="syl">
+                                 <text x="10753" y="4545" font-size="0px">
+                                    <tspan id="q16a6crv" class="text">
+                                       <tspan font-size="432px">F</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b2-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(10849, 3392) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="s1v5n9l4" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b2-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(10849, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="u1201h9p" class="accid" />
+                        </g>
+                     </g>
+                     <g id="v3o4c2b" class="rest">
+                        <use xlink:href="#E4E5-ewg1bei" transform="translate(11869, 3122) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="w1f8mzii" class="harm">
+                  <text x="8904" y="347" font-size="0px">
+                     <tspan id="x1566mia" class="text">
+                        <tspan font-size="432px">F</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="g1yix7f8" class="barLine">
+                  <path d="M13213 630 L13213 1350" stroke-width="27" />
+                  <path d="M13213 2762 L13213 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-3" class="measure">
+               <g id="hd6a81b" class="staff">
+                  <path d="M13226 630 L15802 630" stroke-width="13" />
+                  <path d="M13226 810 L15802 810" stroke-width="13" />
+                  <path d="M13226 990 L15802 990" stroke-width="13" />
+                  <path d="M13226 1170 L15802 1170" stroke-width="13" />
+                  <path d="M13226 1350 L15802 1350" stroke-width="13" />
+                  <g id="i1hejlhn" class="layer">
+                     <g id="leise-rieselt-der-schnee-m3-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-ewg1bei" transform="translate(13434, 1170) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="a1nbsji6" class="dots">
+                           <ellipse cx="13736" cy="1080" rx="36" ry="36" />
+                        </g>
+                        <g id="z12x2es5" class="stem">
+                           <path d="M13637 1140 L13637 540" stroke-width="18" />
+                        </g>
+                        <g id="k13s8skk" class="accid" />
+                        <g id="lidm017" class="verse">
+                           <g id="m1q8yrnl" class="syl">
+                              <text x="13338" y="1950" font-size="0px">
+                                 <tspan id="n1cko0r6" class="text">
+                                    <tspan font-size="432px">14Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="o1fe9eqh" class="verse">
+                           <g id="p11uzdce" class="syl">
+                              <text x="13338" y="2374" font-size="0px">
+                                 <tspan id="q49op20" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="rr7vm1z" class="staff">
+                  <path d="M13226 2762 L15802 2762" stroke-width="13" />
+                  <path d="M13226 2942 L15802 2942" stroke-width="13" />
+                  <path d="M13226 3122 L15802 3122" stroke-width="13" />
+                  <path d="M13226 3302 L15802 3302" stroke-width="13" />
+                  <path d="M13226 3482 L15802 3482" stroke-width="13" />
+                  <g id="s1vnjla5" class="layer">
+                     <g id="leise-rieselt-der-schnee-b3-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(13434, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="cwqblxa" class="dots">
+                           <ellipse cx="13736" cy="3212" rx="36" ry="36" />
+                        </g>
+                        <g id="b1dnzup5" class="stem">
+                           <path d="M13637 3182 L13637 2582" stroke-width="18" />
+                        </g>
+                        <g id="uo4m80z" class="accid" />
+                        <g id="vqqq1cq" class="verse">
+                           <g id="w86zhs4" class="syl">
+                              <text x="13338" y="4121" font-size="0px">
+                                 <tspan id="xbu87rl" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ypcob77" class="verse">
+                           <g id="z19mon1r" class="syl">
+                              <text x="13338" y="4545" font-size="0px">
+                                 <tspan id="aub5zeh" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="bq1wk9k" class="chord">
+                        <g id="e7dimpr" class="dots">
+                           <ellipse cx="14914" cy="3212" rx="36" ry="36" />
+                           <ellipse cx="14914" cy="3032" rx="36" ry="36" />
+                           <ellipse cx="14914" cy="2852" rx="36" ry="36" />
+                        </g>
+                        <g id="dy18aj9" class="stem">
+                           <path d="M14621 2882 L14621 3782" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b3-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(14612, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="d1ahztpm" class="accid" />
+                           <g id="e38wc48" class="verse">
+                              <g id="f1wge1p8" class="syl">
+                                 <text x="14516" y="4121" font-size="0px">
+                                    <tspan id="ggl8om6" class="text">
+                                       <tspan font-size="432px">L3Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="h1s4t2pw" class="verse">
+                              <g id="if89sq4" class="syl">
+                                 <text x="14516" y="4545" font-size="0px">
+                                    <tspan id="j1f0am38" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b3-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(14612, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="l1mffebd" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b3-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(14612, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="n18yr59a" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="octp5bb" class="harm">
+                  <text x="13434" y="347" font-size="0px">
+                     <tspan id="pncqvf2" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="glmsexd" class="barLine">
+                  <path d="M15789 630 L15789 1350" stroke-width="27" />
+                  <path d="M15789 2762 L15789 3482" stroke-width="27" />
+               </g>
+            </g>
+         </g>
+         <g id="apgshwf" class="system">
+            <path d="M13 5880 L13 8777" stroke-width="27" />
+            <g id="m56vix3" class="grpSym">
+               <path d="M-72,8759 C-432,8219 18,7509 -252,7329 C81,7509 -369,8219 -72,8759" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,5898 C-369,6438 81,7149 -252,7329 C18,7149 -432,6438 -72,5898" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-4" class="measure">
+               <g id="ga7o3eq" class="mNum autogenerated">
+                  <text y="5621" text-anchor="middle" font-size="0px">
+                     <tspan id="h8fsuq" class="text">
+                        <tspan font-size="345px">5</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="zsyf6us" class="staff">
+                  <path d="M0 5880 L6188 5880" stroke-width="13" />
+                  <path d="M0 6060 L6188 6060" stroke-width="13" />
+                  <path d="M0 6240 L6188 6240" stroke-width="13" />
+                  <path d="M0 6420 L6188 6420" stroke-width="13" />
+                  <path d="M0 6600 L6188 6600" stroke-width="13" />
+                  <g id="z12y7nx8" class="clef">
+                     <use xlink:href="#E050-ewg1bei" transform="translate(120, 6420) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="appv3w5" class="keySig" />
+                  <g id="a163q6tg" class="layer">
+                     <g id="b2m6g6y" class="beam">
+                        <polygon points="902,6780 2848,6780 2848,6690 902,6690" />
+                        <g id="leise-rieselt-der-schnee-m4-e0-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(902, 6060) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="fqonnoh" class="stem">
+                              <path d="M911 6090 L911 6762" stroke-width="18" />
+                           </g>
+                           <g id="d1vu174s" class="accid" />
+                           <g id="e1c4tg7n" class="verse">
+                              <g id="fhl95lv" class="syl">
+                                 <text x="806" y="7245" font-size="0px">
+                                    <tspan id="g54qozy" class="text">
+                                       <tspan font-size="432px">16Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="hht1d9o" class="verse">
+                              <g id="i1r0s2ln" class="syl">
+                                 <text x="806" y="7669" font-size="0px">
+                                    <tspan id="jgzqc6u" class="text">
+                                       <tspan font-size="432px">D5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m4-e1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(1852, 6150) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="g11gx8b5" class="stem">
+                              <path d="M1861 6180 L1861 6762" stroke-width="18" />
+                           </g>
+                           <g id="l50r3of" class="accid" />
+                           <g id="m1jhad4k" class="verse">
+                              <g id="n11hpd3v" class="syl">
+                                 <text x="1756" y="7245" font-size="0px">
+                                    <tspan id="ou2tmvg" class="text">
+                                       <tspan font-size="432px">16D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="p1jrsgg7" class="verse">
+                              <g id="q1elze0r" class="syl">
+                                 <text x="1756" y="7669" font-size="0px">
+                                    <tspan id="r1m3otce" class="text">
+                                       <tspan font-size="432px">C5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m4-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(2830, 6060) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="h1kccydf" class="stem">
+                              <path d="M2839 6090 L2839 6762" stroke-width="18" />
+                           </g>
+                           <g id="t2d9rlx" class="accid" />
+                           <g id="ufjr8j6" class="verse">
+                              <g id="v6uc6ow" class="syl">
+                                 <text x="2734" y="7245" font-size="0px">
+                                    <tspan id="w8b7dmy" class="text">
+                                       <tspan font-size="432px">16Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="xuqen2k" class="verse">
+                              <g id="yc6hlvi" class="syl">
+                                 <text x="2734" y="7669" font-size="0px">
+                                    <tspan id="zw3exue" class="text">
+                                       <tspan font-size="432px">D5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="a1lfsb0e" class="beam">
+                        <polygon points="3779,6465 5457,6645 5457,6555 3779,6375" />
+                        <g id="leise-rieselt-der-schnee-m4-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3779, 5880) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="i3pdzp1" class="stem">
+                              <path d="M3788 5910 L3788 6447" stroke-width="18" />
+                           </g>
+                           <g id="c16zg49l" class="accid" />
+                           <g id="d41xf2l" class="verse">
+                              <g id="ezi4ryc" class="syl">
+                                 <text x="3683" y="7245" font-size="0px">
+                                    <tspan id="fnk1ca" class="text">
+                                       <tspan font-size="432px">8Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="g6fm21t" class="verse">
+                              <g id="h1jf20qg" class="syl">
+                                 <text x="3683" y="7669" font-size="0px">
+                                    <tspan id="i1hfs6hj" class="text">
+                                       <tspan font-size="432px">F5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m4-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(4489, 5970) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="j1ty1usa" class="stem">
+                              <path d="M4498 6000 L4498 6524" stroke-width="18" />
+                           </g>
+                           <g id="k2aqbod" class="accid" />
+                           <g id="lro8wwv" class="verse">
+                              <g id="m2p3lno" class="syl">
+                                 <text x="4393" y="7245" font-size="0px">
+                                    <tspan id="no439ci" class="text">
+                                       <tspan font-size="432px">17Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="o1bcnsjp" class="verse">
+                              <g id="p16mv49o" class="syl">
+                                 <text x="4393" y="7669" font-size="0px">
+                                    <tspan id="q195741y" class="text">
+                                       <tspan font-size="432px">E5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m4-e5-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(5439, 6060) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="kpxgbtu" class="stem">
+                              <path d="M5448 6090 L5448 6627" stroke-width="18" />
+                           </g>
+                           <g id="s4eavjp" class="accid" />
+                           <g id="t181t93u" class="verse">
+                              <g id="u1pbwnz1" class="syl">
+                                 <text x="5343" y="7245" font-size="0px">
+                                    <tspan id="v45pxte" class="text">
+                                       <tspan font-size="432px">16Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="w1wy8tf5" class="verse">
+                              <g id="x1w9sljv" class="syl">
+                                 <text x="5343" y="7669" font-size="0px">
+                                    <tspan id="y12hg926" class="text">
+                                       <tspan font-size="432px">D5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="zxbsbkl" class="staff">
+                  <path d="M0 8057 L6188 8057" stroke-width="13" />
+                  <path d="M0 8237 L6188 8237" stroke-width="13" />
+                  <path d="M0 8417 L6188 8417" stroke-width="13" />
+                  <path d="M0 8597 L6188 8597" stroke-width="13" />
+                  <path d="M0 8777 L6188 8777" stroke-width="13" />
+                  <g id="bgw5xoi" class="clef">
+                     <use xlink:href="#E062-ewg1bei" transform="translate(120, 8237) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="c16w6ju5" class="keySig" />
+                  <g id="a1x4d0xm" class="layer">
+                     <g id="leise-rieselt-der-schnee-b4-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(902, 8777) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="ls0a9c0" class="stem">
+                           <path d="M1105 8747 L1105 8147" stroke-width="18" />
+                           <g id="mrmmozx" class="flag">
+                              <use xlink:href="#E240-ewg1bei" transform="translate(1096, 8147) scale(0.72, 0.72)" />
+                           </g>
+                        </g>
+                        <g id="c1jf3b4m" class="accid" />
+                        <g id="dr40cym" class="verse">
+                           <g id="eo9mfe1" class="syl">
+                              <text x="806" y="9416" font-size="0px">
+                                 <tspan id="f1ewos0f" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="gbn28b8" class="verse">
+                           <g id="h1ire965" class="syl">
+                              <text x="806" y="9840" font-size="0px">
+                                 <tspan id="igqe4kg" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="j50c393" class="rest">
+                        <use xlink:href="#E4E5-ewg1bei" transform="translate(1852, 8417) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="k157ow6c" class="chord">
+                        <g id="o18uivo3" class="dots">
+                           <ellipse cx="4081" cy="8327" rx="36" ry="36" />
+                           <ellipse cx="4081" cy="8147" rx="36" ry="36" />
+                           <ellipse cx="4081" cy="7967" rx="36" ry="36" />
+                        </g>
+                        <g id="n17wm9m3" class="stem">
+                           <path d="M3788 8087 L3788 9017" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b4-2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3779, 8417) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="mvqg46l" class="accid" />
+                           <g id="n1gfd5ws" class="verse">
+                              <g id="o3uxksb" class="syl">
+                                 <text x="3683" y="9416" font-size="0px">
+                                    <tspan id="p1piypb5" class="text">
+                                       <tspan font-size="432px">L5Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="q1ivxg69" class="verse">
+                              <g id="rch9fjh" class="syl">
+                                 <text x="3683" y="9840" font-size="0px">
+                                    <tspan id="s17qa2w" class="text">
+                                       <tspan font-size="432px">Dm</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b4-2-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3779, 8237) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="u1s54nel" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b4-2-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(3779, 8057) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="wd831tr" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="x6ijpbo" class="harm">
+                  <text x="902" y="5471" font-size="0px">
+                     <tspan id="y18blpfp" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="z19ck24s" class="harm">
+                  <text x="3779" y="5471" font-size="0px">
+                     <tspan id="a2rq8g8" class="text">
+                        <tspan font-size="432px">Dm</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="y1si3hr1" class="barLine">
+                  <path d="M6175 5880 L6175 6600" stroke-width="27" />
+                  <path d="M6175 8057 L6175 8777" stroke-width="27" />
+               </g>
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-5" class="measure">
+               <g id="ke2hvmf" class="staff">
+                  <path d="M6188 5880 L8657 5880" stroke-width="13" />
+                  <path d="M6188 6060 L8657 6060" stroke-width="13" />
+                  <path d="M6188 6240 L8657 6240" stroke-width="13" />
+                  <path d="M6188 6420 L8657 6420" stroke-width="13" />
+                  <path d="M6188 6600 L8657 6600" stroke-width="13" />
+                  <g id="lh200yy" class="layer">
+                     <g id="leise-rieselt-der-schnee-m5-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-ewg1bei" transform="translate(6387, 6150) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="qvkbmm4" class="dots">
+                           <ellipse cx="6689" cy="6150" rx="36" ry="36" />
+                        </g>
+                        <g id="p1t9h5kq" class="stem">
+                           <path d="M6396 6180 L6396 6780" stroke-width="18" />
+                        </g>
+                        <g id="nipyyj8" class="accid" />
+                        <g id="o1rhx1bn" class="verse">
+                           <g id="p17m01b7" class="syl">
+                              <text x="6291" y="7245" font-size="0px">
+                                 <tspan id="qq8kv0p" class="text">
+                                    <tspan font-size="432px">16D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r1yjnvjt" class="verse">
+                           <g id="skg9t9v" class="syl">
+                              <text x="6291" y="7669" font-size="0px">
+                                 <tspan id="tmcw2f8" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="u1ghoz95" class="staff">
+                  <path d="M6188 8057 L8657 8057" stroke-width="13" />
+                  <path d="M6188 8237 L8657 8237" stroke-width="13" />
+                  <path d="M6188 8417 L8657 8417" stroke-width="13" />
+                  <path d="M6188 8597 L8657 8597" stroke-width="13" />
+                  <path d="M6188 8777 L8657 8777" stroke-width="13" />
+                  <g id="v54u7nv" class="layer">
+                     <g id="leise-rieselt-der-schnee-b5-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(6387, 8507) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="s1k957ei" class="dots">
+                           <ellipse cx="6689" cy="8507" rx="36" ry="36" />
+                        </g>
+                        <g id="ro34f0c" class="stem">
+                           <path d="M6590 8477 L6590 7877" stroke-width="18" />
+                        </g>
+                        <g id="x57tuna" class="accid" />
+                        <g id="y1qjpzll" class="verse">
+                           <g id="z134hekz" class="syl">
+                              <text x="6291" y="9416" font-size="0px">
+                                 <tspan id="a1a8q16k" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="b1rhzlkn" class="verse">
+                           <g id="cv49xn1" class="syl">
+                              <text x="6291" y="9840" font-size="0px">
+                                 <tspan id="d19jl10" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="eazaowc" class="chord">
+                        <g id="u19mriwj" class="dots">
+                           <ellipse cx="7818" cy="8507" rx="36" ry="36" />
+                           <ellipse cx="7818" cy="8327" rx="36" ry="36" />
+                           <ellipse cx="7818" cy="8147" rx="36" ry="36" />
+                        </g>
+                        <g id="teb7yti" class="stem">
+                           <path d="M7525 8177 L7525 9077" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b5-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(7516, 8507) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="gn25xdv" class="accid" />
+                           <g id="h1pam7su" class="verse">
+                              <g id="ij5rh5x" class="syl">
+                                 <text x="7420" y="9416" font-size="0px">
+                                    <tspan id="j3z59rq" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="k8y2vl7" class="verse">
+                              <g id="lb6b4au" class="syl">
+                                 <text x="7420" y="9840" font-size="0px">
+                                    <tspan id="m16l2u8h" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b5-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(7516, 8327) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="oqrhceu" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b5-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(7516, 8147) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="q1j01pzx" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="r1inl92c" class="harm">
+                  <text x="6387" y="5471" font-size="0px">
+                     <tspan id="s1slpz7x" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="j1oy67al" class="barLine">
+                  <path d="M8644 5880 L8644 6600" stroke-width="27" />
+                  <path d="M8644 8057 L8644 8777" stroke-width="27" />
+               </g>
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-6" class="measure">
+               <g id="c1p1pn4g" class="staff">
+                  <path d="M8657 5880 L13171 5880" stroke-width="13" />
+                  <path d="M8657 6060 L13171 6060" stroke-width="13" />
+                  <path d="M8657 6240 L13171 6240" stroke-width="13" />
+                  <path d="M8657 6420 L13171 6420" stroke-width="13" />
+                  <path d="M8657 6600 L13171 6600" stroke-width="13" />
+                  <g id="dkw6ob6" class="layer">
+                     <g id="e13rpmmt" class="beam">
+                        <polygon points="8856,6915 10363,6915 10363,6825 8856,6825" />
+                        <polygon points="9397,6780 9609,6780 9609,6690 9397,6690" />
+                        <g id="leise-rieselt-der-schnee-m6-e0-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(8856, 6060) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="w18orwun" class="dots">
+                              <ellipse cx="9158" cy="5970" rx="36" ry="36" />
+                           </g>
+                           <g id="v1g8smxx" class="stem">
+                              <path d="M8865 6090 L8865 6897" stroke-width="18" />
+                           </g>
+                           <g id="g4x2gg3" class="accid" />
+                           <g id="h9nbojh" class="verse">
+                              <g id="i1aa13es" class="syl">
+                                 <text x="8574" y="7245" font-size="0px">
+                                    <tspan id="jubgaxf" class="text">
+                                       <tspan font-size="432px">16Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="kwhkhzx" class="verse">
+                              <g id="l1e04b7n" class="syl">
+                                 <text x="8760" y="7669" font-size="0px">
+                                    <tspan id="mlqpxk7" class="text">
+                                       <tspan font-size="432px">D5</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m6-e1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(9600, 6330) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="xwmu72k" class="stem">
+                              <path d="M9609 6360 L9609 6897" stroke-width="18" />
+                           </g>
+                           <g id="oly78qf" class="accid" />
+                           <g id="pbeogjo" class="verse">
+                              <g id="q66xup4" class="syl">
+                                 <text x="9504" y="7245" font-size="0px">
+                                    <tspan id="r56bhsr" class="text">
+                                       <tspan font-size="432px">5Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="s1yei9bu" class="verse">
+                              <g id="tspfr9o" class="syl">
+                                 <text x="9500" y="7669" font-size="0px">
+                                    <tspan id="ukf1m2g" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m6-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(10345, 6330) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="y1b90o02" class="stem">
+                              <path d="M10354 6360 L10354 6897" stroke-width="18" />
+                           </g>
+                           <g id="wbi0ntl" class="accid" />
+                           <g id="x11kf3u7" class="verse">
+                              <g id="y1b0jwry" class="syl">
+                                 <text x="10249" y="7245" font-size="0px">
+                                    <tspan id="zohpr68" class="text">
+                                       <tspan font-size="432px">5Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="alr4uwr" class="verse">
+                              <g id="bmo04qh" class="syl">
+                                 <text x="10249" y="7669" font-size="0px">
+                                    <tspan id="c1lbuk34" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="d159j13b" class="beam">
+                        <polygon points="11288,5655 12794,5655 12794,5745 11288,5745" />
+                        <g id="leise-rieselt-der-schnee-m6-e3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(11094, 6240) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ztwywft" class="stem">
+                              <path d="M11297 6210 L11297 5673" stroke-width="18" />
+                           </g>
+                           <g id="f13iw7p5" class="accid" />
+                           <g id="g1ckurhk" class="verse">
+                              <g id="hmmc22b" class="syl">
+                                 <text x="10998" y="7245" font-size="0px">
+                                    <tspan id="ibqrlb5" class="text">
+                                       <tspan font-size="432px">6Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="jvbfbfn" class="verse">
+                              <g id="k1yob8g2" class="syl">
+                                 <text x="10998" y="7669" font-size="0px">
+                                    <tspan id="lrhcgoj" class="text">
+                                       <tspan font-size="432px">B4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m6-e4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(11832, 6330) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="a1mrti98" class="stem">
+                              <path d="M12035 6300 L12035 5673" stroke-width="18" />
+                           </g>
+                           <g id="n1cp294m" class="accid" />
+                           <g id="o1jfmptl" class="verse">
+                              <g id="p1nbripj" class="syl">
+                                 <text x="11736" y="7245" font-size="0px">
+                                    <tspan id="qskayaz" class="text">
+                                       <tspan font-size="432px">5Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="r1380xwe" class="verse">
+                              <g id="sy3p1rw" class="syl">
+                                 <text x="11736" y="7669" font-size="0px">
+                                    <tspan id="t1umpja1" class="text">
+                                       <tspan font-size="432px">A4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-m6-e5-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(12582, 6240) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b3qioe8" class="stem">
+                              <path d="M12785 6210 L12785 5673" stroke-width="18" />
+                           </g>
+                           <g id="v54xuf3" class="accid" />
+                           <g id="w1tq94zz" class="verse">
+                              <g id="x87urth" class="syl">
+                                 <text x="12486" y="7245" font-size="0px">
+                                    <tspan id="y1gf0fri" class="text">
+                                       <tspan font-size="432px">6Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="zwz2e9k" class="verse">
+                              <g id="axz1a7u" class="syl">
+                                 <text x="12486" y="7669" font-size="0px">
+                                    <tspan id="b1j6t77l" class="text">
+                                       <tspan font-size="432px">B4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="cpkjlcx" class="staff">
+                  <path d="M8657 8057 L13171 8057" stroke-width="13" />
+                  <path d="M8657 8237 L13171 8237" stroke-width="13" />
+                  <path d="M8657 8417 L13171 8417" stroke-width="13" />
+                  <path d="M8657 8597 L13171 8597" stroke-width="13" />
+                  <path d="M8657 8777 L13171 8777" stroke-width="13" />
+                  <g id="d16mishl" class="layer">
+                     <g id="eno2xwz" class="rest">
+                        <use xlink:href="#E4E5-ewg1bei" transform="translate(8856, 8417) scale(0.72, 0.72)" />
+                        <g id="c1jpj6dz" class="dots">
+                           <ellipse cx="9139" cy="8327" rx="36" ry="36" />
+                        </g>
+                     </g>
+                     <g id="f1nmu2xt" class="chord">
+                        <g id="em7w2lf" class="dots">
+                           <ellipse cx="11396" cy="8687" rx="36" ry="36" />
+                           <ellipse cx="11396" cy="8507" rx="36" ry="36" />
+                           <ellipse cx="11396" cy="8327" rx="36" ry="36" />
+                        </g>
+                        <g id="dbgx7oe" class="stem">
+                           <path d="M11297 8747 L11297 7817" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b6-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(11094, 8777) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="h1x8p2m9" class="accid" />
+                           <g id="id6c55i" class="verse">
+                              <g id="jg6wz5k" class="syl">
+                                 <text x="10998" y="9416" font-size="0px">
+                                    <tspan id="ks5ow73" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="lxql5mm" class="verse">
+                              <g id="mszkcfs" class="syl">
+                                 <text x="10998" y="9840" font-size="0px">
+                                    <tspan id="n6bubgb" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b6-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(11094, 8597) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="p1l5hnsq" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b6-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(11094, 8417) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="rfmbomv" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="sdsf1pd" class="harm">
+                  <text x="8856" y="5471" font-size="0px">
+                     <tspan id="t178g98x" class="text">
+                        <tspan font-size="432px">F</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="u1jwsh91" class="harm">
+                  <text x="11094" y="5471" font-size="0px">
+                     <tspan id="v1f46478" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="b114wstd" class="barLine">
+                  <path d="M13158 5880 L13158 6600" stroke-width="27" />
+                  <path d="M13158 8057 L13158 8777" stroke-width="27" />
+               </g>
+            </g>
+            <g id="leise-rieselt-der-schnee-measure-7" class="measure">
+               <g id="f16f3pma" class="staff">
+                  <path d="M13171 5880 L15802 5880" stroke-width="13" />
+                  <path d="M13171 6060 L15802 6060" stroke-width="13" />
+                  <path d="M13171 6240 L15802 6240" stroke-width="13" />
+                  <path d="M13171 6420 L15802 6420" stroke-width="13" />
+                  <path d="M13171 6600 L15802 6600" stroke-width="13" />
+                  <g id="gopm9c8" class="layer">
+                     <g id="leise-rieselt-der-schnee-m7-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-ewg1bei" transform="translate(13370, 6150) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="g6ul1b3" class="dots">
+                           <ellipse cx="13672" cy="6150" rx="36" ry="36" />
+                        </g>
+                        <g id="f1fnack9" class="stem">
+                           <path d="M13379 6180 L13379 6780" stroke-width="18" />
+                        </g>
+                        <g id="iblpvqk" class="accid" />
+                        <g id="j1uee24a" class="verse">
+                           <g id="k2dofy" class="syl">
+                              <text x="13274" y="7245" font-size="0px">
+                                 <tspan id="l1cpjex1" class="text">
+                                    <tspan font-size="432px">6D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="mslw8oc" class="verse">
+                           <g id="nxim82l" class="syl">
+                              <text x="13274" y="7669" font-size="0px">
+                                 <tspan id="o11plcf3" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="p1olyj7a" class="staff">
+                  <path d="M13171 8057 L15802 8057" stroke-width="13" />
+                  <path d="M13171 8237 L15802 8237" stroke-width="13" />
+                  <path d="M13171 8417 L15802 8417" stroke-width="13" />
+                  <path d="M13171 8597 L15802 8597" stroke-width="13" />
+                  <path d="M13171 8777 L15802 8777" stroke-width="13" />
+                  <g id="qlaor2q" class="layer">
+                     <g id="leise-rieselt-der-schnee-b7-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-ewg1bei" transform="translate(13370, 8507) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="iisvu32" class="dots">
+                           <ellipse cx="13672" cy="8507" rx="36" ry="36" />
+                        </g>
+                        <g id="hugf1mu" class="stem">
+                           <path d="M13573 8477 L13573 7877" stroke-width="18" />
+                        </g>
+                        <g id="s196vg4b" class="accid" />
+                        <g id="t1yx8j2p" class="verse">
+                           <g id="u1iuwdik" class="syl">
+                              <text x="13274" y="9416" font-size="0px">
+                                 <tspan id="v152nkp" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="w11d7rz5" class="verse">
+                           <g id="xxk1200" class="syl">
+                              <text x="13274" y="9840" font-size="0px">
+                                 <tspan id="y1jos2fa" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="zgthfqq" class="chord">
+                        <g id="k7vbx2y" class="dots">
+                           <ellipse cx="14801" cy="8507" rx="36" ry="36" />
+                           <ellipse cx="14801" cy="8327" rx="36" ry="36" />
+                           <ellipse cx="14801" cy="8147" rx="36" ry="36" />
+                        </g>
+                        <g id="j6vmv02" class="stem">
+                           <path d="M14508 8177 L14508 9077" stroke-width="18" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b7-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(14499, 8507) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b6fpmjg" class="accid" />
+                           <g id="c9wp35w" class="verse">
+                              <g id="d1i00a31" class="syl">
+                                 <text x="14403" y="9416" font-size="0px">
+                                    <tspan id="et4h6i3" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="f1eo3pi0" class="verse">
+                              <g id="govugv6" class="syl">
+                                 <text x="14403" y="9840" font-size="0px">
+                                    <tspan id="hav5g5o" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b7-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(14499, 8327) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="jmlknzk" class="accid" />
+                        </g>
+                        <g id="leise-rieselt-der-schnee-b7-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-ewg1bei" transform="translate(14499, 8147) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ludn7wg" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="m1ar7fsx" class="harm">
+                  <text x="13370" y="5471" font-size="0px">
+                     <tspan id="ng0le93" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="ekmfvf7" class="barLine">
+                  <path d="M15627 5880 L15627 6600" stroke-width="27" />
+                  <path d="M15757 5880 L15757 6600" stroke-width="90" />
+                  <path d="M15627 8057 L15627 8777" stroke-width="27" />
+                  <path d="M15757 8057 L15757 8777" stroke-width="90" />
+               </g>
+            </g>
+            <g id="v1xmmoyh" class="systemMilestoneEnd e6in2le" />
+         </g>
+         <g id="w1ib332l" class="pageMilestoneEnd gqy4evp" />
+         <g id="x1plt3ah" class="pageMilestoneEnd f8ocmag" />
+      </g>
+   </svg>
+</svg>

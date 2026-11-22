@@ -1,0 +1,243 @@
+{
+  "id": "alle-jahre-wieder",
+  "title": "Alle Jahre wieder",
+  "key": "C",
+  "meter": "4/4",
+  "pickup_quarters": 0,
+  "tempo_bpm": 80,
+  "difficulty": 1,
+  "composer": "Philipp Friedrich Silcher (1789–1860)",
+  "lyricist": "Johann Wilhelm Hey (1789–1854)",
+  "practice_notes_de": [
+    "Jeden Takt laut mit 1–2–3–4 zählen.",
+    "Die Achtelpaare gleichmäßig spielen; die punktierte Anfangsnote länger halten.",
+    "Erst Melodie allein spielen, dann einzelne passende Bassimpulse ergänzen."
+  ],
+  "source_note": "Melodie und Rhythmus direkt aus der ausdrücklich frei weiterverwendbaren alten MuseScore-Datei in C-Dur extrahiert. Phrasenenden in Takt 4 und 8 stehen dort als punktierte Halbe plus Viertelpause. Das neuere PDF ist nach F-Dur versetzt und kürzt diese Endnoten; diese Ausgabe folgt ausdrücklich der alten C-Dur-Datei. Vollständiger Melodiedurchgang ohne Text. Harmonieereignisse dokumentieren die Quelldatei. Die vollständige Tonfolge wurde außerdem am tatsächlichen Notenbild des Carus/SWR-Liederprojekts in D-Dur gegengeprüft (Ganztontransposition nach C); aus dieser Kontrollquelle wurde kein moderner Begleitsatz übernommen.",
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 2.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 2.0,
+          "chord": "F"
+        },
+        {
+          "offset": 3.0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 3.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "Am",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Am"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 2.0
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "F",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "F"
+        },
+        {
+          "offset": 2.0,
+          "chord": "Dm"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 3.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/alle-jahre-wieder/",
+    "https://www.kinder-wollen-singen.de/song/sources/alle-jahre-wieder-allejahrewieder.mscz",
+    "https://www.liederprojekt.org/medien/Lieddokumente/31655_Alle_Jahre_wieder.pdf"
+  ],
+  "rights_evidence_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/alle-jahre-wieder/"
+  ]
+}

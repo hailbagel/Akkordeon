@@ -1,0 +1,158 @@
+{
+  "status": "PASS",
+  "checks": 42890,
+  "public_songs": 14,
+  "protected_titles": 8,
+  "melody_notes": 743,
+  "melody_rests": 22,
+  "bass_pulses": 589,
+  "songs": [
+    {
+      "id": "alle-jahre-wieder",
+      "key": "C",
+      "shift": 0,
+      "measures": 8,
+      "notes": 25,
+      "rests": 2,
+      "bass_pulses": 30,
+      "quarter_beats": 32.0
+    },
+    {
+      "id": "froehliche-weihnacht",
+      "key": "F",
+      "shift": 3,
+      "measures": 32,
+      "notes": 124,
+      "rests": 1,
+      "bass_pulses": 124,
+      "quarter_beats": 128.0
+    },
+    {
+      "id": "ihr-kinderlein-kommet",
+      "key": "F",
+      "shift": 5,
+      "measures": 17,
+      "notes": 44,
+      "rests": 3,
+      "bass_pulses": 29,
+      "quarter_beats": 32.0
+    },
+    {
+      "id": "jingle-bells",
+      "key": "F",
+      "shift": -2,
+      "measures": 32,
+      "notes": 97,
+      "rests": 1,
+      "bass_pulses": 61,
+      "quarter_beats": 64.0
+    },
+    {
+      "id": "kling-gloeckchen",
+      "key": "C",
+      "shift": 0,
+      "measures": 16,
+      "notes": 48,
+      "rests": 0,
+      "bass_pulses": 32,
+      "quarter_beats": 32.0
+    },
+    {
+      "id": "lasst-uns-froh",
+      "key": "C",
+      "shift": 0,
+      "measures": 10,
+      "notes": 45,
+      "rests": 5,
+      "bass_pulses": 34,
+      "quarter_beats": 40.0
+    },
+    {
+      "id": "leise-rieselt-der-schnee",
+      "key": "C",
+      "shift": 5,
+      "measures": 8,
+      "notes": 26,
+      "rests": 0,
+      "bass_pulses": 15,
+      "quarter_beats": 24.0
+    },
+    {
+      "id": "morgen-kinder",
+      "key": "C",
+      "shift": 5,
+      "measures": 12,
+      "notes": 52,
+      "rests": 1,
+      "bass_pulses": 46,
+      "quarter_beats": 48.0
+    },
+    {
+      "id": "o-du-froehliche",
+      "key": "C",
+      "shift": 0,
+      "measures": 16,
+      "notes": 45,
+      "rests": 2,
+      "bass_pulses": 62,
+      "quarter_beats": 64.0
+    },
+    {
+      "id": "o-tannenbaum",
+      "key": "C",
+      "shift": 7,
+      "measures": 13,
+      "notes": 46,
+      "rests": 3,
+      "bass_pulses": 33,
+      "quarter_beats": 36.0
+    },
+    {
+      "id": "schneefloeckchen",
+      "key": "C",
+      "shift": 0,
+      "measures": 9,
+      "notes": 26,
+      "rests": 0,
+      "bass_pulses": 23,
+      "quarter_beats": 24.0
+    },
+    {
+      "id": "stille-nacht-heilige-nacht",
+      "key": "C",
+      "shift": 0,
+      "measures": 12,
+      "notes": 46,
+      "rests": 1,
+      "bass_pulses": 24,
+      "quarter_beats": 36.0
+    },
+    {
+      "id": "suesser-die-glocken",
+      "key": "F",
+      "shift": 0,
+      "measures": 16,
+      "notes": 67,
+      "rests": 3,
+      "bass_pulses": 32,
+      "quarter_beats": 48.0
+    },
+    {
+      "id": "we-wish-you-a-merry-christmas",
+      "key": "C",
+      "shift": 5,
+      "measures": 17,
+      "notes": 52,
+      "rests": 0,
+      "bass_pulses": 44,
+      "quarter_beats": 48.0
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "limits": [
+    "Checks transcription fidelity to source.json, not the historical authenticity of the source itself.",
+    "Bass voicing octaves are schematic; only their roots/triad pitch classes are specified by the physical reference.",
+    "Bellows direction compatibility is verified; actual air capacity and hand comfort require playing the instrument."
+  ]
+}

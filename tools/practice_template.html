@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>C/F Übestudio · Hohner Corso</title>
+<style>
+[hidden]{display:none!important}
+:root{--ink:#172b34;--muted:#536872;--line:#d6dfe1;--paper:#fff;--canvas:#f0f4f3;--teal:#086f72;--teal-light:#e2f2f0;--amber:#9b461a;--amber-light:#fff0e5;--nav:#132c35;--focus:#d67a2b;--shadow:0 5px 22px #162d3510}
+*{box-sizing:border-box}body{margin:0;background:var(--canvas);color:var(--ink);font:15px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input,select{font:inherit}button,select,input[type=number]{min-height:42px;border:1px solid var(--line);border-radius:9px;background:white;color:var(--ink)}button{padding:9px 14px;font-weight:650;cursor:pointer}button:hover{border-color:var(--teal);background:#f5fbfa}button:disabled{opacity:.43;cursor:default}button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--focus);outline-offset:3px}a{color:var(--teal)}h1,h2,h3,p{margin:0}h1{font-size:clamp(23px,3.5vw,34px);line-height:1.15;letter-spacing:-.035em}h2{font-size:19px;letter-spacing:-.02em}h3{font-size:14px}small,.small{font-size:12px;color:var(--muted)}label{cursor:pointer}select{padding:8px 32px 8px 10px;max-width:100%}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}.topbar{background:var(--nav);color:#fff;padding:18px max(20px,calc((100vw - 1440px)/2));display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{font-size:18px;font-weight:800;letter-spacing:-.025em}.brand span{color:#91d2c9}.topbar p{font-size:12px;color:#c4d5d9}.offline{border:1px solid #44606a;border-radius:30px;padding:5px 11px;font-size:12px;white-space:nowrap}.offline::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:#7fc9ab;margin-right:7px}.layout{max-width:1480px;margin:auto;padding:24px;display:grid;grid-template-columns:292px minmax(0,1fr);gap:22px;align-items:start}.sidebar{display:grid;gap:16px}.panel{background:var(--paper);border:1px solid var(--line);border-radius:15px;padding:18px;box-shadow:var(--shadow)}.eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:.12em;font-weight:800;color:var(--teal);margin-bottom:7px}.song-picker{width:100%;margin-top:12px}.song-nav{display:flex;gap:8px;margin:10px 0 13px}.song-nav button{flex:1;font-size:12px;padding:7px}.progress-line{height:5px;border-radius:6px;background:#e8eeee;overflow:hidden;margin:10px 0 7px}.progress-line span{height:100%;display:block;background:var(--teal);transition:width .2s}.checkbox{display:flex;align-items:center;gap:8px;font-size:13px;margin:10px 0}.checkbox input{width:17px;height:17px;accent-color:var(--teal);flex-shrink:0}.sidebar ol,.sidebar ul{padding-left:20px;margin:8px 0 0}.sidebar li{margin:6px 0;font-size:13px}.main{min-width:0}.song-heading{display:flex;gap:14px;align-items:flex-start;justify-content:space-between;margin:3px 0 17px}.song-heading .small{margin-top:9px}.pdf-link{display:inline-block;white-space:nowrap;border:1px solid var(--line);border-radius:9px;background:#fff;text-decoration:none;font-weight:650;font-size:13px;padding:9px 12px}.transport{padding:15px 18px;position:sticky;top:8px;z-index:5;margin-bottom:15px;box-shadow:0 5px 20px #14283218}.transport-main{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.primary{background:var(--teal);color:#fff;border-color:var(--teal)}.primary:hover{background:#075b60;color:#fff}.stop{min-width:76px}.tempo{display:flex;align-items:center;gap:8px;flex:1;min-width:240px}.tempo input[type=range]{width:100%;min-width:80px;accent-color:var(--teal)}.tempo input[type=number]{width:67px;text-align:center;padding:5px}.tempo label{font-size:12px;font-weight:700;white-space:nowrap}.tempo-unit{font-size:11px;color:var(--muted)}.transport-options{display:flex;gap:15px;align-items:center;flex-wrap:wrap;border-top:1px solid #e6ecee;margin-top:13px;padding-top:10px}.transport-options .checkbox{margin:0}.range-controls{display:flex;gap:6px;align-items:center;font-size:12px;margin-left:auto}.range-controls select{min-height:34px;padding:5px 25px 5px 8px;width:77px;font-size:12px}.status-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:10px;font-size:12px;color:var(--muted);min-height:19px}.status-row strong{color:var(--teal)}.playhead{height:4px;background:#e8eeee;border-radius:3px;margin-top:9px;overflow:hidden}.playhead span{height:100%;width:0;display:block;background:var(--teal)}.instrument-panel{margin-bottom:17px;padding:15px 18px}.live-note{display:grid;grid-template-columns:minmax(50px,85px) minmax(130px,1fr) minmax(105px,150px);gap:12px;align-items:center;margin:10px 0 18px}.note-pitch{font-size:31px;font-weight:800;line-height:1;letter-spacing:-.03em}.note-button{font-size:16px;font-weight:750}.note-button small{font-weight:400;display:block;font-size:12px;margin-top:3px}.direction{font-weight:800;border-radius:10px;padding:10px 9px;text-align:center;font-size:14px;border:1px solid var(--line)}.direction.pull{color:var(--teal);background:var(--teal-light);border-color:#add8d1}.direction.push{color:var(--amber);background:var(--amber-light);border-color:#e9c5aa}.instrument-caption{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);gap:12px;margin-bottom:7px}.rows{display:grid;gap:10px}.keyboard-row{display:grid;grid-template-columns:110px minmax(0,1fr);align-items:center;gap:10px}.row-title{font-size:12px;font-weight:700;line-height:1.3}.row-title small{font-size:10px;display:block;font-weight:400}.buttons{display:flex;gap:7px;justify-content:space-between;align-items:center}.keyboard-row.inner .buttons{padding:0 3.8%}.key{border:1px solid #bbcbd0;background:#fbfcfc;width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:750;position:relative;flex-shrink:1;min-width:24px;transition:background .06s,border-color .06s,box-shadow .06s}.key.active{background:var(--teal);color:#fff;border-color:var(--teal);box-shadow:0 0 0 4px #08777922;transform:translateY(-1px)}.key.active.push{background:var(--amber);border-color:var(--amber);box-shadow:0 0 0 4px #9b461a22}.bass-row{display:flex;gap:15px;align-items:center;justify-content:space-between;margin-top:15px;padding-top:12px;border-top:1px solid #e8eeee}.bass-keys{display:grid;grid-template-columns:repeat(4,26px);gap:5px}.bass-key{width:26px;height:26px;border:1px solid #cbd6d9;border-radius:50%;display:grid;place-items:center;font-size:9px}.bass-key.active{background:var(--teal);color:#fff;border-color:var(--teal)}.bass-display{flex:1;font-size:12px;color:var(--muted)}.bass-display strong{color:var(--ink);display:block}.hint-line{font-size:11px;color:var(--muted);margin-top:11px}.score-title{display:flex;justify-content:space-between;align-items:center;margin:5px 0 10px;gap:15px}.score-pages{display:grid;gap:16px}.score-page{background:#fff;border:1px solid var(--line);box-shadow:var(--shadow);border-radius:6px;overflow:hidden;padding:5px}.score-page svg{display:block;width:100%;height:auto}.empty-score{padding:30px;color:var(--muted)}.protected{margin-top:20px}.protected summary{cursor:pointer;font-weight:750}.protected-intro{font-size:13px;color:var(--muted);margin:10px 0}.protected-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}.protected-card{border:1px solid var(--line);border-radius:9px;padding:12px}.protected-card strong{display:block;font-size:13px}.protected-card small{display:block;margin:3px 0 7px}.protected-card a{font-size:12px}.footer{max-width:1432px;margin:0 auto;padding:0 24px 24px;font-size:11px;color:var(--muted)}.error{margin:30px auto;max-width:760px;border:1px solid #c87953;background:#fff0e7;padding:22px;border-radius:12px}.print-heading{display:none}.pulse{font-variant-numeric:tabular-nums}.loading{padding:30px}
+@media(min-width:1200px){.sidebar{position:sticky;top:18px}}@media(max-width:1000px){.layout{grid-template-columns:240px minmax(0,1fr);padding:18px;gap:16px}.keyboard-row{grid-template-columns:82px 1fr;gap:5px}.buttons{gap:4px}.key{width:31px;height:31px;font-size:11px}.row-title{font-size:11px}.range-controls{margin-left:0}.transport{position:static}}@media(max-width:760px){.topbar{padding:15px 16px}.topbar p{max-width:225px}.offline{font-size:10px}.layout{display:block;padding:14px}.sidebar{display:grid;grid-template-columns:1fr;gap:12px;margin-bottom:17px}.sidebar .method-panel{display:none}.song-heading{gap:10px}.pdf-link{font-size:11px;padding:9px}.panel{padding:15px}.song-nav{margin-bottom:7px}.tempo{min-width:200px}.protected-grid{grid-template-columns:1fr}.key{width:29px;height:29px;font-size:10px}.keyboard-row{grid-template-columns:66px 1fr;gap:5px}.buttons{gap:3px}.row-title{font-size:10px}.row-title small{font-size:9px}.live-note{grid-template-columns:70px 1fr 115px}.note-button{font-size:14px}.note-pitch{font-size:27px}.direction{font-size:12px}.status-row{align-items:flex-start}.footer{padding:0 16px 22px}}@media(max-width:400px){.key{width:23px;height:26px;min-width:18px}.buttons{gap:2px}.keyboard-row{grid-template-columns:59px 1fr}.note-pitch{font-size:24px}.live-note{grid-template-columns:55px 1fr 100px;gap:7px}.transport-options{gap:10px}.range-controls{width:100%}}
+@media print{@page{size:A4;margin:12mm}body{background:white}.topbar,.sidebar,.song-heading,.transport,.instrument-panel,.score-title,.protected,.footer{display:none!important}.layout{display:block;max-width:none;padding:0;margin:0}.main{width:100%}.print-heading{display:block;margin-bottom:5mm}.print-heading h1{font-size:18pt}.score-pages{display:block}.score-page{border:0;box-shadow:none;padding:0;margin:0;border-radius:0;break-after:page;page-break-after:always}.score-page:last-child{break-after:auto;page-break-after:auto}.score-page svg{width:100%;height:auto;max-height:245mm}.error{display:none}}
+</style>
+</head>
+<body>
+<header class="topbar"><div><div class="brand">C/F <span>Übestudio</span></div><p>Hohner Corso · Wiener System · 21 Melodieknöpfe / 8 Bässe</p></div><div class="offline">Lokal &amp; ohne Anmeldung</div></header>
+<div id="app" class="layout" hidden>
+<aside class="sidebar">
+<section class="panel"><div class="eyebrow">Dein Lernweg</div><h2>Ein Lied nach dem anderen</h2><label class="sr-only" for="song-select">Lied auswählen</label><select id="song-select" class="song-picker"></select><div class="song-nav"><button id="previous" type="button">← Vorheriges</button><button id="next" type="button">Nächstes →</button></div><label class="checkbox"><input id="learned" type="checkbox"> Dieses Lied sicher gespielt</label><div class="progress-line"><span id="progress-fill"></span></div><p id="progress-text" class="small"></p><p id="storage-note" class="small"></p></section>
+<section class="panel method-panel"><div class="eyebrow">In drei Schritten</div><h2>So übst du</h2><ol><li><strong>Nur rechts.</strong> Langsam mitspielen und jeden Knopf zusammen mit seiner Balgrichtung lernen.</li><li><strong>Kurze Abschnitte.</strong> Zwei bis vier Takte auswählen und in Schleife wiederholen.</li><li><strong>Links ergänzen.</strong> Erst wenn die Melodie sitzt, die eingezeichneten Bässe dazunehmen.</li></ol><p class="small" style="margin-top:12px"><strong>Z = Zug:</strong> Balg auseinander.<br><strong>D = Druck:</strong> Balg zusammen.<br>Die Nummern bezeichnen <strong>Knöpfe, keine Finger</strong>.<br>Ohne Einzählen beginnt die Melodie sofort. Bei einer neuen Taktwahl oder Tempoänderung startet der Abschnitt neu.</p></section>
+<section class="panel"><div class="eyebrow">Für dieses Lied</div><h2>Darauf achten</h2><ul id="practice-notes"></ul></section>
+</aside>
+<main class="main">
+<div class="song-heading"><div><div id="song-order" class="eyebrow"></div><h1 id="song-title"></h1><p id="song-meta" class="small"></p></div><a id="pdf-link" class="pdf-link" target="_blank" rel="noopener">Noten als PDF ↗</a></div>
+<div class="print-heading"><h1 id="print-title"></h1><p>Hohner Corso C/F · Knopfnummern und Balgrichtung</p></div>
+<section class="panel transport" aria-label="Wiedergabe und Tempo">
+<div class="transport-main"><button id="play" class="primary" type="button">▶ Abspielen</button><button id="stop" class="stop" type="button" disabled>■ Stopp</button><div class="tempo"><label for="tempo-slider">Tempo</label><input id="tempo-slider" type="range" min="36" max="160" step="1" value="72"><label class="sr-only" for="tempo-number">Viertelnoten pro Minute</label><input id="tempo-number" type="number" min="36" max="160" step="1" value="72"><span class="tempo-unit">Viertel/<br>Minute</span></div></div>
+<div class="transport-options"><label class="checkbox"><input id="bass-toggle" type="checkbox"> Bässe</label><label class="checkbox"><input id="click-toggle" type="checkbox"> Metronom</label><label class="checkbox"><input id="count-toggle" type="checkbox" checked> Einzählen</label><label class="checkbox"><input id="loop-toggle" type="checkbox"> Schleife</label><div class="range-controls"><label for="range-start">Takte</label><select id="range-start"></select><span>bis</span><label class="sr-only" for="range-end">Letzter Takt</label><select id="range-end"></select><button id="all-bars" type="button" style="min-height:34px;padding:5px 9px;font-size:12px">Alle</button></div></div>
+<div class="status-row"><span id="status" role="status" aria-live="polite">Bereit.</span><span id="measure-position" class="pulse">—</span></div><div class="playhead" aria-hidden="true"><span id="playhead-fill"></span></div>
+</section>
+<section class="panel instrument-panel" aria-label="Knopfbelegung und aktuelle Note">
+<div class="eyebrow">Rechte Hand · Melodie</div><div class="live-note"><div id="note-pitch" class="note-pitch">—</div><div id="note-button" class="note-button">Bereit<small>Die nächste Note erscheint beim Abspielen.</small></div><div id="direction" class="direction">Zug / Druck</div></div>
+<div class="instrument-caption"><span>← Kinn</span><span>In jeder Reihe vom Kinn zum Knie zählen</span><span>Knie →</span></div>
+<div class="rows"><div class="keyboard-row inner"><div class="row-title">F-Reihe<small>innen, am Balg</small></div><div id="f-buttons" class="buttons"></div></div><div class="keyboard-row"><div class="row-title">C-Reihe<small>außen</small></div><div id="c-buttons" class="buttons"></div></div></div>
+<div class="bass-row"><div class="bass-display"><strong>Linke Hand · optionale Begleitung</strong><span id="bass-display">Bässe zunächst ausgeschaltet.</span></div><div id="bass-keys" class="bass-keys" aria-label="Aktive Bassknöpfe L1 bis L8, schematische Liste"></div></div>
+<p class="hint-line">B = deutsches H · B♭ = deutsches B. Die Anzeige folgt der notierten Melodie. Der Klang ist ein einfacher Übeton.</p>
+</section>
+<div class="score-title"><h2>Dein Notenblatt</h2><button id="print" type="button" style="font-size:12px;min-height:35px;padding:6px 11px">Drucken</button></div>
+<div id="score-pages" class="score-pages"></div>
+<section class="panel protected"><details><summary>Weitere Weihnachts-Hits · lizenzierte Noten</summary><p class="protected-intro">Für diese Titel enthält die öffentliche Sammlung Bezugslinks und Lernhinweise. Vollständige Melodien, Texte und Aufnahmen sind hier nicht eingebettet.</p><div id="protected-list" class="protected-grid"></div></details></section>
+</main></div>
+<p id="loading" class="loading">Lernsammlung wird geladen …</p>
+<footer class="footer">Alle Übedaten und Noten sind in dieser Datei enthalten. Für das Abspielen ist keine Internetverbindung nötig. Fortschritt wird nur in diesem Browser gespeichert. Externe Notenanbieter öffnen sich erst nach einem Klick.</footer>
+<script type="application/json" id="collection-data">__COLLECTION_JSON__</script>
+<script>
+'use strict';
+(() => {
+const $ = id => document.getElementById(id);
+let collection;
+try { collection = JSON.parse($('collection-data').textContent); }
+catch (_) { $('loading').className='error'; $('loading').textContent='Diese Vorlage enthält noch keine Lieddaten. Bitte die erzeugte Datei practice/index.html öffnen.'; return; }
+const songs = (collection.songs || []).filter(s=>Array.isArray(s.measures)&&s.measures.length).map((s,i)=>({...s,_originalIndex:i})).sort((a,b)=>(Number(a.learning_order)||999)-(Number(b.learning_order)||999)||a._originalIndex-b._originalIndex);
+if (!songs.length) { $('loading').className='error'; $('loading').textContent='In dieser Datei wurden keine spielbaren Lieder gefunden.'; return; }
+const state={songIndex:0,audio:null,master:null,playing:false,generation:0,voices:new Set(),timer:null,raf:null,selected:[],timeline:[],rangeStart:0,rangeEnd:0,rangeDuration:0,secondsPerQuarter:0,cycleStart:0,songStart:0,eventIndex:0,scheduledCycle:0,lastNoteId:null,lastMeasure:null};
+const storageKey='hohner-cf-practice-progress-v1';
+let progress={},canStore=true;
+try { progress=JSON.parse(localStorage.getItem(storageKey)||'{}'); if(!progress||typeof progress!=='object'||Array.isArray(progress)) progress={}; }
+catch(_) { canStore=false; }
+const song=()=>songs[state.songIndex];
+const fmtPitch=p=>String(p||'—').replace(/#/g,'♯').replace(/b(?=\d)/g,'♭');
+const numeric=(n,fallback=0)=>Number.isFinite(Number(n))?Number(n):fallback;
+function status(text){$('status').textContent=text;}
+function safeLink(value){if(typeof value!=='string'||!value.trim())return null;try{const u=new URL(value,location.href);return ['http:','https:','file:'].includes(u.protocol)?u.href:null;}catch(_){return null;}}
+function saveProgress(){if(!canStore)return;try{localStorage.setItem(storageKey,JSON.stringify(progress));}catch(_){canStore=false;$('storage-note').textContent='Fortschritt bleibt in dieser Sitzung erhalten.';}}
+function updateProgress(){
+ const count=songs.filter(s=>progress[s.id]).length;
+ $('progress-text').textContent=`${count} von ${songs.length} Liedern sicher gespielt`;
+ $('progress-fill').style.width=`${count/songs.length*100}%`;
+ $('learned').checked=Boolean(progress[song().id]);
+ [...$('song-select').options].forEach((o,i)=>{o.textContent=`${i+1}. ${songs[i].title}${progress[songs[i].id]?' ✓':''}`;});
+ if(!canStore)$('storage-note').textContent='Fortschritt bleibt in dieser Sitzung erhalten.';
+}
+function buildKeyboard(){
+ const notes=(collection.instrument&&collection.instrument.melody)||[];
+ for(const row of ['F','C']){
+  const host=$(row.toLowerCase()+'-buttons');host.replaceChildren();
+  const entries=notes.filter(n=>n.row===row).sort((a,b)=>numeric(a.position,a.button)-numeric(b.position,b.button));
+  const fallback=Array.from({length:row==='C'?11:10},(_,i)=>({button:row==='C'?i+1:i+12,row}));
+  for(const n of entries.length?entries:fallback){const el=document.createElement('div');el.className='key';el.dataset.button=String(n.button);el.textContent=n.button;el.title=`Knopf ${n.button}, ${row}-Reihe${n.D?'; Druck '+fmtPitch(n.D):''}${n.Z?'; Zug '+fmtPitch(n.Z):''}`;el.setAttribute('aria-label',el.title);host.append(el);}
+ }
+ for(let i=1;i<=8;i++){const el=document.createElement('div');el.className='bass-key';el.dataset.bass='L'+i;el.textContent='L'+i;$('bass-keys').append(el);}
+}
+function renderProtected(){
+ const catalog=collection.protected??collection.protected_catalog??[];
+ const entries=Array.isArray(catalog)?catalog:Array.isArray(catalog.songs)?catalog.songs:Array.isArray(catalog.items)?catalog.items:Object.values(catalog).filter(s=>s&&typeof s==='object'&&s.title);
+ for(const s of entries){
+  const card=document.createElement('div');card.className='protected-card';
+  const title=document.createElement('strong');title.textContent=s.title||'Weihnachtslied';card.append(title);
+  const artist=document.createElement('small');artist.textContent=s.artist||s.composer||'';card.append(artist);
+  const href=safeLink(s.licensed_source_url||s.source_url||s.url);
+  if(href&&/^https?:/.test(href)){const a=document.createElement('a');a.href=href;a.target='_blank';a.rel='noopener noreferrer';a.textContent=(s.provider||'Lizenzierte Noten')+' ↗';card.append(a);}
+  else{const t=document.createElement('small');t.textContent='Bezugsquelle im Liedordner dokumentiert.';card.append(t);}
+  $('protected-list').append(card);
+ }
+}
+function resetNote(){
+ state.lastNoteId=null;state.lastMeasure=null;
+ $('note-pitch').textContent='—';$('note-button').replaceChildren(document.createTextNode('Bereit'));
+ const small=document.createElement('small');small.textContent='Die nächste Note erscheint beim Abspielen.';$('note-button').append(small);
+ $('direction').className='direction';$('direction').textContent='Zug / Druck';
+ document.querySelectorAll('.key.active,.bass-key.active').forEach(n=>n.classList.remove('active','push'));
+ $('measure-position').textContent='—';$('playhead-fill').style.width='0%';
+ $('bass-display').textContent=$('bass-toggle').checked?'Die notierte Begleitung spielt beim nächsten Start mit.':'Bässe zunächst ausgeschaltet.';
+}
+function setTempo(value,restart=false){
+ const bpm=Math.max(36,Math.min(160,Math.round(numeric(value,72))));
+ $('tempo-slider').value=bpm;$('tempo-number').value=bpm;
+ if(restart&&state.playing)startPlayback(false);
+}
+function selectSong(index){
+ stopPlayback(false);state.songIndex=Math.max(0,Math.min(songs.length-1,index));const s=song();
+ $('song-select').value=String(state.songIndex);$('song-title').textContent=s.title;$('print-title').textContent=s.title;
+ $('song-order').textContent=`Lernschritt ${state.songIndex+1} / ${songs.length}`;
+ $('song-meta').textContent=`${s.key||'C/F'}-Dur · ${s.meter||'4/4'}-Takt · Stufe ${s.difficulty||1} · ${s.measures.length} Taktabschnitte`;
+ const pdf=safeLink(s.score_path);$('pdf-link').hidden=!pdf;if(pdf)$('pdf-link').href=pdf;
+ $('previous').disabled=state.songIndex===0;$('next').disabled=state.songIndex===songs.length-1;
+ setTempo(s.practice_tempo_bpm||s.tempo_bpm||72);$('range-start').replaceChildren();$('range-end').replaceChildren();
+ s.measures.forEach((m,i)=>{for(const id of ['range-start','range-end']){const o=document.createElement('option');o.value=i;o.textContent=m.number===0?'Auftakt':String(m.number==null?i+1:m.number);$(id).append(o);}});
+ $('range-start').value='0';$('range-end').value=String(s.measures.length-1);
+ $('practice-notes').replaceChildren();for(const text of s.practice_notes_de||[]){const li=document.createElement('li');li.textContent=text;$('practice-notes').append(li);}
+ $('score-pages').replaceChildren();
+ for(const [i,svg] of (s.svg_pages||[]).entries()){
+  const page=document.createElement('div');page.className='score-page';page.setAttribute('aria-label',`Notenseite ${i+1}`);
+  // Embedded SVG is generated by the repository's score builder, never fetched remotely.
+  page.innerHTML=String(svg);$('score-pages').append(page);
+ }
+ if(!(s.svg_pages||[]).length){const p=document.createElement('p');p.className='panel empty-score';p.textContent='Für dieses Lied steht die PDF-Datei über dem Notenbereich bereit.';$('score-pages').append(p);}
+ resetNote();updateProgress();status('Bereit. Bässe bei Bedarf dazuschalten.');
+}
+function stopVoices(role){
+ for(const voice of [...state.voices]){
+  if(role&&voice.role!==role)continue;
+  try{const now=state.audio.currentTime;voice.gain.gain.cancelScheduledValues(now);voice.gain.gain.setValueAtTime(0,now);voice.osc.stop(now);}catch(_){}
+  try{voice.osc.disconnect();voice.gain.disconnect();}catch(_){}
+  state.voices.delete(voice);
+ }
+}
+function stopPlayback(announce=true){
+ state.generation++;state.playing=false;
+ if(state.timer!==null){clearInterval(state.timer);state.timer=null;}
+ if(state.raf!==null){cancelAnimationFrame(state.raf);state.raf=null;}
+ stopVoices();$('play').textContent='▶ Abspielen';$('play').disabled=false;$('stop').disabled=true;
+ resetNote();if(announce)status('Gestoppt. Der nächste Start beginnt beim ausgewählten Takt.');
+}
+function sound(midi,when,duration,role='melody',accent=false){
+ if(!state.audio||!Number.isFinite(midi)||!Number.isFinite(when)||duration<=0)return;
+ const osc=state.audio.createOscillator(),gain=state.audio.createGain();
+ const seconds=Math.max(.035,duration);const attack=.008;const release=Math.min(.055,seconds*.2);
+ osc.type=(role==='click'||role==='count'||role==='bass')?'sine':'triangle';
+ osc.frequency.setValueAtTime(440*Math.pow(2,(midi-69)/12),when);
+ const amplitude=(role==='click'||role==='count')?(accent?.13:.07):role==='chord'?.035:role==='bass'?.11:.105;
+ gain.gain.setValueAtTime(0,when);gain.gain.linearRampToValueAtTime(amplitude,when+Math.min(attack,seconds/4));
+ gain.gain.setValueAtTime(amplitude,Math.max(when+attack,when+seconds-release));gain.gain.linearRampToValueAtTime(0,when+seconds);
+ osc.connect(gain);gain.connect(state.master);
+ const voice={osc,gain,role};state.voices.add(voice);
+ osc.onended=()=>{state.voices.delete(voice);try{osc.disconnect();gain.disconnect();}catch(_){}};
+ osc.start(when);osc.stop(when+seconds+.005);
+}
+function nominalBar(){const [n,d]=String(song().meter||'4/4').split('/').map(Number);return Number.isFinite(n)&&Number.isFinite(d)&&d>0?n*4/d:4;}
+function clickSpacing(){return String(song().meter)==='6/8'?1.5:1;}
+function buildTimeline(){
+ const ms=song().measures;let a=numeric($('range-start').value),b=numeric($('range-end').value,ms.length-1);if(a>b)[a,b]=[b,a];
+ state.selected=ms.slice(a,b+1);state.rangeStart=numeric(ms[a].start);state.rangeEnd=numeric(ms[b].start)+numeric(ms[b].duration);state.rangeDuration=state.rangeEnd-state.rangeStart;
+ const list=[];
+ for(const m of state.selected){
+  for(const e of m.events||[]){
+   const start=Math.max(state.rangeStart,numeric(e.start)),end=Math.min(state.rangeEnd,numeric(e.start)+numeric(e.duration));
+   if(end>start&&e.midi!=null&&Number.isFinite(Number(e.midi)))list.push({q:start-state.rangeStart,d:end-start,midis:[Number(e.midi)],role:'melody'});
+  }
+  for(const e of m.bass||[]){
+   const start=Math.max(state.rangeStart,numeric(e.start)),end=Math.min(state.rangeEnd,numeric(e.start)+numeric(e.duration));
+   if(end>start)list.push({q:start-state.rangeStart,d:end-start,midis:(e.midis||[]).map(Number).filter(Number.isFinite),role:e.kind==='chord'?'chord':'bass'});
+  }
+  const step=clickSpacing(),limit=numeric(m.start)+numeric(m.duration);
+  for(let q=numeric(m.start);q<limit-.0001;q+=step)if(q>=state.rangeStart&&q<state.rangeEnd)list.push({q:q-state.rangeStart,d:.06/state.secondsPerQuarter,midis:[q===numeric(m.start)?90:83],role:'click',accent:q===numeric(m.start)});
+ }
+ state.timeline=list.sort((a,b)=>a.q-b.q);state.eventIndex=0;state.scheduledCycle=0;
+}
+function scheduler(generation){
+ if(!state.playing||generation!==state.generation)return;
+ const now=state.audio.currentTime,horizon=now+.22,cycleSeconds=state.rangeDuration*state.secondsPerQuarter;
+ let guard=0;
+ while(guard++<2000){
+  if(state.eventIndex>=state.timeline.length){
+   if(!$('loop-toggle').checked||!state.timeline.length)return;
+   const next=state.songStart+(state.scheduledCycle+1)*cycleSeconds;
+   if(next>horizon)return;
+   state.scheduledCycle++;state.eventIndex=0;
+  }
+  const e=state.timeline[state.eventIndex];if(!e)return;
+  const when=state.songStart+state.scheduledCycle*cycleSeconds+e.q*state.secondsPerQuarter;
+  if(when>horizon)return;
+  state.eventIndex++;
+  if(when<now-.08)continue;
+  if((e.role==='bass'||e.role==='chord')&&!$('bass-toggle').checked)continue;
+  if(e.role==='click'&&!$('click-toggle').checked)continue;
+  const dur=e.role==='click'?.055:Math.max(.035,e.d*state.secondsPerQuarter*.94);
+  for(const midi of e.midis)sound(midi,Math.max(when,now+.002),dur,e.role,e.accent);
+ }
+}
+function showNote(e){
+ const id=e?`${e.id||e.start}:${e.button}:${e.dir}`:'pause';if(id===state.lastNoteId)return;state.lastNoteId=id;
+ document.querySelectorAll('.key.active').forEach(n=>n.classList.remove('active','push'));
+ $('note-button').replaceChildren();
+ if(!e||e.midi==null||e.pitch==='rest'){
+  $('note-pitch').textContent='Pause';$('note-pitch').style.fontSize='22px';$('note-button').append(document.createTextNode('Kurz entspannen'));
+  const small=document.createElement('small');small.textContent='Den nächsten Griff vorbereiten.';$('note-button').append(small);$('direction').className='direction';$('direction').textContent='—';return;
+ }
+ $('note-pitch').style.fontSize='';$('note-pitch').textContent=fmtPitch(e.pitch);
+ $('note-button').append(document.createTextNode(e.button==null?'Melodieton':`Knopf ${e.button}`));
+ const sub=document.createElement('small');sub.textContent=e.row?`${e.row}-Reihe · ${e.row==='F'?'innen, am Balg':'außen'}`:'Keine Knopfzuordnung';$('note-button').append(sub);
+ const pull=e.dir==='Z',push=e.dir==='D';$('direction').className='direction'+(pull?' pull':push?' push':'');$('direction').textContent=pull?'← Z · ZUG →':push?'→ D · DRUCK ←':'—';
+ if(e.button!=null){const el=document.querySelector(`.key[data-button="${Number(e.button)}"]`);if(el){el.classList.add('active');if(push)el.classList.add('push');}}
+}
+function visualFrame(generation){
+ if(!state.playing||generation!==state.generation)return;
+ const elapsed=(state.audio.currentTime-state.songStart)/state.secondsPerQuarter;
+ if(elapsed<0){
+  const left=Math.ceil(-elapsed/clickSpacing());$('note-pitch').style.fontSize='';$('note-pitch').textContent=String(left);$('note-button').textContent='Einzählen';$('direction').className='direction';$('direction').textContent='Bereit halten';$('measure-position').textContent='Ein Takt vorweg';
+ }else{
+  if(!$('loop-toggle').checked&&elapsed>=state.rangeDuration){stopPlayback(false);status('Abschnitt fertig. Noch einmal spielen oder die nächsten Takte wählen.');return;}
+  const relative=elapsed%state.rangeDuration,q=state.rangeStart+relative;
+  const m=state.selected.find(x=>q>=numeric(x.start)&&q<numeric(x.start)+numeric(x.duration))||state.selected[state.selected.length-1];
+  const note=(m.events||[]).find(e=>q>=numeric(e.start)&&q<numeric(e.start)+numeric(e.duration));showNote(note);
+  const den=numeric(String(song().meter).split('/')[1],4),beat=Math.floor((q-numeric(m.start))/(4/den))+1;
+  $('measure-position').textContent=`${m.number===0?'Auftakt':'Takt '+(m.number==null?'?':m.number)} · Zählzeit ${beat}`;
+  $('playhead-fill').style.width=`${Math.min(100,relative/state.rangeDuration*100)}%`;
+  document.querySelectorAll('.bass-key.active').forEach(n=>n.classList.remove('active'));
+  const bass=$('bass-toggle').checked?(m.bass||[]).filter(e=>q>=numeric(e.start)&&q<numeric(e.start)+numeric(e.duration)):[];
+  for(const b of bass){const el=[...document.querySelectorAll('.bass-key')].find(n=>n.dataset.bass===b.button);if(el)el.classList.add('active');}
+  $('bass-display').textContent=!$('bass-toggle').checked?'Ausgeschaltet – konzentriere dich auf die Melodie.':bass.length?bass.map(b=>`${b.button} · ${b.chord||''} ${b.kind==='chord'?'Akkord':'Bass'} · ${b.dir==='Z'?'Zug':'Druck'}`).join(' / '):'An dieser Stelle keine Bassnote.';
+ }
+ state.raf=requestAnimationFrame(()=>visualFrame(generation));
+}
+async function startPlayback(useCountIn=true){
+ stopPlayback(false);const generation=state.generation;
+ const Context=window.AudioContext||window.webkitAudioContext;
+ if(!Context){status('Dieser Browser unterstützt WebAudio nicht. Die Noten können weiterhin gelesen und gedruckt werden.');return;}
+ try{
+  if(!state.audio){state.audio=new Context();state.master=state.audio.createGain();state.master.gain.value=.65;state.master.connect(state.audio.destination);}
+  await state.audio.resume();if(generation!==state.generation)return;
+  state.secondsPerQuarter=60/numeric($('tempo-number').value,72);buildTimeline();
+  if(!(state.rangeDuration>0)){status('Dieser Taktbereich enthält keine Spieldauer.');return;}
+  const base=state.audio.currentTime+.08,count=useCountIn&&$('count-toggle').checked?nominalBar():0;
+  state.songStart=base+count*state.secondsPerQuarter;
+  if(count)for(let q=0;q<count-.001;q+=clickSpacing())sound(q===0?90:83,base+q*state.secondsPerQuarter,.055,'count',q===0);
+  state.playing=true;$('play').textContent='↻ Neu starten';$('stop').disabled=false;
+  status(`Spielt mit ${$('tempo-number').value} Vierteln pro Minute${$('loop-toggle').checked?' · Schleife':''}.`);
+  scheduler(generation);state.timer=setInterval(()=>scheduler(generation),30);state.raf=requestAnimationFrame(()=>visualFrame(generation));
+ }catch(e){stopPlayback(false);status('Audio konnte nicht gestartet werden. Erneut auf Abspielen klicken und die Audiofreigabe des Browsers prüfen.');}
+}
+function rangeChanged(which){
+ let a=Number($('range-start').value),b=Number($('range-end').value);
+ if(a>b){if(which==='start')$('range-end').value=String(a);else $('range-start').value=String(b);}
+ const was=state.playing;stopPlayback(false);if(was)startPlayback();else status('Taktbereich gewählt. Abspielen startet hier.');
+}
+songs.forEach((s,i)=>{const o=document.createElement('option');o.value=i;o.textContent=s.title;$('song-select').append(o);});
+$('song-select').addEventListener('change',e=>selectSong(Number(e.target.value)));
+$('previous').addEventListener('click',()=>selectSong(state.songIndex-1));$('next').addEventListener('click',()=>selectSong(state.songIndex+1));
+$('learned').addEventListener('change',e=>{progress[song().id]=e.target.checked;saveProgress();updateProgress();});
+$('play').addEventListener('click',()=>startPlayback());$('stop').addEventListener('click',()=>stopPlayback());
+$('tempo-slider').addEventListener('input',e=>setTempo(e.target.value));$('tempo-slider').addEventListener('change',()=>setTempo($('tempo-slider').value,true));
+$('tempo-number').addEventListener('change',e=>setTempo(e.target.value,true));
+$('range-start').addEventListener('change',()=>rangeChanged('start'));$('range-end').addEventListener('change',()=>rangeChanged('end'));
+$('all-bars').addEventListener('click',()=>{$('range-start').value='0';$('range-end').value=String(song().measures.length-1);rangeChanged('end');});
+$('bass-toggle').addEventListener('change',()=>{if(!$('bass-toggle').checked){stopVoices('bass');stopVoices('chord');document.querySelectorAll('.bass-key.active').forEach(n=>n.classList.remove('active'));}if(!state.playing)$('bass-display').textContent=$('bass-toggle').checked?'Die notierte Begleitung spielt beim nächsten Start mit.':'Bässe zunächst ausgeschaltet.';});
+$('click-toggle').addEventListener('change',()=>{if(!$('click-toggle').checked)stopVoices('click');});
+$('loop-toggle').addEventListener('change',()=>{if(state.playing)startPlayback(false);});
+$('print').addEventListener('click',()=>{stopPlayback(false);window.print();});
+window.addEventListener('pagehide',()=>stopPlayback(false));
+document.addEventListener('keydown',e=>{if(e.code==='Space'&&!['INPUT','SELECT','BUTTON','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();state.playing?stopPlayback():startPlayback();}});
+buildKeyboard();renderProtected();selectSong(0);$('loading').hidden=true;$('app').hidden=false;
+})();
+</script>
+</body>
+</html>

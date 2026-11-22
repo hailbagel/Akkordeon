@@ -1,0 +1,300 @@
+{
+  "id": "ihr-kinderlein-kommet",
+  "title": "Ihr Kinderlein kommet",
+  "key": "C",
+  "meter": "2/4",
+  "pickup_quarters": 0.5,
+  "tempo_bpm": 80,
+  "difficulty": 2,
+  "composer": "Johann Abraham Peter Schulz (1747–1800)",
+  "lyricist": "Christoph von Schmid (1768–1854)",
+  "practice_notes_de": [
+    "Der Auftakt ist nur eine Achtelnote: gedanklich 1 und 2 zählen, dann auf und beginnen.",
+    "Die ersten vier Takte kommen nahezu unverändert ein zweites Mal.",
+    "Die letzten drei Takte langsam üben; vor dem Schluss-C liegt ein H unter dem mittleren C."
+  ],
+  "source_note": "Eigene einstimmige Transkription der gemeinfreien Schulz-Melodie (1794), in C-Dur. Ausgangsdaten aus der frei weiterverwendbaren alten MuseScore-Datei; vollständig am eigentlichen Melodienotenbild des Carus/SWR-Liederprojekts in D-Dur überprüft und um einen Ganzton nach C transponiert. Dessen ausgeschriebener Auftakt zum zweiten Teil (in C: E4) und Schlusswendung F4–D4–B3–C4 wurden übernommen; die alte MuseScore-Datei weicht dort fehlerhaft ab. Wiederholung des Anfangs ausgeschrieben. Nur die historische Melodie wird transkribiert, kein moderner Satz und keine Liedtexte. Akkorde sind eine eigene einfache I–IV–V-Begleitung, nicht aus dem Carus-Satz übernommen.",
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7"
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "rest",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "F"
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C5",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C"
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "B3",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7"
+    },
+    {
+      "events": [
+        {
+          "pitch": "C4",
+          "duration": 1.5
+        }
+      ],
+      "chord": "C"
+    }
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/ihr-kinderlein-kommet/",
+    "https://www.kinder-wollen-singen.de/song/sources/ihr-kinderlein-kommet-de_0.mscz",
+    "https://liederprojekt.org/medien/Lieddokumente/39141_Ihr_Kinderlein_kommet.pdf"
+  ],
+  "rights_evidence_urls": [
+    "https://www.kinder-wollen-singen.de/lieder/ihr-kinderlein-kommet/"
+  ]
+}

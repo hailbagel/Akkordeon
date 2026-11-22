@@ -1,0 +1,426 @@
+{
+  "id": "kling-gloeckchen",
+  "title": "Kling, Glöckchen, klingelingeling",
+  "composer": "Traditional; anonymous melody documented in 1873",
+  "lyricist": "Karl Enslin (1819-1875)",
+  "key": "C",
+  "meter": "2/4",
+  "tempo_bpm": 72,
+  "pickup_quarters": 0,
+  "measures": [
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "C4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        },
+        {
+          "offset": 1,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "Dm",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "Dm"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        },
+        {
+          "offset": 1,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        },
+        {
+          "offset": 1,
+          "chord": "D7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "G",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        },
+        {
+          "offset": 1,
+          "chord": "D"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "A4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "D7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "D7"
+        },
+        {
+          "offset": 1,
+          "chord": "G"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "F4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.25
+        },
+        {
+          "pitch": "G4",
+          "duration": 1.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "F4",
+          "duration": 1.0
+        },
+        {
+          "pitch": "D4",
+          "duration": 0.5
+        },
+        {
+          "pitch": "G4",
+          "duration": 0.5
+        }
+      ],
+      "chord": "G7",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "G7"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "pitch": "E4",
+          "duration": 2.0
+        }
+      ],
+      "chord": "C",
+      "chord_events": [
+        {
+          "offset": 0,
+          "chord": "C"
+        }
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://wiki.jurtenland.eu/wiki/Kling%2C_Gl%C3%B6ckchen%2C_klingelingeling",
+    "https://www.kinder-wollen-singen.de/lieder/kling-gloeckchen-klingelingeling/"
+  ],
+  "rights_evidence_urls": [
+    "https://wiki.jurtenland.eu/wiki/Kling%2C_Gl%C3%B6ckchen%2C_klingelingeling",
+    "https://www.kinder-wollen-singen.de/lieder/kling-gloeckchen-klingelingeling/"
+  ],
+  "source_note": "Melody transcribed from the complete Ebersberger/Jurtenland LilyPond melody (D major), transposed down a whole tone to C. Historical authorship corroborated by Kinder wollen singen. All 16 bars included. The F# in the middle section and sixteenth-note bell motif are retained; this is not an all-diatonic beginner tune.",
+  "difficulty": 3,
+  "practice_notes_de": [
+    "Erst die vier Takte des Glockenrufs langsam spielen.",
+    "Die vier Sechzehntel als gleichmäßige kurze Gruppe üben.",
+    "Im Mittelteil Fis gesondert suchen; erst danach die Bassbegleitung ergänzen."
+  ],
+  "harmony_note": "Functional chord stream transcribed from the linked LilyPond/ABC source. It is not yet a mechanically playable bass part: reduce or omit unsupported triads and direction conflicts for the 8-bass Corso.",
+  "rights_status": "Traditional/public-domain melody; new machine-readable transcription; no lyrics or recorded audio copied.",
+  "rights_note": "Jurtenland/Ebersberger source explicitly labels melody and lyrics as public domain and its notation freely copyable. Kinder wollen singen supplies historical composer/source information and publishes its new notation as CC0. Only the traditional melody and simple harmonic functions are represented here; no modern rendered edition is redistributed."
+}

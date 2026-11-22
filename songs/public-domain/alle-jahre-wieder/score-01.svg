@@ -1,0 +1,2117 @@
+<svg width="720px" height="1019px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="adiyqz">
+   <desc>Engraved by Verovio 6.4.1-fbe8f46</desc>
+   <defs>
+      <g id="E050-adiyqz">
+         <path transform="scale(1,-1)" d="M376 415l25 -145c3 -18 3 -18 29 -18c147 0 241 -113 241 -241c0 -113 -67 -198 -168 -238c-14 -6 -15 -5 -13 -17c11 -62 29 -157 29 -214c0 -170 -130 -200 -197 -200c-151 0 -190 98 -190 163c0 62 40 115 107 115c61 0 96 -47 96 -102c0 -58 -36 -85 -67 -94 c-23 -7 -32 -10 -32 -17c0 -13 26 -29 80 -29c59 0 159 18 159 166c0 47 -15 134 -27 201c-2 12 -4 11 -15 9c-20 -4 -46 -6 -69 -6c-245 0 -364 165 -364 339c0 202 153 345 297 464c12 10 11 12 9 24c-7 41 -14 106 -14 164c0 104 24 229 98 311c20 22 51 48 65 48 c11 0 37 -28 52 -50c41 -60 65 -146 65 -233c0 -153 -82 -280 -190 -381c-6 -6 -8 -7 -6 -19zM470 943c-61 0 -133 -96 -133 -252c0 -32 2 -66 6 -92c2 -13 6 -14 13 -8c79 69 174 159 174 270c0 55 -27 82 -60 82zM361 262l-21 128c-2 11 -4 12 -14 4 c-47 -38 -93 -75 -153 -142c-83 -94 -93 -173 -93 -232c0 -139 113 -236 288 -236c20 0 40 2 56 5c15 3 16 3 14 14l-50 298c-2 11 -4 12 -20 8c-61 -17 -100 -60 -100 -117c0 -46 30 -89 72 -107c7 -3 15 -6 15 -13c0 -6 -4 -11 -12 -11c-7 0 -19 3 -27 6 c-68 23 -115 87 -115 177c0 85 57 164 145 194c18 6 18 5 15 24zM430 103l49 -285c2 -12 4 -12 16 -6c56 28 94 79 94 142c0 88 -67 156 -148 163c-12 1 -13 -2 -11 -14z" />
+      </g>
+      <g id="E084-adiyqz">
+         <path transform="scale(1,-1)" d="M362 -74h73c11 0 15 -7 15 -19s-5 -19 -15 -19h-73v-59c0 -32 21 -38 31 -38s22 -6 22 -20s-10 -21 -20 -21h-213c-15 0 -19 11 -19 21s7 19 23 19c18 0 40 8 40 35v63h-186c-12 0 -20 7 -20 17c0 3 1 7 3 12l1 1v1l6 8c30 42 128 181 128 305c0 16 14 19 23 19 c8 0 53 -2 71 -2s59 2 68 2c8 0 15 -6 15 -15l-1 -3c-3 -12 -163 -239 -243 -307h135v84c0 12 5 18 9 23l95 115c6 7 11 9 20 9c11 0 12 -9 12 -17v-214z" />
+      </g>
+      <g id="E0A4-adiyqz">
+         <path transform="scale(1,-1)" d="M97 -125c-54 0 -97 31 -97 83c0 86 88 167 198 167c57 0 97 -32 97 -83c0 -85 -109 -167 -198 -167z" />
+      </g>
+      <g id="E240-adiyqz">
+         <path transform="scale(1,-1)" d="M238 -790c-5 -17 -22 -23 -28 -19s-16 13 -16 29c0 4 1 9 3 15c17 45 24 92 24 137c0 59 -9 116 -24 150c-36 85 -131 221 -197 233v239c0 12 8 15 19 15c10 0 18 -6 21 -22c16 -96 58 -182 109 -261c63 -100 115 -218 115 -343c0 -78 -26 -173 -26 -173z" />
+      </g>
+      <g id="E062-adiyqz">
+         <path transform="scale(1,-1)" d="M252 262c173 0 279 -116 279 -290c0 -304 -260 -482 -506 -602c-6 -3 -12 -5 -17 -5c-9 0 -13 6 -13 12c0 8 6 13 15 18c233 133 371 289 371 568c0 157 -46 261 -152 261c-102 0 -162 -73 -162 -113c0 -10 3 -18 16 -18s23 7 50 7c49 0 96 -40 96 -104 c0 -62 -43 -106 -106 -106c-81 0 -123 69 -123 149c0 96 78 223 252 223zM629 180c31 0 55 -24 55 -55s-24 -55 -55 -55s-55 24 -55 55s24 55 55 55zM630 -71c31 0 54 -23 54 -54s-23 -54 -54 -54s-54 23 -54 54s23 54 54 54z" />
+      </g>
+      <g id="E0A3-adiyqz">
+         <path transform="scale(1,-1)" d="M97 -125c-55 0 -97 30 -97 83c0 52 47 167 196 167c58 0 99 -32 99 -83c0 -33 -33 -167 -198 -167zM75 -87c48 0 189 88 189 131c0 7 -3 13 -6 19c-7 12 -18 21 -37 21c-47 0 -192 -79 -192 -128c0 -7 3 -14 6 -20c7 -12 19 -23 40 -23z" />
+      </g>
+      <g id="E241-adiyqz">
+         <path transform="scale(1,-1)" d="M240 760c-10 29 7 48 22 48c7 0 13 -4 16 -15c8 -32 28 -103 28 -181c0 -125 -61 -244 -124 -343c-51 -79 -125 -166 -142 -261c-2 -16 -15 -22 -24 -22c-8 0 -16 5 -16 15v235c134 45 184 126 221 210c15 34 40 118 40 177c0 45 -7 95 -21 137z" />
+      </g>
+      <g id="E4E6-adiyqz">
+         <path transform="scale(1,-1)" d="M134 107v-10c33 0 83 60 90 66c6 4 9 4 11 4c2 -1 12 -6 12 -16c-1 -5 -6 -21 -10 -39c0 0 -98 -351 -101 -353c-10 -8 -24 -10 -35 -10c-6 0 -29 1 -29 13c18 66 90 265 93 280c1 4 1 8 1 11c0 5 -1 9 -5 9c-1 0 -3 0 -5 -1c-13 -7 -22 -11 -36 -15 c-11 -4 -25 -7 -39 -7c-19 0 -38 6 -54 17c-15 12 -27 30 -27 51c0 37 30 67 67 67s67 -30 67 -67z" />
+      </g>
+      <g id="E4E5-adiyqz">
+         <path transform="scale(1,-1)" d="M78 -38l-49 60s-10 10 -10 24c0 8 4 19 14 29c45 47 60 90 60 127c0 72 -57 123 -61 134c-3 6 -4 11 -4 16c0 14 10 21 20 21c6 0 13 -3 18 -8c17 -17 165 -193 165 -193s4 -9 4 -19c0 -5 -1 -10 -4 -15c-26 -41 -62 -89 -66 -147v-3l-1 -7v-3c0 -56 31 -93 69 -139 c11 -12 37 -45 37 -57c0 -3 -2 -4 -5 -4c-2 0 -4 0 -8 1l-1 1c-17 6 -50 17 -79 17c-42 0 -63 -32 -63 -73c0 -9 1 -18 4 -26c2 -9 13 -36 26 -36c8 -7 16 -15 16 -24c0 -2 -1 -4 -2 -7c-1 -4 -8 -6 -15 -6c-8 0 -18 3 -26 9c-73 56 -116 105 -116 155c0 49 34 96 86 96 l8 -3h4c4 -1 12 -3 16 -3c5 0 9 1 11 5c1 1 1 3 1 4c0 2 -4 10 -6 14c-13 21 -27 40 -43 60z" />
+      </g>
+   </defs>
+   <style type="text/css">#adiyqz g.ending, #adiyqz g.fing, #adiyqz g.reh, #adiyqz g.tempo {font-weight:bold;}#adiyqz g.dir, #adiyqz g.dynam, #adiyqz g.mNum {font-style:italic;}#adiyqz g.label {font-weight:normal;}#adiyqz ellipse, #adiyqz path, #adiyqz polygon, #adiyqz polyline, #adiyqz rect {stroke:currentColor}#adiyqz g.cursor {fill:dodgerblue; color:dodgerblue;}#adiyqz g.cursor.chord {fill:limegreen; color:limegreen;}#adiyqz g.placeholder {visibility:hidden}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 18000 25460">
+      <g class="page-margin" transform="translate(1100, 3200)">
+         <g id="b193cn8a" class="mdiv pageMilestone" />
+         <g id="cz7x7j2" class="score pageMilestone" />
+         <g id="c1ljs62e" class="system">
+            <path d="M13 630 L13 3482" stroke-width="27" />
+            <g id="v16m3or9" class="grpSym">
+               <path d="M-72,3464 C-432,2924 18,2236 -252,2056 C81,2236 -369,2924 -72,3464" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,648 C-369,1188 81,1876 -252,2056 C18,1876 -432,1188 -72,648" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="aanb7z3" class="section placeholder systemMilestone">
+               <ellipse cx="0" cy="0" rx="90" ry="90" />
+            </g>
+            <g id="alle-jahre-wieder-measure-0" class="measure">
+               <g id="k1dyn6il" class="staff">
+                  <path d="M0 630 L6114 630" stroke-width="13" />
+                  <path d="M0 810 L6114 810" stroke-width="13" />
+                  <path d="M0 990 L6114 990" stroke-width="13" />
+                  <path d="M0 1170 L6114 1170" stroke-width="13" />
+                  <path d="M0 1350 L6114 1350" stroke-width="13" />
+                  <g id="inwh0kp" class="clef">
+                     <use xlink:href="#E050-adiyqz" transform="translate(120, 1170) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="j144pe1o" class="keySig" />
+                  <g id="keukh5h" class="meterSig">
+                     <use xlink:href="#E084-adiyqz" transform="translate(779, 810) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-adiyqz" transform="translate(779, 1170) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="lcwvqvd" class="layer">
+                     <g id="alle-jahre-wieder-m0-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(1419, 1170) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="mfyscu5" class="dots">
+                           <ellipse cx="1721" cy="1080" rx="36" ry="36" />
+                        </g>
+                        <g id="lnvodv8" class="stem">
+                           <path d="M1622 1140 L1622 540" stroke-width="18" />
+                        </g>
+                        <g id="n12xsdki" class="accid" />
+                        <g id="oj8r2tl" class="verse">
+                           <g id="p7mjx34" class="syl">
+                              <text x="1323" y="1950" font-size="0px">
+                                 <tspan id="q19ddyez" class="text">
+                                    <tspan font-size="432px">14Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r1iky3m9" class="verse">
+                           <g id="sbwr7wt" class="syl">
+                              <text x="1323" y="2374" font-size="0px">
+                                 <tspan id="tnd7vth" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m0-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(3257, 1080) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="n10599ng" class="stem">
+                           <path d="M3460 1050 L3460 450" stroke-width="18" />
+                           <g id="o1xnis3k" class="flag">
+                              <use xlink:href="#E240-adiyqz" transform="translate(3451, 450) scale(0.72, 0.72)" />
+                           </g>
+                        </g>
+                        <g id="vqshv4t" class="accid" />
+                        <g id="w1j8u0uc" class="verse">
+                           <g id="x5ic9x0" class="syl">
+                              <text x="3069" y="1950" font-size="0px">
+                                 <tspan id="y3zispx" class="text">
+                                    <tspan font-size="432px">5Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="z100iecl" class="verse">
+                           <g id="a111nmqi" class="syl">
+                              <text x="3034" y="2374" font-size="0px">
+                                 <tspan id="b17y3tnq" class="text">
+                                    <tspan font-size="432px">A4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m0-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(3952, 1170) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="p1hmjlb3" class="stem">
+                           <path d="M4155 1140 L4155 540" stroke-width="18" />
+                        </g>
+                        <g id="d6vdtlq" class="accid" />
+                        <g id="e7vfchf" class="verse">
+                           <g id="fl5cimr" class="syl">
+                              <text x="3856" y="1950" font-size="0px">
+                                 <tspan id="g7i6kj4" class="text">
+                                    <tspan font-size="432px">14Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="h1rt182a" class="verse">
+                           <g id="i1tc9hpy" class="syl">
+                              <text x="3856" y="2374" font-size="0px">
+                                 <tspan id="j1hvapxm" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m0-e3-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(5035, 1260) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="q1ozizgh" class="stem">
+                           <path d="M5238 1230 L5238 630" stroke-width="18" />
+                        </g>
+                        <g id="lwwd8ij" class="accid" />
+                        <g id="md2bjy4" class="verse">
+                           <g id="nnfyzbz" class="syl">
+                              <text x="4939" y="1950" font-size="0px">
+                                 <tspan id="ohiyadf" class="text">
+                                    <tspan font-size="432px">4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="p1b1mzvl" class="verse">
+                           <g id="q47m7nh" class="syl">
+                              <text x="4939" y="2374" font-size="0px">
+                                 <tspan id="r1t163d2" class="text">
+                                    <tspan font-size="432px">F4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="s1vmd51y" class="staff">
+                  <path d="M0 2762 L6114 2762" stroke-width="13" />
+                  <path d="M0 2942 L6114 2942" stroke-width="13" />
+                  <path d="M0 3122 L6114 3122" stroke-width="13" />
+                  <path d="M0 3302 L6114 3302" stroke-width="13" />
+                  <path d="M0 3482 L6114 3482" stroke-width="13" />
+                  <g id="l16ebnch" class="clef">
+                     <use xlink:href="#E062-adiyqz" transform="translate(120, 2942) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="m11a9iqb" class="keySig" />
+                  <g id="nenu8m7" class="meterSig">
+                     <use xlink:href="#E084-adiyqz" transform="translate(779, 2942) scale(0.72, 0.72)" />
+                     <use xlink:href="#E084-adiyqz" transform="translate(779, 3302) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="ti5gekj" class="layer">
+                     <g id="alle-jahre-wieder-b0-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(1419, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="r1rloiw1" class="stem">
+                           <path d="M1622 3182 L1622 2582" stroke-width="18" />
+                        </g>
+                        <g id="v6ypjgx" class="accid" />
+                        <g id="w1wu22a7" class="verse">
+                           <g id="x1pl9wuw" class="syl">
+                              <text x="1323" y="4122" font-size="0px">
+                                 <tspan id="y18ik10q" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="z188q6gl" class="verse">
+                           <g id="a18ebwqy" class="syl">
+                              <text x="1323" y="4546" font-size="0px">
+                                 <tspan id="bzg22o8" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="c19bone9" class="chord">
+                        <g id="s1xs7lf1" class="stem">
+                           <path d="M2572 2882 L2572 3782" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b0-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(2563, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ekghlx8" class="accid" />
+                           <g id="fd30ej6" class="verse">
+                              <g id="g3wwlwm" class="syl">
+                                 <text x="2467" y="4122" font-size="0px">
+                                    <tspan id="h1tcgwu2" class="text">
+                                       <tspan font-size="432px">L3Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="i1q9zuia" class="verse">
+                              <g id="j1us036c" class="syl">
+                                 <text x="2467" y="4546" font-size="0px">
+                                    <tspan id="k1jz26df" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b0-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(2563, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="m1tdf7bn" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b0-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(2563, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ozifb2y" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b0-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(3952, 3482) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="t1ggy1mi" class="stem">
+                           <path d="M4155 3452 L4155 2852" stroke-width="18" />
+                        </g>
+                        <g id="qye54zi" class="accid" />
+                        <g id="ri41m9x" class="verse">
+                           <g id="s1eo47zf" class="syl">
+                              <text x="3808" y="4122" font-size="0px">
+                                 <tspan id="t1ivp77d" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="u18y57re" class="verse">
+                           <g id="v1ib481c" class="syl">
+                              <text x="3856" y="4546" font-size="0px">
+                                 <tspan id="wsprzip" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="xn3mc9m" class="chord">
+                        <g id="u172de4f" class="stem">
+                           <path d="M5238 3452 L5238 2522" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b0-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(5035, 3482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="z3o6m12" class="accid" />
+                           <g id="awbuoi6" class="verse">
+                              <g id="bp0a3js" class="syl">
+                                 <text x="4939" y="4122" font-size="0px">
+                                    <tspan id="c1my0d3q" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="d1afm35j" class="verse">
+                              <g id="e15jhw8v" class="syl">
+                                 <text x="4939" y="4546" font-size="0px">
+                                    <tspan id="f1cw818y" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b0-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(5035, 3302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="h1m22f3" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b0-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(5035, 3122) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="j1eonhfb" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="kuexwr1" class="harm">
+                  <text x="1419" y="347" font-size="0px">
+                     <tspan id="ly1kw9" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="m1qocwmd" class="harm">
+                  <text x="3952" y="347" font-size="0px">
+                     <tspan id="nvxsa1l" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="j137dwxr" class="barLine">
+                  <path d="M6101 630 L6101 1350" stroke-width="27" />
+                  <path d="M6101 2762 L6101 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="alle-jahre-wieder-measure-1" class="measure">
+               <g id="xcqsuzs" class="staff">
+                  <path d="M6114 630 L10774 630" stroke-width="13" />
+                  <path d="M6114 810 L10774 810" stroke-width="13" />
+                  <path d="M6114 990 L10774 990" stroke-width="13" />
+                  <path d="M6114 1170 L10774 1170" stroke-width="13" />
+                  <path d="M6114 1350 L10774 1350" stroke-width="13" />
+                  <g id="y1medo0o" class="layer">
+                     <g id="alle-jahre-wieder-m1-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-adiyqz" transform="translate(6341, 1350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="v1ra456" class="stem">
+                           <path d="M6544 1320 L6544 720" stroke-width="18" />
+                        </g>
+                        <g id="a1fsxsb9" class="accid" />
+                        <g id="bc4ytx5" class="verse">
+                           <g id="c1m4dyei" class="syl">
+                              <text x="6245" y="1950" font-size="0px">
+                                 <tspan id="d1g14gaq" class="text">
+                                    <tspan font-size="432px">13Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="e1c0lyr1" class="verse">
+                           <g id="fhu7ccr" class="syl">
+                              <text x="6245" y="2374" font-size="0px">
+                                 <tspan id="g1tvbb28" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m1-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-adiyqz" transform="translate(8551, 1440) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="w61mz2x" class="stem">
+                           <path d="M8754 1410 L8754 810" stroke-width="18" />
+                        </g>
+                        <g id="iocdfy6" class="accid" />
+                        <g id="j1nh8nuf" class="verse">
+                           <g id="k1nbnmf6" class="syl">
+                              <text x="8455" y="1950" font-size="0px">
+                                 <tspan id="l1k9hjmc" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="m1iqpw53" class="verse">
+                           <g id="n1g24s0b" class="syl">
+                              <text x="8455" y="2374" font-size="0px">
+                                 <tspan id="o1bsk14s" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="p1i56lf" class="staff">
+                  <path d="M6114 2762 L10774 2762" stroke-width="13" />
+                  <path d="M6114 2942 L10774 2942" stroke-width="13" />
+                  <path d="M6114 3122 L10774 3122" stroke-width="13" />
+                  <path d="M6114 3302 L10774 3302" stroke-width="13" />
+                  <path d="M6114 3482 L10774 3482" stroke-width="13" />
+                  <g id="qxygnx9" class="layer">
+                     <g id="alle-jahre-wieder-b1-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(6341, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="xyjm5s7" class="stem">
+                           <path d="M6544 3182 L6544 2582" stroke-width="18" />
+                        </g>
+                        <g id="sbwpgwx" class="accid" />
+                        <g id="t1b04eye" class="verse">
+                           <g id="u1o1vftz" class="syl">
+                              <text x="6184" y="4122" font-size="0px">
+                                 <tspan id="v14m0vo9" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="wfnnb59" class="verse">
+                           <g id="x1wnpdgc" class="syl">
+                              <text x="6245" y="4546" font-size="0px">
+                                 <tspan id="y6qiw7r" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="z1jq188c" class="chord">
+                        <g id="y1koh51j" class="stem">
+                           <path d="M7417 2882 L7417 3782" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b1-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(7408, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b1tr311t" class="accid" />
+                           <g id="cmqhttf" class="verse">
+                              <g id="dckde0j" class="syl">
+                                 <text x="7312" y="4122" font-size="0px">
+                                    <tspan id="ehqlyoz" class="text">
+                                       <tspan font-size="432px">L3Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="f1c0nvit" class="verse">
+                              <g id="g9zbv5g" class="syl">
+                                 <text x="7312" y="4546" font-size="0px">
+                                    <tspan id="hxp0g4z" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b1-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(7408, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="j16qc9ci" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b1-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(7408, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="l1a7okbe" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b1-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(8551, 3482) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="zuz8bpq" class="stem">
+                           <path d="M8754 3452 L8754 2852" stroke-width="18" />
+                        </g>
+                        <g id="n10asuci" class="accid" />
+                        <g id="ophh7hz" class="verse">
+                           <g id="p1msp672" class="syl">
+                              <text x="8455" y="4122" font-size="0px">
+                                 <tspan id="q3dc7xw" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="r1k14xab" class="verse">
+                           <g id="sjen5cx" class="syl">
+                              <text x="8455" y="4546" font-size="0px">
+                                 <tspan id="t1my8vdq" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="uvg2fui" class="chord">
+                        <g id="a1ai47zq" class="stem">
+                           <path d="M9898 3452 L9898 2522" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b1-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(9695, 3482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="w7t1ppl" class="accid" />
+                           <g id="x9z6818" class="verse">
+                              <g id="ycoxlrk" class="syl">
+                                 <text x="9599" y="4122" font-size="0px">
+                                    <tspan id="z1hnwnz1" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="azik5tp" class="verse">
+                              <g id="by8p85f" class="syl">
+                                 <text x="9599" y="4546" font-size="0px">
+                                    <tspan id="c8tp5o2" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b1-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(9695, 3302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="e1gcj8va" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b1-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(9695, 3122) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="g10k7ybr" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="h12er0aa" class="harm">
+                  <text x="6341" y="347" font-size="0px">
+                     <tspan id="iq3a3zi" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="jwcpyec" class="harm">
+                  <text x="8551" y="347" font-size="0px">
+                     <tspan id="k18psyb4" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="w1n989ry" class="barLine">
+                  <path d="M10761 630 L10761 1350" stroke-width="27" />
+                  <path d="M10761 2762 L10761 3482" stroke-width="27" />
+               </g>
+            </g>
+            <g id="alle-jahre-wieder-measure-2" class="measure">
+               <g id="utt2eav" class="staff">
+                  <path d="M10774 630 L15801 630" stroke-width="13" />
+                  <path d="M10774 810 L15801 810" stroke-width="13" />
+                  <path d="M10774 990 L15801 990" stroke-width="13" />
+                  <path d="M10774 1170 L15801 1170" stroke-width="13" />
+                  <path d="M10774 1350 L15801 1350" stroke-width="13" />
+                  <g class="ledgerLines below">
+                     <path d="M10953 1530 L11261 1530" stroke-width="22" />
+                  </g>
+                  <g id="vp7wphy" class="layer">
+                     <g id="alle-jahre-wieder-m2-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(11001, 1530) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="b1pkyem2" class="stem">
+                           <path d="M11204 1500 L11204 900" stroke-width="18" />
+                        </g>
+                        <g id="xpqqr69" class="accid" />
+                        <g id="yduuif8" class="verse">
+                           <g id="zthqati" class="syl">
+                              <text x="10905" y="1950" font-size="0px">
+                                 <tspan id="ajhmo79" class="text">
+                                    <tspan font-size="432px">3D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="b1yysdso" class="verse">
+                           <g id="clty3r1" class="syl">
+                              <text x="10905" y="2374" font-size="0px">
+                                 <tspan id="dcpgs19" class="text">
+                                    <tspan font-size="432px">C4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="e1tlarfn" class="beam">
+                        <polygon points="12262,810 12974,720 12974,810 12262,900" />
+                        <g id="alle-jahre-wieder-m2-e1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12068, 1440) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="c1pibuz8" class="stem">
+                              <path d="M12271 1410 L12271 828" stroke-width="18" />
+                           </g>
+                           <g id="goqobz2" class="accid" />
+                           <g id="hmff07r" class="verse">
+                              <g id="itpzaei" class="syl">
+                                 <text x="11880" y="1950" font-size="0px">
+                                    <tspan id="j13wp9p2" class="text">
+                                       <tspan font-size="432px">3Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="kd41ykm" class="verse">
+                              <g id="ltek1yt" class="syl">
+                                 <text x="11854" y="2374" font-size="0px">
+                                    <tspan id="m1bhplqh" class="text">
+                                       <tspan font-size="432px">D4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-m2-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12762, 1350) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="djs1lhm" class="stem">
+                              <path d="M12965 1320 L12965 738" stroke-width="18" />
+                           </g>
+                           <g id="ovamopw" class="accid" />
+                           <g id="p1chz8el" class="verse">
+                              <g id="q1eo2l8d" class="syl">
+                                 <text x="12666" y="1950" font-size="0px">
+                                    <tspan id="rl1r1x" class="text">
+                                       <tspan font-size="432px">4D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="s1akgf1w" class="verse">
+                              <g id="t1uxf5kh" class="syl">
+                                 <text x="12666" y="2374" font-size="0px">
+                                    <tspan id="u11ghspk" class="text">
+                                       <tspan font-size="432px">E4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m2-e3-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(13606, 1260) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="eo0b11e" class="stem">
+                           <path d="M13809 1230 L13809 630" stroke-width="18" />
+                        </g>
+                        <g id="w1pt0vs3" class="accid" />
+                        <g id="x1lov7zv" class="verse">
+                           <g id="y4kc0lx" class="syl">
+                              <text x="13510" y="1950" font-size="0px">
+                                 <tspan id="z71izro" class="text">
+                                    <tspan font-size="432px">14D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="a1u56p7l" class="verse">
+                           <g id="b1phr0qy" class="syl">
+                              <text x="13510" y="2374" font-size="0px">
+                                 <tspan id="chky02o" class="text">
+                                    <tspan font-size="432px">F4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m2-e4-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(14722, 1350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="f1a2qi2x" class="stem">
+                           <path d="M14925 1320 L14925 720" stroke-width="18" />
+                        </g>
+                        <g id="e1bfq1u3" class="accid" />
+                        <g id="f1le91as" class="verse">
+                           <g id="gysxc4s" class="syl">
+                              <text x="14626" y="1950" font-size="0px">
+                                 <tspan id="h6azoap" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="i1qjqdgi" class="verse">
+                           <g id="jint0zg" class="syl">
+                              <text x="14626" y="2374" font-size="0px">
+                                 <tspan id="k1qjlbs" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="l1s1bl3f" class="staff">
+                  <path d="M10774 2762 L15801 2762" stroke-width="13" />
+                  <path d="M10774 2942 L15801 2942" stroke-width="13" />
+                  <path d="M10774 3122 L15801 3122" stroke-width="13" />
+                  <path d="M10774 3302 L15801 3302" stroke-width="13" />
+                  <path d="M10774 3482 L15801 3482" stroke-width="13" />
+                  <g id="mlee3kp" class="layer">
+                     <g id="alle-jahre-wieder-b2-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(11001, 3212) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="gdk47n8" class="stem">
+                           <path d="M11204 3182 L11204 2582" stroke-width="18" />
+                        </g>
+                        <g id="o1j4x4x3" class="accid" />
+                        <g id="p155rp2f" class="verse">
+                           <g id="q1w8ilcd" class="syl">
+                              <text x="10818" y="4122" font-size="0px">
+                                 <tspan id="rtqk4g5" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="s93j5l9" class="verse">
+                           <g id="t3ltaqu" class="syl">
+                              <text x="10905" y="4546" font-size="0px">
+                                 <tspan id="u16czi49" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="v1c7fa8n" class="chord">
+                        <g id="hdap9y3" class="stem">
+                           <path d="M12077 2882 L12077 3782" stroke-width="18" />
+                           <g id="i1e15n35" class="flag">
+                              <use xlink:href="#E241-adiyqz" transform="translate(12068, 3782) scale(0.72, 0.72)" />
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b2-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12068, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="xydpmbn" class="accid" />
+                           <g id="y5fiab3" class="verse">
+                              <g id="z1ti91tw" class="syl">
+                                 <text x="11972" y="4122" font-size="0px">
+                                    <tspan id="agkif7f" class="text">
+                                       <tspan font-size="432px">L3Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="bggitwy" class="verse">
+                              <g id="cute893" class="syl">
+                                 <text x="11972" y="4546" font-size="0px">
+                                    <tspan id="d1im7w6l" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b2-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12068, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="fh6j3nx" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b2-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12068, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="hebjq6y" class="accid" />
+                        </g>
+                     </g>
+                     <g id="i1veqh6b" class="rest">
+                        <use xlink:href="#E4E6-adiyqz" transform="translate(12762, 3122) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="alle-jahre-wieder-b2-3-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(13606, 3572) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="j16py0l" class="stem">
+                           <path d="M13809 3542 L13809 2942" stroke-width="18" />
+                        </g>
+                        <g id="k13mya8r" class="accid" />
+                        <g id="l1fddmal" class="verse">
+                           <g id="m1swdwig" class="syl">
+                              <text x="13462" y="4122" font-size="0px">
+                                 <tspan id="nd53ed4" class="text">
+                                    <tspan font-size="432px">L4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="o1bzkipk" class="verse">
+                           <g id="p1pwdmxb" class="syl">
+                              <text x="13510" y="4546" font-size="0px">
+                                 <tspan id="q1oklj28" class="text">
+                                    <tspan font-size="432px">F</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="rbt4m7u" class="chord">
+                        <g id="k1su38lf" class="stem">
+                           <path d="M14731 2882 L14731 3782" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b2-4-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(14722, 3212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="tsxqq1s" class="accid" />
+                           <g id="uye983v" class="verse">
+                              <g id="v11s06r" class="syl">
+                                 <text x="14626" y="4122" font-size="0px">
+                                    <tspan id="wueucd3" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="xmcx0ox" class="verse">
+                              <g id="ysirpsh" class="syl">
+                                 <text x="14626" y="4546" font-size="0px">
+                                    <tspan id="z1ejn513" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b2-4-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(14722, 3032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="b1xrlg94" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b2-4-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(14722, 2852) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="du3z984" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="efeajms" class="harm">
+                  <text x="11001" y="347" font-size="0px">
+                     <tspan id="f1umzrro" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="g1yyt6ud" class="harm">
+                  <text x="13606" y="347" font-size="0px">
+                     <tspan id="h8rg57n" class="text">
+                        <tspan font-size="432px">F</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="iuuswec" class="harm">
+                  <text x="14722" y="347" font-size="0px">
+                     <tspan id="j1hhkzm" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="t1mjo6a4" class="barLine">
+                  <path d="M15788 630 L15788 1350" stroke-width="27" />
+                  <path d="M15788 2762 L15788 3482" stroke-width="27" />
+               </g>
+            </g>
+         </g>
+         <g id="f1oo7k9f" class="system">
+            <path d="M13 5810 L13 8662" stroke-width="27" />
+            <g id="t1ffoepi" class="grpSym">
+               <path d="M-72,8644 C-432,8104 18,7416 -252,7236 C81,7416 -369,8104 -72,8644" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,5828 C-369,6368 81,7056 -252,7236 C18,7056 -432,6368 -72,5828" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="alle-jahre-wieder-measure-3" class="measure">
+               <g id="o11rekj3" class="mNum autogenerated">
+                  <text y="5551" text-anchor="middle" font-size="0px">
+                     <tspan id="p1uqoc5o" class="text">
+                        <tspan font-size="345px">4</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="t1fkf0rd" class="staff">
+                  <path d="M0 5810 L4239 5810" stroke-width="13" />
+                  <path d="M0 5990 L4239 5990" stroke-width="13" />
+                  <path d="M0 6170 L4239 6170" stroke-width="13" />
+                  <path d="M0 6350 L4239 6350" stroke-width="13" />
+                  <path d="M0 6530 L4239 6530" stroke-width="13" />
+                  <g id="g1lwe6yf" class="clef">
+                     <use xlink:href="#E050-adiyqz" transform="translate(120, 6350) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="hlq0wlf" class="keySig" />
+                  <g id="u1gxejeu" class="layer">
+                     <g id="alle-jahre-wieder-m3-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-adiyqz" transform="translate(889, 6620) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="mflfrf3" class="dots">
+                           <ellipse cx="1191" cy="6620" rx="36" ry="36" />
+                        </g>
+                        <g id="lwnpqig" class="stem">
+                           <path d="M1092 6590 L1092 5990" stroke-width="18" />
+                        </g>
+                        <g id="w60mp9u" class="accid" />
+                        <g id="x170yq23" class="verse">
+                           <g id="yhza3v0" class="syl">
+                              <text x="793" y="7130" font-size="0px">
+                                 <tspan id="zhr8htc" class="text">
+                                    <tspan font-size="432px">3Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ayvak43" class="verse">
+                           <g id="b3jdc1j" class="syl">
+                              <text x="793" y="7554" font-size="0px">
+                                 <tspan id="cv7e3b" class="text">
+                                    <tspan font-size="432px">D4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="d15p1nue" class="rest">
+                        <use xlink:href="#E4E5-adiyqz" transform="translate(3493, 6170) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="e1lj476v" class="staff">
+                  <path d="M0 7942 L4239 7942" stroke-width="13" />
+                  <path d="M0 8122 L4239 8122" stroke-width="13" />
+                  <path d="M0 8302 L4239 8302" stroke-width="13" />
+                  <path d="M0 8482 L4239 8482" stroke-width="13" />
+                  <path d="M0 8662 L4239 8662" stroke-width="13" />
+                  <g id="ig3av13" class="clef">
+                     <use xlink:href="#E062-adiyqz" transform="translate(120, 8122) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="jan93pb" class="keySig" />
+                  <g id="f1izy847" class="layer">
+                     <g id="alle-jahre-wieder-b3-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(889, 8662) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="nvefx56" class="stem">
+                           <path d="M1092 8632 L1092 8032" stroke-width="18" />
+                        </g>
+                        <g id="h143g0l8" class="accid" />
+                        <g id="i1btn3ou" class="verse">
+                           <g id="jsxosvv" class="syl">
+                              <text x="793" y="9301" font-size="0px">
+                                 <tspan id="k184ykrq" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="l5zb01x" class="verse">
+                           <g id="m1p957lj" class="syl">
+                              <text x="793" y="9725" font-size="0px">
+                                 <tspan id="n186ltuu" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="ol4da8r" class="chord">
+                        <g id="orhi68h" class="stem">
+                           <path d="M2027 8632 L2027 7702" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b3-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(1824, 8662) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="qat5e2n" class="accid" />
+                           <g id="rei41b0" class="verse">
+                              <g id="szskdt2" class="syl">
+                                 <text x="1728" y="9301" font-size="0px">
+                                    <tspan id="tvt98nd" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="u1gj4gh6" class="verse">
+                              <g id="vvtzndc" class="syl">
+                                 <text x="1728" y="9725" font-size="0px">
+                                    <tspan id="w1c9ws5g" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b3-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(1824, 8482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="ym0qiuj" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b3-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(1824, 8302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="awixuuf" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b3-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(2760, 8662) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="p112iskc" class="stem">
+                           <path d="M2963 8632 L2963 8032" stroke-width="18" />
+                        </g>
+                        <g id="c1v5abn5" class="accid" />
+                        <g id="dew068r" class="verse">
+                           <g id="e14ikzvk" class="syl">
+                              <text x="2664" y="9301" font-size="0px">
+                                 <tspan id="f1adi6vk" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="g1fqupa2" class="verse">
+                           <g id="hth0uuj" class="syl">
+                              <text x="2664" y="9725" font-size="0px">
+                                 <tspan id="ipf04et" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="jd42fy6" class="rest">
+                        <use xlink:href="#E4E5-adiyqz" transform="translate(3493, 8302) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="kgbpsgc" class="harm">
+                  <text x="889" y="5527" font-size="0px">
+                     <tspan id="l1xstig1" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="s1tc0vik" class="barLine">
+                  <path d="M4226 5810 L4226 6530" stroke-width="27" />
+                  <path d="M4226 7942 L4226 8662" stroke-width="27" />
+               </g>
+            </g>
+            <g id="alle-jahre-wieder-measure-4" class="measure">
+               <g id="v16yp8bt" class="staff">
+                  <path d="M4239 5810 L7858 5810" stroke-width="13" />
+                  <path d="M4239 5990 L7858 5990" stroke-width="13" />
+                  <path d="M4239 6170 L7858 6170" stroke-width="13" />
+                  <path d="M4239 6350 L7858 6350" stroke-width="13" />
+                  <path d="M4239 6530 L7858 6530" stroke-width="13" />
+                  <g id="wl5ry6t" class="layer">
+                     <g id="alle-jahre-wieder-m4-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(4425, 6530) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="q163vyqr" class="stem">
+                           <path d="M4628 6500 L4628 5900" stroke-width="18" />
+                        </g>
+                        <g id="y1sfw4qa" class="accid" />
+                        <g id="z1wz0ilq" class="verse">
+                           <g id="a1694bhw" class="syl">
+                              <text x="4329" y="7130" font-size="0px">
+                                 <tspan id="bmreffv" class="text">
+                                    <tspan font-size="432px">4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="cty8kgu" class="verse">
+                           <g id="d12gbzhu" class="syl">
+                              <text x="4329" y="7554" font-size="0px">
+                                 <tspan id="et89tsb" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m4-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(5158, 6350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="r17e0plm" class="stem">
+                           <path d="M5361 6320 L5361 5720" stroke-width="18" />
+                        </g>
+                        <g id="g19kldlw" class="accid" />
+                        <g id="h13qgfdk" class="verse">
+                           <g id="i14jk3ln" class="syl">
+                              <text x="5062" y="7130" font-size="0px">
+                                 <tspan id="jzmzl3" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="kxl8cme" class="verse">
+                           <g id="lb9r8s8" class="syl">
+                              <text x="5062" y="7554" font-size="0px">
+                                 <tspan id="mdx911q" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m4-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(6120, 6260) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="sb1iwdo" class="stem">
+                           <path d="M6323 6230 L6323 5630" stroke-width="18" />
+                        </g>
+                        <g id="o1myi9li" class="accid" />
+                        <g id="pzcync8" class="verse">
+                           <g id="q4nzddb" class="syl">
+                              <text x="5982" y="7130" font-size="0px">
+                                 <tspan id="r95mfx6" class="text">
+                                    <tspan font-size="432px">15D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="sch07m9" class="verse">
+                           <g id="t10uaz8d" class="syl">
+                              <text x="6024" y="7554" font-size="0px">
+                                 <tspan id="u16s7evw" class="text">
+                                    <tspan font-size="432px">A4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m4-e3-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(7082, 6350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="t19kgcs" class="stem">
+                           <path d="M7285 6320 L7285 5720" stroke-width="18" />
+                        </g>
+                        <g id="wu4ac2l" class="accid" />
+                        <g id="x186wp0m" class="verse">
+                           <g id="y1cqac8n" class="syl">
+                              <text x="6986" y="7130" font-size="0px">
+                                 <tspan id="zgjvvfj" class="text">
+                                    <tspan font-size="432px">5D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="axgiim" class="verse">
+                           <g id="b14cb3ls" class="syl">
+                              <text x="6986" y="7554" font-size="0px">
+                                 <tspan id="c1gqx4x5" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="dh5gy68" class="staff">
+                  <path d="M4239 7942 L7858 7942" stroke-width="13" />
+                  <path d="M4239 8122 L7858 8122" stroke-width="13" />
+                  <path d="M4239 8302 L7858 8302" stroke-width="13" />
+                  <path d="M4239 8482 L7858 8482" stroke-width="13" />
+                  <path d="M4239 8662 L7858 8662" stroke-width="13" />
+                  <g id="e1yc6tzc" class="layer">
+                     <g id="alle-jahre-wieder-b4-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(4425, 8392) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="u1v34q8" class="stem">
+                           <path d="M4628 8362 L4628 7762" stroke-width="18" />
+                        </g>
+                        <g id="gzov5i9" class="accid" />
+                        <g id="hij05ht" class="verse">
+                           <g id="ildfqlz" class="syl">
+                              <text x="4107" y="9301" font-size="0px">
+                                 <tspan id="j146cb0k" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="kdy8yx3" class="verse">
+                           <g id="l2kcisq" class="syl">
+                              <text x="4329" y="9725" font-size="0px">
+                                 <tspan id="m14tb9dv" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="n1ehba06" class="chord">
+                        <g id="vzqarmm" class="stem">
+                           <path d="M5167 8062 L5167 8962" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b4-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(5158, 8392) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="p167pz9d" class="accid" />
+                           <g id="q1o8hofp" class="verse">
+                              <g id="r1h335k8" class="syl">
+                                 <text x="5062" y="9301" font-size="0px">
+                                    <tspan id="siab1uz" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="t62owfj" class="verse">
+                              <g id="u1d71c29" class="syl">
+                                 <text x="5062" y="9725" font-size="0px">
+                                    <tspan id="vg7it9r" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b4-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(5158, 8212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="xszisz8" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b4-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(5158, 8032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="z1ug2mqc" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b4-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(6120, 8392) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="wfyqeym" class="stem">
+                           <path d="M6323 8362 L6323 7762" stroke-width="18" />
+                        </g>
+                        <g id="b1qn5soz" class="accid" />
+                        <g id="c1bgdbym" class="verse">
+                           <g id="d14v5x6v" class="syl">
+                              <text x="6024" y="9301" font-size="0px">
+                                 <tspan id="e4vuhrl" class="text">
+                                    <tspan font-size="432px">L2D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="f17tfe98" class="verse">
+                           <g id="gmu2wmu" class="syl">
+                              <text x="6024" y="9725" font-size="0px">
+                                 <tspan id="hj7kdl1" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="i1kcdcr2" class="chord">
+                        <g id="xzlb8cj" class="stem">
+                           <path d="M7091 8062 L7091 8962" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b4-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(7082, 8392) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="kkfbso7" class="accid" />
+                           <g id="l1m869js" class="verse">
+                              <g id="m1gxb83v" class="syl">
+                                 <text x="6986" y="9301" font-size="0px">
+                                    <tspan id="nxz6ufn" class="text">
+                                       <tspan font-size="432px">L1D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="ow44ihm" class="verse">
+                              <g id="pn50nzt" class="syl">
+                                 <text x="6986" y="9725" font-size="0px">
+                                    <tspan id="q1wbl0af" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b4-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(7082, 8212) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="s1t9o430" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b4-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(7082, 8032) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="uqyzck8" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="v6sfkeu" class="harm">
+                  <text x="4425" y="5527" font-size="0px">
+                     <tspan id="w1xhjwqp" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="urhor3b" class="barLine">
+                  <path d="M7845 5810 L7845 6530" stroke-width="27" />
+                  <path d="M7845 7942 L7845 8662" stroke-width="27" />
+               </g>
+            </g>
+            <g id="alle-jahre-wieder-measure-5" class="measure">
+               <g id="g1y4fvz3" class="staff">
+                  <path d="M7858 5810 L11653 5810" stroke-width="13" />
+                  <path d="M7858 5990 L11653 5990" stroke-width="13" />
+                  <path d="M7858 6170 L11653 6170" stroke-width="13" />
+                  <path d="M7858 6350 L11653 6350" stroke-width="13" />
+                  <path d="M7858 6530 L11653 6530" stroke-width="13" />
+                  <g id="h1pyb5xm" class="layer">
+                     <g id="alle-jahre-wieder-m5-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-adiyqz" transform="translate(8044, 6080) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="y1swzvn8" class="stem">
+                           <path d="M8053 6110 L8053 6710" stroke-width="18" />
+                        </g>
+                        <g id="j16nmvc7" class="accid" />
+                        <g id="khosu2" class="verse">
+                           <g id="l1m6qhr2" class="syl">
+                              <text x="7948" y="7130" font-size="0px">
+                                 <tspan id="m1iww7ja" class="text">
+                                    <tspan font-size="432px">6D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="n61vizm" class="verse">
+                           <g id="o11jb1de" class="syl">
+                              <text x="7948" y="7554" font-size="0px">
+                                 <tspan id="pzjma6q" class="text">
+                                    <tspan font-size="432px">C5</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m5-e1-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(9968, 6170) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="z1rpa7hn" class="stem">
+                           <path d="M9977 6200 L9977 6770" stroke-width="18" />
+                        </g>
+                        <g id="r3ymnw9" class="accid" />
+                        <g id="stahj55" class="verse">
+                           <g id="tc1duvw" class="syl">
+                              <text x="9872" y="7130" font-size="0px">
+                                 <tspan id="u1xrj3bb" class="text">
+                                    <tspan font-size="432px">6Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="v1snr6q1" class="verse">
+                           <g id="wc0qmxh" class="syl">
+                              <text x="9872" y="7554" font-size="0px">
+                                 <tspan id="xp7x2ab" class="text">
+                                    <tspan font-size="432px">B4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m5-e2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(10903, 6260) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="a1culfkb" class="stem">
+                           <path d="M11106 6230 L11106 5630" stroke-width="18" />
+                        </g>
+                        <g id="zfou670" class="accid" />
+                        <g id="a818nwy" class="verse">
+                           <g id="b1uawygm" class="syl">
+                              <text x="10807" y="7130" font-size="0px">
+                                 <tspan id="cylq3e4" class="text">
+                                    <tspan font-size="432px">5Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="deejbuz" class="verse">
+                           <g id="ehnuu7h" class="syl">
+                              <text x="10807" y="7554" font-size="0px">
+                                 <tspan id="f13l9bn5" class="text">
+                                    <tspan font-size="432px">A4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="gj4e5l7" class="staff">
+                  <path d="M7858 7942 L11653 7942" stroke-width="13" />
+                  <path d="M7858 8122 L11653 8122" stroke-width="13" />
+                  <path d="M7858 8302 L11653 8302" stroke-width="13" />
+                  <path d="M7858 8482 L11653 8482" stroke-width="13" />
+                  <path d="M7858 8662 L11653 8662" stroke-width="13" />
+                  <g id="h1nmipab" class="layer">
+                     <g id="alle-jahre-wieder-b5-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(8044, 8752) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="bxubg9v" class="stem">
+                           <path d="M8247 8722 L8247 8122" stroke-width="18" />
+                        </g>
+                        <g id="j1ad6men" class="accid" />
+                        <g id="k1c1bfcj" class="verse">
+                           <g id="l1r83se7" class="syl">
+                              <text x="7948" y="9301" font-size="0px">
+                                 <tspan id="m1jp70zc" class="text">
+                                    <tspan font-size="432px">L4D</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="ngz2ulg" class="verse">
+                           <g id="opkw2pj" class="syl">
+                              <text x="7948" y="9725" font-size="0px">
+                                 <tspan id="pqyvoz0" class="text">
+                                    <tspan font-size="432px">F</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="q1awezjk" class="chord">
+                        <g id="c1r4zozu" class="stem">
+                           <path d="M9209 8722 L9209 7762" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b5-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(9006, 8752) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="s1i8ed19" class="accid" />
+                           <g id="tna6zx6" class="verse">
+                              <g id="upew3mo" class="syl">
+                                 <text x="8910" y="9301" font-size="0px">
+                                    <tspan id="vj2cv4m" class="text">
+                                       <tspan font-size="432px">L3D</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="w1olvfwo" class="verse">
+                              <g id="xl2su0i" class="syl">
+                                 <text x="8910" y="9725" font-size="0px">
+                                    <tspan id="y1ewufts" class="text">
+                                       <tspan font-size="432px">F</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b5-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(9006, 8572) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="a1vh1t58" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b5-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(9006, 8392) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="c1rcwje9" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b5-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(9968, 8302) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="dyww99b" class="stem">
+                           <path d="M9977 8332 L9977 8902" stroke-width="18" />
+                        </g>
+                        <g id="e1o8q7sa" class="accid" />
+                        <g id="f18da5ms" class="verse">
+                           <g id="g1hdkukl" class="syl">
+                              <text x="9872" y="9301" font-size="0px">
+                                 <tspan id="h83l4wg" class="text">
+                                    <tspan font-size="432px">L6Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="i194t2b8" class="verse">
+                           <g id="jschq3w" class="syl">
+                              <text x="9872" y="9725" font-size="0px">
+                                 <tspan id="k1s7bkcl" class="text">
+                                    <tspan font-size="432px">Dm</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="l17rf97m" class="chord">
+                        <g id="e1umpqc0" class="stem">
+                           <path d="M10912 7972 L10912 8902" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b5-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(10903, 8302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="n1gkh5f9" class="accid" />
+                           <g id="o2p0ci9" class="verse">
+                              <g id="potjs0c" class="syl">
+                                 <text x="10807" y="9301" font-size="0px">
+                                    <tspan id="q1iafopp" class="text">
+                                       <tspan font-size="432px">L5Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="rxcnqk6" class="verse">
+                              <g id="s1dgqx9g" class="syl">
+                                 <text x="10807" y="9725" font-size="0px">
+                                    <tspan id="t1rpfzmn" class="text">
+                                       <tspan font-size="432px">Dm</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b5-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(10903, 8122) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="v1hvj3au" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b5-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(10903, 7942) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="x19se39h" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="yuki18w" class="harm">
+                  <text x="8044" y="5527" font-size="0px">
+                     <tspan id="z12y6ubo" class="text">
+                        <tspan font-size="432px">F</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="a46bi5b" class="harm">
+                  <text x="9968" y="5527" font-size="0px">
+                     <tspan id="b13n1ly9" class="text">
+                        <tspan font-size="432px">Dm</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="f1fq67dr" class="barLine">
+                  <path d="M11640 5810 L11640 6530" stroke-width="27" />
+                  <path d="M11640 7942 L11640 8662" stroke-width="27" />
+               </g>
+            </g>
+            <g id="alle-jahre-wieder-measure-6" class="measure">
+               <g id="l83u3zz" class="staff">
+                  <path d="M11653 5810 L15802 5810" stroke-width="13" />
+                  <path d="M11653 5990 L15802 5990" stroke-width="13" />
+                  <path d="M11653 6170 L15802 6170" stroke-width="13" />
+                  <path d="M11653 6350 L15802 6350" stroke-width="13" />
+                  <path d="M11653 6530 L15802 6530" stroke-width="13" />
+                  <g id="m15ki6ue" class="layer">
+                     <g id="alle-jahre-wieder-m6-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(11839, 6350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="f1o089js" class="stem">
+                           <path d="M12042 6320 L12042 5720" stroke-width="18" />
+                        </g>
+                        <g id="o1cmos2u" class="accid" />
+                        <g id="p1cwly88" class="verse">
+                           <g id="q1ebvm5l" class="syl">
+                              <text x="11595" y="7130" font-size="0px">
+                                 <tspan id="r13at7n6" class="text">
+                                    <tspan font-size="432px">14Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="s1vgc7bm" class="verse">
+                           <g id="t5g2sjy" class="syl">
+                              <text x="11743" y="7554" font-size="0px">
+                                 <tspan id="u1ory0ju" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="v1fxkaal" class="beam">
+                        <polygon points="12968,5810 13649,5900 13649,5990 12968,5900" />
+                        <g id="alle-jahre-wieder-m6-e1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12774, 6440) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="g1yxhel4" class="stem">
+                              <path d="M12977 6410 L12977 5828" stroke-width="18" />
+                           </g>
+                           <g id="x1932bac" class="accid" />
+                           <g id="y27j9l4" class="verse">
+                              <g id="z1uqgi1h" class="syl">
+                                 <text x="12678" y="7130" font-size="0px">
+                                    <tspan id="a1qnnl67" class="text">
+                                       <tspan font-size="432px">4Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="b1ga6ens" class="verse">
+                              <g id="c64414o" class="syl">
+                                 <text x="12678" y="7554" font-size="0px">
+                                    <tspan id="d1tahyiq" class="text">
+                                       <tspan font-size="432px">F4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-m6-e2-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(13437, 6530) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="h1ogri7c" class="stem">
+                              <path d="M13640 6500 L13640 5918" stroke-width="18" />
+                           </g>
+                           <g id="faxn5wb" class="accid" />
+                           <g id="gyzdraj" class="verse">
+                              <g id="h1nrnhtc" class="syl">
+                                 <text x="13341" y="7130" font-size="0px">
+                                    <tspan id="itz47af" class="text">
+                                       <tspan font-size="432px">13Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="j1t9hhh" class="verse">
+                              <g id="kglx1z5" class="syl">
+                                 <text x="13341" y="7554" font-size="0px">
+                                    <tspan id="lnfstmw" class="text">
+                                       <tspan font-size="432px">E4</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m6-e3-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(14323, 6440) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="i2jhj9a" class="stem">
+                           <path d="M14526 6410 L14526 5810" stroke-width="18" />
+                        </g>
+                        <g id="n14j3df9" class="accid" />
+                        <g id="obieod8" class="verse">
+                           <g id="pf8285h" class="syl">
+                              <text x="14227" y="7130" font-size="0px">
+                                 <tspan id="qyt4qmw" class="text">
+                                    <tspan font-size="432px">4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="rlrq782" class="verse">
+                           <g id="s8lq7y2" class="syl">
+                              <text x="14227" y="7554" font-size="0px">
+                                 <tspan id="t1o8p2u9" class="text">
+                                    <tspan font-size="432px">F4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-m6-e4-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(15056, 6350) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="j1pwix50" class="stem">
+                           <path d="M15259 6320 L15259 5720" stroke-width="18" />
+                        </g>
+                        <g id="v1h4u18x" class="accid" />
+                        <g id="w7snt74" class="verse">
+                           <g id="xcn74cg" class="syl">
+                              <text x="14960" y="7130" font-size="0px">
+                                 <tspan id="y4l1fi8" class="text">
+                                    <tspan font-size="432px">14Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="zsg954x" class="verse">
+                           <g id="apjnmxa" class="syl">
+                              <text x="14960" y="7554" font-size="0px">
+                                 <tspan id="b1c6o0gi" class="text">
+                                    <tspan font-size="432px">G4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="c189wwcd" class="staff">
+                  <path d="M11653 7942 L15802 7942" stroke-width="13" />
+                  <path d="M11653 8122 L15802 8122" stroke-width="13" />
+                  <path d="M11653 8302 L15802 8302" stroke-width="13" />
+                  <path d="M11653 8482 L15802 8482" stroke-width="13" />
+                  <path d="M11653 8662 L15802 8662" stroke-width="13" />
+                  <g id="dug6v4z" class="layer">
+                     <g id="alle-jahre-wieder-b6-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(11839, 8662) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="kzy3wpz" class="stem">
+                           <path d="M12042 8632 L12042 8032" stroke-width="18" />
+                        </g>
+                        <g id="f1g676bp" class="accid" />
+                        <g id="g8zlgu7" class="verse">
+                           <g id="h1i0i5bt" class="syl">
+                              <text x="11743" y="9301" font-size="0px">
+                                 <tspan id="i18qza82" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="j1u9lh9e" class="verse">
+                           <g id="kfk5c6v" class="syl">
+                              <text x="11743" y="9725" font-size="0px">
+                                 <tspan id="l5v42z2" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="mphvo3j" class="chord">
+                        <g id="l168ko1s" class="stem">
+                           <path d="M12977 8632 L12977 7702" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b6-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12774, 8662) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="o1hdi3f9" class="accid" />
+                           <g id="p1k9j4sh" class="verse">
+                              <g id="qbwohb" class="syl">
+                                 <text x="12678" y="9301" font-size="0px">
+                                    <tspan id="rrwpyj4" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="s1c237mx" class="verse">
+                              <g id="t1wax6hs" class="syl">
+                                 <text x="12678" y="9725" font-size="0px">
+                                    <tspan id="u18wur0i" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b6-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12774, 8482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="w1vjyczf" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b6-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(12774, 8302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="y1li857b" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b6-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(14323, 8662) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="mcx9pzt" class="stem">
+                           <path d="M14526 8632 L14526 8032" stroke-width="18" />
+                        </g>
+                        <g id="a1v1mb3c" class="accid" />
+                        <g id="b5ntx1x" class="verse">
+                           <g id="c1dvc3xl" class="syl">
+                              <text x="14031" y="9301" font-size="0px">
+                                 <tspan id="d1w6keqd" class="text">
+                                    <tspan font-size="432px">L2Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="er6nthq" class="verse">
+                           <g id="f1mag87c" class="syl">
+                              <text x="14227" y="9725" font-size="0px">
+                                 <tspan id="gn0lb1c" class="text">
+                                    <tspan font-size="432px">G</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="htaokhe" class="chord">
+                        <g id="n11mjdb4" class="stem">
+                           <path d="M15259 8632 L15259 7702" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b6-3-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(15056, 8662) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="jv3yimm" class="accid" />
+                           <g id="k1gbttux" class="verse">
+                              <g id="lxdys24" class="syl">
+                                 <text x="14960" y="9301" font-size="0px">
+                                    <tspan id="m1v9i3h9" class="text">
+                                       <tspan font-size="432px">L1Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="nzick3x" class="verse">
+                              <g id="o2s0cqz" class="syl">
+                                 <text x="14960" y="9725" font-size="0px">
+                                    <tspan id="pc4ztk" class="text">
+                                       <tspan font-size="432px">G</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b6-3-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(15056, 8482) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="r1fn3fni" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b6-3-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(15056, 8302) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="t13bttim" class="accid" />
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g id="ugn3rc8" class="harm">
+                  <text x="11839" y="5527" font-size="0px">
+                     <tspan id="vw4fqu4" class="text">
+                        <tspan font-size="432px">G</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="k81531" class="barLine">
+                  <path d="M15789 5810 L15789 6530" stroke-width="27" />
+                  <path d="M15789 7942 L15789 8662" stroke-width="27" />
+               </g>
+            </g>
+         </g>
+         <g id="ime6ffh" class="system">
+            <path d="M13 10989 L13 13781" stroke-width="27" />
+            <g id="ptaybn9" class="grpSym">
+               <path d="M-72,13763 C-432,13223 18,12565 -252,12385 C81,12565 -369,13223 -72,13763" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+               <path d="M-72,11007 C-369,11547 81,12205 -252,12385 C18,12205 -432,11547 -72,11007" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g id="alle-jahre-wieder-measure-7" class="measure">
+               <g id="wo81uc" class="mNum autogenerated">
+                  <text y="10730" text-anchor="middle" font-size="0px">
+                     <tspan id="xck5ibo" class="text">
+                        <tspan font-size="345px">8</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="f1aliu8w" class="staff">
+                  <path d="M0 10989 L4294 10989" stroke-width="13" />
+                  <path d="M0 11169 L4294 11169" stroke-width="13" />
+                  <path d="M0 11349 L4294 11349" stroke-width="13" />
+                  <path d="M0 11529 L4294 11529" stroke-width="13" />
+                  <path d="M0 11709 L4294 11709" stroke-width="13" />
+                  <g id="c1y4tr2h" class="clef">
+                     <use xlink:href="#E050-adiyqz" transform="translate(120, 11529) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="d1ihfy4m" class="keySig" />
+                  <g id="guzqqc" class="layer">
+                     <g id="alle-jahre-wieder-m7-e0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A3-adiyqz" transform="translate(883, 11709) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="p147x6jf" class="dots">
+                           <ellipse cx="1185" cy="11619" rx="36" ry="36" />
+                        </g>
+                        <g id="ozmj2aq" class="stem">
+                           <path d="M1086 11679 L1086 11079" stroke-width="18" />
+                        </g>
+                        <g id="isky0w2" class="accid" />
+                        <g id="j1qm7pc7" class="verse">
+                           <g id="k1aisfsr" class="syl">
+                              <text x="787" y="12309" font-size="0px">
+                                 <tspan id="l2y5g60" class="text">
+                                    <tspan font-size="432px">13Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="m1nnuxm8" class="verse">
+                           <g id="n8ibewy" class="syl">
+                              <text x="787" y="12733" font-size="0px">
+                                 <tspan id="o1g1j0yf" class="text">
+                                    <tspan font-size="432px">E4</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="pv9whqa" class="rest">
+                        <use xlink:href="#E4E5-adiyqz" transform="translate(3408, 11349) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="q1ma7p6r" class="staff">
+                  <path d="M0 13061 L4294 13061" stroke-width="13" />
+                  <path d="M0 13241 L4294 13241" stroke-width="13" />
+                  <path d="M0 13421 L4294 13421" stroke-width="13" />
+                  <path d="M0 13601 L4294 13601" stroke-width="13" />
+                  <path d="M0 13781 L4294 13781" stroke-width="13" />
+                  <g id="e13htmnk" class="clef">
+                     <use xlink:href="#E062-adiyqz" transform="translate(120, 13241) scale(0.72, 0.72)" />
+                  </g>
+                  <g id="fxqcak" class="keySig" />
+                  <g id="rl9mk6r" class="layer">
+                     <g id="alle-jahre-wieder-b7-0-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(883, 13511) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="qv622fi" class="stem">
+                           <path d="M1086 13481 L1086 12881" stroke-width="18" />
+                        </g>
+                        <g id="tmqqayc" class="accid" />
+                        <g id="u1jde3vw" class="verse">
+                           <g id="v1ef4alg" class="syl">
+                              <text x="787" y="14420" font-size="0px">
+                                 <tspan id="wxilq9z" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="x100pa4l" class="verse">
+                           <g id="yeo9jg0" class="syl">
+                              <text x="787" y="14844" font-size="0px">
+                                 <tspan id="z1405b29" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="a1e82wrx" class="chord">
+                        <g id="r1t7na6m" class="stem">
+                           <path d="M1799 13181 L1799 14081" stroke-width="18" />
+                        </g>
+                        <g id="alle-jahre-wieder-b7-1-0-0" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(1790, 13511) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="cmeyr14" class="accid" />
+                           <g id="dl3wk0x" class="verse">
+                              <g id="eszvepg" class="syl">
+                                 <text x="1694" y="14420" font-size="0px">
+                                    <tspan id="f1mldhlb" class="text">
+                                       <tspan font-size="432px">L3Z</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                           <g id="gmytqp5" class="verse">
+                              <g id="h1c6a2eo" class="syl">
+                                 <text x="1694" y="14844" font-size="0px">
+                                    <tspan id="iuc4xt9" class="text">
+                                       <tspan font-size="432px">C</tspan>
+                                    </tspan>
+                                 </text>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="alle-jahre-wieder-b7-1-0-1" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(1790, 13331) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="km0deh9" class="accid" />
+                        </g>
+                        <g id="alle-jahre-wieder-b7-1-0-2" class="note">
+                           <g class="notehead">
+                              <use xlink:href="#E0A4-adiyqz" transform="translate(1790, 13151) scale(0.72, 0.72)" />
+                           </g>
+                           <g id="mciiuo8" class="accid" />
+                        </g>
+                     </g>
+                     <g id="alle-jahre-wieder-b7-2-0-0" class="note">
+                        <g class="notehead">
+                           <use xlink:href="#E0A4-adiyqz" transform="translate(2697, 13511) scale(0.72, 0.72)" />
+                        </g>
+                        <g id="sluyy53" class="stem">
+                           <path d="M2900 13481 L2900 12881" stroke-width="18" />
+                        </g>
+                        <g id="o1txko59" class="accid" />
+                        <g id="p1pfgirn" class="verse">
+                           <g id="qiv083q" class="syl">
+                              <text x="2601" y="14420" font-size="0px">
+                                 <tspan id="r14aq00z" class="text">
+                                    <tspan font-size="432px">L4Z</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                        <g id="sk94k51" class="verse">
+                           <g id="t770e9u" class="syl">
+                              <text x="2601" y="14844" font-size="0px">
+                                 <tspan id="uv9v7n1" class="text">
+                                    <tspan font-size="432px">C</tspan>
+                                 </tspan>
+                              </text>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="v126eyoh" class="rest">
+                        <use xlink:href="#E4E5-adiyqz" transform="translate(3408, 13421) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+               <g id="w1972mtm" class="harm">
+                  <text x="883" y="10805" font-size="0px">
+                     <tspan id="x9n7ns3" class="text">
+                        <tspan font-size="432px">C</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g id="e1k53qak" class="barLine">
+                  <path d="M4119 10989 L4119 11709" stroke-width="27" />
+                  <path d="M4249 10989 L4249 11709" stroke-width="90" />
+                  <path d="M4119 13061 L4119 13781" stroke-width="27" />
+                  <path d="M4249 13061 L4249 13781" stroke-width="90" />
+               </g>
+            </g>
+            <g id="f173q0k0" class="systemMilestoneEnd aanb7z3" />
+         </g>
+         <g id="gg1dsyf" class="pageMilestoneEnd cz7x7j2" />
+         <g id="h190heue" class="pageMilestoneEnd b193cn8a" />
+      </g>
+   </svg>
+</svg>

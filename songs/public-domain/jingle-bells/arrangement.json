@@ -1,0 +1,2763 @@
+{
+  "id": "jingle-bells",
+  "title": "Jingle Bells",
+  "key": "F",
+  "source_key": "G",
+  "transposition_semitones": -2,
+  "meter": "2/4",
+  "tempo_bpm": 72,
+  "practice_tempo_bpm": 66,
+  "difficulty": 3,
+  "learning_order": 8,
+  "pickup_quarters": 0,
+  "total_quarters": 64.0,
+  "measures": [
+    {
+      "number": 1,
+      "start": 0.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m0-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 0.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m0-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 0.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m0-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 1.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m0-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 1.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 0.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 1.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "start": 2.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m1-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 2.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m1-e1",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 0.25,
+          "offset": 1.5,
+          "start": 3.5,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m1-e2",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 3.75,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 2.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 3.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "start": 4.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m2-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 4.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m2-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 4.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m2-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 5.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m2-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 5.5,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 4.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 5.0,
+          "offset": 1.0,
+          "duration": 0.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "start": 6.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m3-e0",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 6.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 6.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 7.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "start": 8.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m4-e0",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 8.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m4-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 8.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m4-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 9.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m4-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 9.5,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 8.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 9.0,
+          "offset": 1.0,
+          "duration": 0.5,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "start": 10.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m5-e0",
+          "pitch": "E4",
+          "midi": 64,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 10.0,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 10.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 11.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "start": 12.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m6-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 12.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m6-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 12.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m6-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 13.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m6-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 13.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 12.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 13.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "start": 14.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m7-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 14.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 14.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 15.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "start": 16.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m8-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 16.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m8-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 16.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m8-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 17.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m8-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 17.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 16.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 17.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "start": 18.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m9-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 18.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 18.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 19.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "start": 20.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m10-e0",
+          "pitch": "C4",
+          "midi": 60,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 20.0,
+          "button": 13,
+          "row": "F",
+          "position": 2,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m10-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 20.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m10-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 21.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m10-e3",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 21.5,
+          "button": 4,
+          "row": "C",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 20.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 21.0,
+          "offset": 1.0,
+          "duration": 0.5,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "start": 22.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m11-e0",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 1.5,
+          "offset": 0.0,
+          "start": 22.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m11-e1",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 23.5,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 22.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 23.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "start": 24.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m12-e0",
+          "pitch": "D4",
+          "midi": 62,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 24.0,
+          "button": 3,
+          "row": "C",
+          "position": 3,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m12-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 24.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m12-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 25.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m12-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 25.5,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 24.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 25.0,
+          "offset": 1.0,
+          "duration": 0.5,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "start": 26.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m13-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 26.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m13-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 26.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m13-e2",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 27.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m13-e3",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 27.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 26.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 27.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "start": 28.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m14-e0",
+          "pitch": "D5",
+          "midi": 74,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 28.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m14-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 28.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m14-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 29.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m14-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 29.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 28.0,
+          "offset": 0.0,
+          "duration": 0.5,
+          "button": "L4",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 29.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "start": 30.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m15-e0",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 30.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m15-e1",
+          "pitch": "rest",
+          "midi": null,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 31.0,
+          "button": null,
+          "row": null,
+          "dir": null
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 30.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "start": 32.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m16-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 32.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m16-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 32.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m16-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 33.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 32.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 33.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "start": 34.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m17-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 34.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m17-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 34.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m17-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 35.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 34.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 35.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "start": 36.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m18-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 36.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m18-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 36.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m18-e2",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.75,
+          "offset": 1.0,
+          "start": 37.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m18-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 37.75,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 36.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 37.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "start": 38.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m19-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 38.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 38.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 39.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "start": 40.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m20-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 40.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m20-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 40.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m20-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.75,
+          "offset": 1.0,
+          "start": 41.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m20-e3",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 41.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 40.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 41.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "start": 42.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m21-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 42.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m21-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 42.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m21-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 43.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m21-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.25,
+          "offset": 1.5,
+          "start": 43.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m21-e4",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 43.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 43.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "start": 44.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m22-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 44.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m22-e1",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 44.5,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m22-e2",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 45.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m22-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 45.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 44.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 45.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "start": 46.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m23-e0",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 1.0,
+          "offset": 0.0,
+          "start": 46.0,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m23-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 47.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 46.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 47.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L1",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "start": 48.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m24-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 48.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m24-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 48.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m24-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 49.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 48.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 49.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "start": 50.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m25-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 50.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m25-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 50.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m25-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 1.0,
+          "offset": 1.0,
+          "start": 51.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 50.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 51.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "start": 52.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m26-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 52.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m26-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 52.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m26-e2",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 0.75,
+          "offset": 1.0,
+          "start": 53.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m26-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 53.75,
+          "button": 5,
+          "row": "C",
+          "position": 5,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 52.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 53.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "start": 54.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m27-e0",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 54.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 54.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 55.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "start": 56.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m28-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 56.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m28-e1",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 56.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m28-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.75,
+          "offset": 1.0,
+          "start": 57.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m28-e3",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 57.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "Bb",
+          "source_chord": "C"
+        }
+      ],
+      "bass": [
+        {
+          "start": 56.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L8",
+          "dir": "Z",
+          "kind": "bass",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2"
+          ],
+          "midis": [
+            46
+          ]
+        },
+        {
+          "start": 57.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L7",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "Bb",
+          "pitches": [
+            "Bb2",
+            "D3",
+            "F3"
+          ],
+          "midis": [
+            46,
+            50,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "start": 58.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m29-e0",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 58.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m29-e1",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 58.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m29-e2",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 59.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m29-e3",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.25,
+          "offset": 1.5,
+          "start": 59.5,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m29-e4",
+          "pitch": "A4",
+          "midi": 69,
+          "duration": 0.25,
+          "offset": 1.75,
+          "start": 59.75,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 59.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "start": 60.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m30-e0",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.0,
+          "start": 60.0,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m30-e1",
+          "pitch": "C5",
+          "midi": 72,
+          "duration": 0.5,
+          "offset": 0.5,
+          "start": 60.5,
+          "button": 16,
+          "row": "F",
+          "position": 5,
+          "dir": "D"
+        },
+        {
+          "id": "jingle-bells-m30-e2",
+          "pitch": "Bb4",
+          "midi": 70,
+          "duration": 0.5,
+          "offset": 1.0,
+          "start": 61.0,
+          "button": 15,
+          "row": "F",
+          "position": 4,
+          "dir": "Z"
+        },
+        {
+          "id": "jingle-bells-m30-e3",
+          "pitch": "G4",
+          "midi": 67,
+          "duration": 0.5,
+          "offset": 1.5,
+          "start": 61.5,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "Z"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "C",
+          "source_chord": "D"
+        }
+      ],
+      "bass": [
+        {
+          "start": 60.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L2",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "C",
+          "pitches": [
+            "C3"
+          ],
+          "midis": [
+            48
+          ]
+        },
+        {
+          "start": 61.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "Z",
+          "kind": "chord",
+          "chord": "C",
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "midis": [
+            48,
+            52,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "start": 62.0,
+      "duration": 2.0,
+      "events": [
+        {
+          "id": "jingle-bells-m31-e0",
+          "pitch": "F4",
+          "midi": 65,
+          "duration": 2.0,
+          "offset": 0.0,
+          "start": 62.0,
+          "button": 14,
+          "row": "F",
+          "position": 3,
+          "dir": "D"
+        }
+      ],
+      "harmony": [
+        {
+          "offset": 0.0,
+          "chord": "F",
+          "source_chord": "G"
+        }
+      ],
+      "bass": [
+        {
+          "start": 62.0,
+          "offset": 0.0,
+          "duration": 1.0,
+          "button": "L4",
+          "dir": "D",
+          "kind": "bass",
+          "chord": "F",
+          "pitches": [
+            "F2"
+          ],
+          "midis": [
+            41
+          ]
+        },
+        {
+          "start": 63.0,
+          "offset": 1.0,
+          "duration": 1.0,
+          "button": "L3",
+          "dir": "D",
+          "kind": "chord",
+          "chord": "F",
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "midis": [
+            41,
+            45,
+            48
+          ]
+        }
+      ]
+    }
+  ],
+  "practice_notes_de": [
+    "Beginne mit dem Refrain ab Takt 17: Die wiederholten Töne geben schnell Sicherheit.",
+    "Bei punktierten Achteln und Sechzehnteln sehr langsam zählen; erst dann das Tempo erhöhen.",
+    "Lerne die Strophe in Vier-Takt-Gruppen. Begleitung erst hinzufügen, wenn die Melodie und Balgwechsel sitzen."
+  ],
+  "source_urls": [
+    "https://www.kinder-wollen-singen.de/song/sources/jingle-bells-jinglebells.ly",
+    "https://www.kinder-wollen-singen.de/song/sources/jingle-bells-jinglebells.mscz",
+    "https://commons.wikimedia.org/wiki/File:Jingle_Bells_refrain_vector.svg"
+  ],
+  "composer": "James Lord Pierpont (1822–1893)",
+  "adaptations": [],
+  "bellows_reversals": 16,
+  "bass_pulses": 61,
+  "bass_pulses_omitted": 3,
+  "range": [
+    "C4",
+    "D5"
+  ],
+  "score_path": "../songs/public-domain/jingle-bells/score.pdf",
+  "page_count": 2
+}
