@@ -1,83 +1,42 @@
-# Akkordeon · Weihnachten auf der Hohner Corso C/F
+# Weihnachten auf der Hohner Corso C/F
 
-**14 vollständige Lernfassungen mit Noten, Knopfnummern, Zug/Druck und einfacher Bassbegleitung.** Dazu acht Lernseiten für geschützte Weihnachts-Popsongs mit autorisierten Bezugsquellen.
+**Fünf Weihnachtslieder bis Heiligabend 2026 – mit einzelnen Lernheften, kurzen Übungen und Fortschrittsfeldern.** Für die zweireihige Corso C/F im Wiener System mit 21 Melodieknöpfen und 8 Bässen.
 
-Die Sammlung ist für die **zweireihige Hohner Corso in C/F, Wiener System, 21 Melodieknöpfe und 8 Bässe** eingerichtet. Jede Melodienote und jeder Bassimpuls ist gegen die dokumentierte [Instrumentbelegung](instrument/README.md) geprüft.
+## Hier anfangen
 
-## Direkt starten
+1. **[Lehrplan und Einstieg öffnen (PDF)](course/00_Lehrplan_bis_Weihnachten.pdf)**.
+2. Mit Heft 1 beginnen und zuerst die Melodie mit der rechten Hand lernen.
+3. Nach jeder Einheit Datum, Tempo und erreichten Schritt im Heft eintragen.
 
-| Ich möchte … | Hier beginnen |
+**[Den gesamten Weihnachtskurs als ein PDF herunterladen](downloads/Weihnachtskurs_Hohner_CF.pdf)**
+
+## Deine fünf Lernhefte
+
+Jeder Liedtitel öffnet direkt sein PDF. Die langsamen Hörbeispiele spielen mit **48 Vierteln pro Minute**.
+
+| Lernheft als PDF | Hörbeispiel |
 |---|---|
-| Die Noten ausdrucken | **[Sammelheft als PDF](downloads/christmas-corso-cf-songbook.pdf)** |
-| Mit dem ersten Lied anfangen | **[Alle Jahre wieder: Noten und Lernschritte](songs/public-domain/alle-jahre-wieder/README.md)** |
-| Langsam hören und Takte wiederholen | **[Repository als ZIP herunterladen](https://github.com/hailbagel/Akkordeon/archive/refs/heads/main.zip)**, entpacken, `practice/index.html` öffnen |
-| Alle Knöpfe kennenlernen | [Tonübersicht: zuerst Zug, dann Druck](instrument/notes-pull-push.pdf) |
-| Die Zeichen und Übemethode verstehen | [Lernanleitung](docs/LEARNING_GUIDE.md) |
+| [01 · Morgen kommt der Weihnachtsmann](course/01_Morgen_kommt_der_Weihnachtsmann.pdf) | [MP3](course/audio/morgen-kommt-der-weihnachtsmann_48bpm.mp3) |
+| [02 · Lasst uns froh und munter sein](course/02_Lasst_uns_froh_und_munter_sein.pdf) | [MP3](course/audio/lasst-uns-froh_48bpm.mp3) |
+| [03 · Schneeflöckchen, Weißröckchen](course/03_Schneefloeckchen_Weissroeckchen.pdf) | [MP3](course/audio/schneefloeckchen_48bpm.mp3) |
+| [04 · Alle Jahre wieder](course/04_Alle_Jahre_wieder.pdf) | [MP3](course/audio/alle-jahre-wieder_48bpm.mp3) |
+| [05 · O du fröhliche](course/05_O_du_froehliche.pdf) | [MP3](course/audio/o-du-froehliche_48bpm.mp3) |
 
-Der Offline-Player bietet Tempo **36–160 Viertel/Minute**, Einzählen, Metronom, Takt-Schleifen, zuschaltbare Bässe und die Anzeige des aktuellen Knopfs mit Balgrichtung. Er braucht keine Anmeldung und lädt keine Inhalte aus dem Netz. **GitHub selbst führt die HTML-Datei nicht aus**; sie wird nach dem Entpacken im Browser geöffnet.
+## So arbeitest du mit einem Heft
 
-## Lernfolge: 14 vollständige Notenfassungen
+Jedes Lernheft hat vier Seiten:
 
-**Stufe 1:** Einstieg. **Stufe 2:** Aufbau. **Stufe 3:** später lernen. Die Reihenfolge berücksichtigt Rhythmus, Sprünge und Reihenwechsel; sie ist eine Lernempfehlung.
+1. **Vorbereiten:** benötigte Knöpfe und kurze Übungen.
+2. **Melodie spielen:** das vollständige Lied mit Griffhilfen.
+3. **Noten lesen:** ohne Griffhilfen üben und Fortschritt festhalten.
+4. **Bonus:** Reihenwechsel und einzelne passende Basstupfer ergänzen.
 
-| Nr. | Lied und Lernschritte | Tonart | Stufe | Noten | Hördatei |
-|---:|---|:---:|:---:|---|---|
-| 1 | [Alle Jahre wieder](songs/public-domain/alle-jahre-wieder/README.md) | C | 1 | [PDF](songs/public-domain/alle-jahre-wieder/score.pdf) | [MIDI](songs/public-domain/alle-jahre-wieder/practice.mid) |
-| 2 | [Schneeflöckchen, Weißröckchen](songs/public-domain/schneefloeckchen/README.md) | C | 1 | [PDF](songs/public-domain/schneefloeckchen/score.pdf) | [MIDI](songs/public-domain/schneefloeckchen/practice.mid) |
-| 3 | [Leise rieselt der Schnee](songs/public-domain/leise-rieselt-der-schnee/README.md) | C | 2 | [PDF](songs/public-domain/leise-rieselt-der-schnee/score.pdf) | [MIDI](songs/public-domain/leise-rieselt-der-schnee/practice.mid) |
-| 4 | [Ihr Kinderlein kommet](songs/public-domain/ihr-kinderlein-kommet/README.md) | F | 2 | [PDF](songs/public-domain/ihr-kinderlein-kommet/score.pdf) | [MIDI](songs/public-domain/ihr-kinderlein-kommet/practice.mid) |
-| 5 | [O Tannenbaum](songs/public-domain/o-tannenbaum/README.md) | C | 2 | [PDF](songs/public-domain/o-tannenbaum/score.pdf) | [MIDI](songs/public-domain/o-tannenbaum/practice.mid) |
-| 6 | [Lasst uns froh und munter sein](songs/public-domain/lasst-uns-froh/README.md) | C | 1 | [PDF](songs/public-domain/lasst-uns-froh/score.pdf) | [MIDI](songs/public-domain/lasst-uns-froh/practice.mid) |
-| 7 | [Morgen, Kinder, wird’s was geben](songs/public-domain/morgen-kinder/README.md) | C | 2 | [PDF](songs/public-domain/morgen-kinder/score.pdf) | [MIDI](songs/public-domain/morgen-kinder/practice.mid) |
-| 8 | [Jingle Bells](songs/public-domain/jingle-bells/README.md) | F | 3 | [PDF](songs/public-domain/jingle-bells/score.pdf) | [MIDI](songs/public-domain/jingle-bells/practice.mid) |
-| 9 | [Stille Nacht, heilige Nacht](songs/public-domain/stille-nacht-heilige-nacht/README.md) | C | 3 | [PDF](songs/public-domain/stille-nacht-heilige-nacht/score.pdf) | [MIDI](songs/public-domain/stille-nacht-heilige-nacht/practice.mid) |
-| 10 | [O du fröhliche](songs/public-domain/o-du-froehliche/README.md) | C | 2 | [PDF](songs/public-domain/o-du-froehliche/score.pdf) | [MIDI](songs/public-domain/o-du-froehliche/practice.mid) |
-| 11 | [We Wish You a Merry Christmas](songs/public-domain/we-wish-you-a-merry-christmas/README.md) | C | 2 | [PDF](songs/public-domain/we-wish-you-a-merry-christmas/score.pdf) | [MIDI](songs/public-domain/we-wish-you-a-merry-christmas/practice.mid) |
-| 12 | [Süßer die Glocken nie klingen](songs/public-domain/suesser-die-glocken/README.md) | F | 3 | [PDF](songs/public-domain/suesser-die-glocken/score.pdf) | [MIDI](songs/public-domain/suesser-die-glocken/practice.mid) |
-| 13 | [Kling, Glöckchen, klingelingeling](songs/public-domain/kling-gloeckchen/README.md) | C | 3 | [PDF](songs/public-domain/kling-gloeckchen/score.pdf) | [MIDI](songs/public-domain/kling-gloeckchen/practice.mid) |
-| 14 | [Fröhliche Weihnacht überall](songs/public-domain/froehliche-weihnacht/README.md) | F | 3 | [PDF](songs/public-domain/froehliche-weihnacht/score.pdf) | [MIDI](songs/public-domain/froehliche-weihnacht/practice.mid) |
+Eine kurze Stelle langsam üben, bis sie dreimal ruhig gelingt. Dann die nächste Stelle anhängen. Die Bonusseite kommt dazu, sobald die Melodie sicher läuft.
 
-Pro Lied liegen außerdem **bearbeitbares MusicXML**, MEI, SVG-Vorschauen, die dokumentierte Melodiequelle und die konkrete Griffzuordnung vor. Wiederholte Abschnitte sind ausgeschrieben. Liedtexte werden nicht benötigt und sind nicht enthalten. Bei „Jingle Bells“ sind Strophe und Refrain enthalten; der vertraute Refrain kann ab Takt 17 separat geübt werden.
+**Z = Zug:** Balg auseinander. **D = Druck:** Balg zusammen. Knopfnummern sind keine Fingerzahlen.
 
-## Was die Corso-Fassungen auszeichnet
+Die PDFs lassen sich direkt öffnen, speichern und ausdrucken. Für diesen Kurs brauchst du keinen HTML-Player.
 
-- **Konkrete Knöpfe:** `14Z` heißt Knopf 14 auf Zug; `14D` heißt derselbe Knopf auf Druck. Die Nummern sind keine Fingersätze.
-- **Beide Reihen passend genutzt:** C außen ist 1–11, F innen 12–21; jeweils vom Kinn zum Knie zählen. Mehrfach vorhandene Töne werden für die Balgführung genutzt.
-- **Spielbare Bassimpulse:** Links sind nur vorhandene Grundbässe und Akkorde vorgesehen. Bei einem Konflikt mit der Melodierichtung pausiert der Bass oder endet vorher.
-- **Übersichtliche Noten:** Oben Melodie, Griffzeichen und Tonname; unten die optionale vereinfachte Bassbegleitung. Die Bassoktaven sind eine schematische Leselage.
-- **Klare Namen:** Internationale Schreibweise, also **B = deutsches H**, **Bb = deutsches B**; C4 ist das mittlere C.
+---
 
-Die Melodie zuerst allein lernen. Danach nur die ausgeschriebenen Bassimpulse ergänzen. Der tatsächliche Luftbedarf und eine bequeme Handhaltung müssen am Instrument ausprobiert werden. Die Fassungen verwenden die konkret dokumentierte Corso-Belegung; bei einem umgebauten Instrument zuerst die Töne abgleichen.
-
-## Acht weitere Weihnachts-Hits
-
-Für diese Titel gibt es **Lernseiten und autorisierte Kaufquellen**, aber keine vollständigen Noten, Melodie-MIDIs oder Liedtexte im öffentlichen Repository. Die verlinkten Klavierausgaben sind **keine bestätigten C/F-Bearbeitungen**; Tonumfang und Bässe müssen vor einer Übertragung geprüft werden.
-
-| Titel | Lernseite mit Bezugsquelle |
-|---|---|
-| Feliz Navidad | [Vorbereitung und Ausgabe](songs/licensed/feliz-navidad/README.md) |
-| Rudolph the Red-Nosed Reindeer | [Vorbereitung und Ausgabe](songs/licensed/rudolph-the-red-nosed-reindeer/README.md) |
-| Last Christmas | [Vorbereitung und Ausgabe](songs/licensed/last-christmas/README.md) |
-| All I Want for Christmas Is You | [Vorbereitung und Ausgabe](songs/licensed/all-i-want-for-christmas-is-you/README.md) |
-| Santa Claus Is Coming to Town | [Vorbereitung und Ausgabe](songs/licensed/santa-claus-is-coming-to-town/README.md) |
-| Rockin’ Around the Christmas Tree | [Vorbereitung und Ausgabe](songs/licensed/rockin-around-the-christmas-tree/README.md) |
-| Winter Wonderland | [Vorbereitung und Ausgabe](songs/licensed/winter-wonderland/README.md) |
-| Let It Snow! Let It Snow! Let It Snow! | [Vorbereitung und Ausgabe](songs/licensed/let-it-snow/README.md) |
-
-## Verzeichnis
-
-| Ordner | Inhalt |
-|---|---|
-| [`instrument/`](instrument/) | Belegung, Bassschema und Notenblatt Zug/Druck. |
-| [`songs/public-domain/`](songs/public-domain/) | Ein eigener Ordner je vollständiger Lernfassung. |
-| [`songs/licensed/`](songs/licensed/) | Acht Lernseiten und Katalog der autorisierten Bezugsquellen. |
-| [`practice/`](practice/) | Selbstständiger Offline-Player. |
-| [`downloads/`](downloads/) | Gesamtes druckfertiges Weihnachtsheft. |
-| [`docs/`](docs/) | Lernanleitung, Quellen, Rechte und Prüfberichte. |
-| [`tools/`](tools/README.md) | Reproduzierbarer Notensatz und unabhängige Prüfung. |
-
-## Prüfung, Quellen und Nutzung
-
-Die Datenprüfung umfasst **743 Melodietöne, 22 Melodiepausen und 589 Bassimpulse**: konstante Transposition, vollständige Takte, richtige Knöpfe und Balgrichtungen sowie übereinstimmende MusicXML-, MEI-, MIDI- und Playerdaten. Das PDF-Layout wird zusätzlich visuell kontrolliert. Die Playerlogik wurde mit einem simulierten DOM-/Audio-Lauf geprüft; eine reale Browser-/Audio- und Instrumentenprobe ist damit nicht behauptet.
-
-[Quellen und Rechte](docs/SOURCES_AND_RIGHTS.md) dokumentieren die ausgewählten historischen Melodien und ihre Varianten. Moderne Verlagssätze und fremde Grifftabellen werden nicht als Scans übernommen. Eigene neue Beiträge stehen im beschriebenen Umfang unter CC0, eigener Werkzeug-/Playercode unter MIT; siehe [Lizenz und Abgrenzung](LICENSE.md). [Änderungsverlauf](CHANGELOG.md).
+[Instrumentbelegung](instrument/README.md) · [Quellen und Kursmethode](course/QUELLEN_UND_METHODE.md) · [Bisherige Sammlung mit 14 Liedern und weiteren Materialien](docs/ARCHIVE_COLLECTION.md)

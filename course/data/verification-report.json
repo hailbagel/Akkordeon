@@ -1,0 +1,1190 @@
+{
+  "status": "PASS",
+  "scope": "Five stored melody sources, ten song routes, fifteen exercises and five reading quizzes. One written pass; no simulated air capacity.",
+  "independent_of_builder": true,
+  "reference_hashes": {
+    "instrument/corso-cf.json": "5b8cfb675086c096aa583a61fbcafcc3cb79cec22610e9c4a978cd090e87cdf1",
+    "course/data/course.json": "9e2cab6edf7685f676bfc4d7e47fcb01c2e410035ac096d4fe315918199b9b20",
+    "course/data/source-morgen-kommt-der-weihnachtsmann.json": "250586993d7ceac539ab4cf3d6c633dce65fac0d1f634fc103df9b0210e0518b",
+    "songs/public-domain/lasst-uns-froh/source.json": "bb76d0fe2ee4ea19ba04edb3bc757db14740a0ef9e8528ede9bfa017445b6fa7",
+    "songs/public-domain/schneefloeckchen/source.json": "7d5a33bbd9ef082be88ac01f31881cae559bcf1c8911735163df48abd11ed53e",
+    "songs/public-domain/alle-jahre-wieder/source.json": "993af191c66c3eebfaff7f7ac31d5029eb20608686222eec2ddb45f413a133d0",
+    "songs/public-domain/o-du-froehliche/source.json": "6651a0e7cf1af5adde09152c067b57e9d01c09319042491a4d776e44aea949ce"
+  },
+  "song_summary": [
+    {
+      "id": "morgen-kommt-der-weihnachtsmann",
+      "basic_reversals": 20,
+      "basic_row_changes": 0,
+      "bonus_reversals": 12,
+      "bonus_row_changes": 8,
+      "bonus_max_sounding_quarters": 6.0,
+      "bonus_max_elapsed_quarters": 6.0
+    },
+    {
+      "id": "lasst-uns-froh",
+      "basic_reversals": 30,
+      "basic_row_changes": 0,
+      "bonus_reversals": 10,
+      "bonus_row_changes": 20,
+      "bonus_max_sounding_quarters": 6.0,
+      "bonus_max_elapsed_quarters": 7.0
+    },
+    {
+      "id": "schneefloeckchen",
+      "basic_reversals": 14,
+      "basic_row_changes": 0,
+      "bonus_reversals": 6,
+      "bonus_row_changes": 8,
+      "bonus_max_sounding_quarters": 6.0,
+      "bonus_max_elapsed_quarters": 6.0
+    },
+    {
+      "id": "alle-jahre-wieder",
+      "basic_reversals": 20,
+      "basic_row_changes": 0,
+      "bonus_reversals": 6,
+      "bonus_row_changes": 14,
+      "bonus_max_sounding_quarters": 6.0,
+      "bonus_max_elapsed_quarters": 6.0
+    },
+    {
+      "id": "o-du-froehliche",
+      "basic_reversals": 38,
+      "basic_row_changes": 0,
+      "bonus_reversals": 15,
+      "bonus_row_changes": 23,
+      "bonus_max_sounding_quarters": 6.0,
+      "bonus_max_elapsed_quarters": 6.0
+    }
+  ],
+  "errors": [],
+  "practical_observations": [
+    {
+      "song": "lasst-uns-froh",
+      "direction": "D",
+      "message": "Pauses extend elapsed direction span; they do not refill the bellows.",
+      "sounding_quarters": 6.0,
+      "elapsed_quarters": 7.0,
+      "elapsed_seconds_at_48": 8.75
+    },
+    {
+      "song": "lasst-uns-froh",
+      "direction": "Z",
+      "message": "Pauses extend elapsed direction span; they do not refill the bellows.",
+      "sounding_quarters": 6.0,
+      "elapsed_quarters": 7.0,
+      "elapsed_seconds_at_48": 8.75
+    }
+  ],
+  "not_certified": [
+    "Source transcription against historical printed music",
+    "Final PDF and MP3 rendering",
+    "Physical air reserve or finger comfort on Patrick's instrument"
+  ],
+  "tracks": [
+    {
+      "track": "morgen-kommt-der-weihnachtsmann/basic",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 20,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 40,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 0.0,
+            "longest_span_end": 4.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          }
+        }
+      }
+    },
+    {
+      "track": "morgen-kommt-der-weihnachtsmann/bonus",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 12,
+        "row_changes": 8,
+        "buttons": [
+          3,
+          4,
+          5,
+          13,
+          14
+        ],
+        "notes": 40,
+        "bass_pulses": 21,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 6.0,
+            "longest_span_end": 12.0
+          },
+          "Z": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 18.0,
+            "longest_span_end": 24.0
+          }
+        }
+      }
+    },
+    {
+      "track": "morgen-kommt-der-weihnachtsmann-exercise-1",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 1,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 8,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 0.0,
+            "longest_span_end": 4.0
+          },
+          "Z": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 4.0,
+            "longest_span_end": 8.0
+          }
+        }
+      }
+    },
+    {
+      "track": "morgen-kommt-der-weihnachtsmann-exercise-2",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 7,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 8,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 0.0,
+            "longest_span_end": 1.0
+          },
+          "Z": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 1.0,
+            "longest_span_end": 2.0
+          }
+        }
+      }
+    },
+    {
+      "track": "morgen-kommt-der-weihnachtsmann-exercise-3",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 2,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          5
+        ],
+        "notes": 7,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 0.0,
+            "longest_span_end": 4.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          }
+        }
+      }
+    },
+    {
+      "track": "morgen-kommt-der-weihnachtsmann-quiz",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 3,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 6,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    },
+    {
+      "track": "lasst-uns-froh/basic",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 30,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 45,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.5,
+            "elapsed_quarters": 4.5,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 4.375,
+            "longest_span_start": 22.0,
+            "longest_span_end": 26.5
+          },
+          "Z": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 12.0,
+            "longest_span_end": 15.0
+          }
+        }
+      }
+    },
+    {
+      "track": "lasst-uns-froh/bonus",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 10,
+        "row_changes": 20,
+        "buttons": [
+          3,
+          4,
+          5,
+          6,
+          13,
+          14,
+          15
+        ],
+        "notes": 45,
+        "bass_pulses": 20,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 7.0,
+            "continuous_quarters": 5.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 30.0,
+            "longest_span_end": 37.0
+          },
+          "Z": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 7.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 3.5,
+            "longest_span_end": 10.5
+          }
+        }
+      }
+    },
+    {
+      "track": "lasst-uns-froh-exercise-1",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 1,
+        "row_changes": 0,
+        "buttons": [
+          4,
+          5
+        ],
+        "notes": 14,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 0.0,
+            "longest_span_end": 4.0
+          },
+          "Z": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 4.0,
+            "longest_span_end": 7.0
+          }
+        }
+      }
+    },
+    {
+      "track": "lasst-uns-froh-exercise-2",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 9,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 10,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 2.0,
+            "longest_span_end": 3.0
+          },
+          "Z": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 6.0,
+            "longest_span_end": 7.0
+          }
+        }
+      }
+    },
+    {
+      "track": "lasst-uns-froh-exercise-3",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 0,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 7,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 7.0,
+            "elapsed_quarters": 8.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 8.75,
+            "longest_span_start": 0.0,
+            "longest_span_end": 8.0
+          },
+          "Z": {
+            "sounding_quarters": 0,
+            "elapsed_quarters": 0,
+            "continuous_quarters": 0,
+            "longest_sounding_seconds_at_48": 0,
+            "longest_span_start": null,
+            "longest_span_end": null
+          }
+        }
+      }
+    },
+    {
+      "track": "lasst-uns-froh-quiz",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 4,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 8,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 3.0,
+            "longest_span_end": 6.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 1.0,
+            "longest_span_end": 3.0
+          }
+        }
+      }
+    },
+    {
+      "track": "schneefloeckchen/basic",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 14,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 26,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.5,
+            "elapsed_quarters": 3.5,
+            "continuous_quarters": 3.5,
+            "longest_sounding_seconds_at_48": 4.375,
+            "longest_span_start": 9.0,
+            "longest_span_end": 12.5
+          },
+          "Z": {
+            "sounding_quarters": 3.5,
+            "elapsed_quarters": 3.5,
+            "continuous_quarters": 3.5,
+            "longest_sounding_seconds_at_48": 4.375,
+            "longest_span_start": 3.0,
+            "longest_span_end": 6.5
+          }
+        }
+      }
+    },
+    {
+      "track": "schneefloeckchen/bonus",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 6,
+        "row_changes": 8,
+        "buttons": [
+          3,
+          4,
+          5,
+          6,
+          13,
+          14
+        ],
+        "notes": 26,
+        "bass_pulses": 16,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.5,
+            "elapsed_quarters": 3.5,
+            "continuous_quarters": 3.5,
+            "longest_sounding_seconds_at_48": 4.375,
+            "longest_span_start": 9.0,
+            "longest_span_end": 12.5
+          },
+          "Z": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 3.0,
+            "longest_span_end": 9.0
+          }
+        }
+      }
+    },
+    {
+      "track": "schneefloeckchen-exercise-1",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 1,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 6,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 0.0,
+            "longest_span_end": 3.0
+          },
+          "Z": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 3.0,
+            "longest_span_end": 6.0
+          }
+        }
+      }
+    },
+    {
+      "track": "schneefloeckchen-exercise-2",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 3,
+        "row_changes": 0,
+        "buttons": [
+          4,
+          5
+        ],
+        "notes": 5,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 3.0,
+            "longest_span_end": 5.0
+          },
+          "Z": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 5.0,
+            "longest_span_end": 6.0
+          }
+        }
+      }
+    },
+    {
+      "track": "schneefloeckchen-exercise-3",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 5,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 7,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 0.0,
+            "longest_span_end": 1.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 1.0,
+            "longest_span_end": 3.0
+          }
+        }
+      }
+    },
+    {
+      "track": "schneefloeckchen-quiz",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 5,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 8,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    },
+    {
+      "track": "alle-jahre-wieder/basic",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 20,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 25,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 27.0,
+            "longest_span_end": 31.0
+          },
+          "Z": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 12.0,
+            "longest_span_end": 15.0
+          }
+        }
+      }
+    },
+    {
+      "track": "alle-jahre-wieder/bonus",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 6,
+        "row_changes": 14,
+        "buttons": [
+          3,
+          4,
+          5,
+          6,
+          13,
+          14,
+          15
+        ],
+        "notes": 25,
+        "bass_pulses": 13,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 16.0,
+            "longest_span_end": 22.0
+          },
+          "Z": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 9.0,
+            "longest_span_end": 15.0
+          }
+        }
+      }
+    },
+    {
+      "track": "alle-jahre-wieder-exercise-1",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 5,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 6,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 6.0,
+            "longest_span_end": 8.0
+          }
+        }
+      }
+    },
+    {
+      "track": "alle-jahre-wieder-exercise-2",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 8,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5
+        ],
+        "notes": 10,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 3.0,
+            "longest_span_end": 5.0
+          },
+          "Z": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 2.0,
+            "longest_span_end": 3.0
+          }
+        }
+      }
+    },
+    {
+      "track": "alle-jahre-wieder-exercise-3",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 2,
+        "row_changes": 0,
+        "buttons": [
+          4,
+          5,
+          6
+        ],
+        "notes": 4,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 4.0,
+            "longest_span_end": 7.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    },
+    {
+      "track": "alle-jahre-wieder-quiz",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 5,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 8,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    },
+    {
+      "track": "o-du-froehliche/basic",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 38,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 45,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 16.0,
+            "longest_span_end": 20.0
+          },
+          "Z": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 24.0,
+            "longest_span_end": 28.0
+          }
+        }
+      }
+    },
+    {
+      "track": "o-du-froehliche/bonus",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 15,
+        "row_changes": 23,
+        "buttons": [
+          3,
+          4,
+          5,
+          6,
+          13,
+          14,
+          15
+        ],
+        "notes": 45,
+        "bass_pulses": 23,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 14.0,
+            "longest_span_end": 20.0
+          },
+          "Z": {
+            "sounding_quarters": 6.0,
+            "elapsed_quarters": 6.0,
+            "continuous_quarters": 6.0,
+            "longest_sounding_seconds_at_48": 7.5,
+            "longest_span_start": 0.0,
+            "longest_span_end": 6.0
+          }
+        }
+      }
+    },
+    {
+      "track": "o-du-froehliche-exercise-1",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 5,
+        "row_changes": 0,
+        "buttons": [
+          4,
+          5
+        ],
+        "notes": 6,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 0.0,
+            "longest_span_end": 2.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    },
+    {
+      "track": "o-du-froehliche-exercise-2",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 2,
+        "row_changes": 0,
+        "buttons": [
+          5,
+          6
+        ],
+        "notes": 5,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 1.0,
+            "elapsed_quarters": 1.0,
+            "continuous_quarters": 1.0,
+            "longest_sounding_seconds_at_48": 1.25,
+            "longest_span_start": 3.0,
+            "longest_span_end": 4.0
+          },
+          "Z": {
+            "sounding_quarters": 4.0,
+            "elapsed_quarters": 4.0,
+            "continuous_quarters": 4.0,
+            "longest_sounding_seconds_at_48": 5.0,
+            "longest_span_start": 4.0,
+            "longest_span_end": 8.0
+          }
+        }
+      }
+    },
+    {
+      "track": "o-du-froehliche-exercise-3",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 2,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4
+        ],
+        "notes": 3,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 3.0,
+            "elapsed_quarters": 3.0,
+            "continuous_quarters": 3.0,
+            "longest_sounding_seconds_at_48": 3.75,
+            "longest_span_start": 4.0,
+            "longest_span_end": 7.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    },
+    {
+      "track": "o-du-froehliche-quiz",
+      "passed": true,
+      "measured_stats": {
+        "reversals": 5,
+        "row_changes": 0,
+        "buttons": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "notes": 8,
+        "bass_pulses": 0,
+        "by_direction": {
+          "D": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 4.0,
+            "longest_span_end": 6.0
+          },
+          "Z": {
+            "sounding_quarters": 2.0,
+            "elapsed_quarters": 2.0,
+            "continuous_quarters": 2.0,
+            "longest_sounding_seconds_at_48": 2.5,
+            "longest_span_start": 2.0,
+            "longest_span_end": 4.0
+          }
+        }
+      }
+    }
+  ],
+  "exports": [
+    {
+      "track": "morgen-kommt-der-weihnachtsmann/basic",
+      "passed": true,
+      "musicxml": "course/materials/morgen-kommt-der-weihnachtsmann_basic.musicxml",
+      "midi": "course/materials/morgen-kommt-der-weihnachtsmann_basic.mid",
+      "musicxml_sha256": "81881956774d271288024195743387c3e8b8bfcdf32b2a215f6454cc7c01246d",
+      "midi_sha256": "ba56ee89e8d5b673fc764b7714a4235ba08b74a3d0b7f365d7dd5c4ea2e998d8",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "morgen-kommt-der-weihnachtsmann/bonus",
+      "passed": true,
+      "musicxml": "course/materials/morgen-kommt-der-weihnachtsmann_bonus.musicxml",
+      "midi": "course/materials/morgen-kommt-der-weihnachtsmann_bonus.mid",
+      "musicxml_sha256": "07eceb9af3bb6f3fdc400fe02b5527b5c34829239df9e6b813e91fb0d73ff591",
+      "midi_sha256": "11b717c116fc2e4a3ac4a3e4271bbc4ee21472c71d284abbdbe08fd53a1bce70",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "lasst-uns-froh/basic",
+      "passed": true,
+      "musicxml": "course/materials/lasst-uns-froh_basic.musicxml",
+      "midi": "course/materials/lasst-uns-froh_basic.mid",
+      "musicxml_sha256": "41d4f19691c016114d3bb9f2395c24252d7ccd6bcb43778709e9a7ae6a475aff",
+      "midi_sha256": "3f963c8370b8645bbac84599db0a0bde6c4a803b0354da9523860f3fbb8b693f",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "lasst-uns-froh/bonus",
+      "passed": true,
+      "musicxml": "course/materials/lasst-uns-froh_bonus.musicxml",
+      "midi": "course/materials/lasst-uns-froh_bonus.mid",
+      "musicxml_sha256": "bd8e21377fcb5fecfc02317bb47c5e45457797598a4f129405e36545269388d2",
+      "midi_sha256": "9fe089e2cf50a94d192856ec8bf186dbf7d5bc4748891c06b5b016e20823fb7c",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "schneefloeckchen/basic",
+      "passed": true,
+      "musicxml": "course/materials/schneefloeckchen_basic.musicxml",
+      "midi": "course/materials/schneefloeckchen_basic.mid",
+      "musicxml_sha256": "5c55a6628464fe89df6c2264bdcfd2d83bc09b1af2dd97fa74900d7c50c3c942",
+      "midi_sha256": "20889a7b07c617129ba292fe560eadb24fae29eb2023432f40cbb91c7c4e74a2",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "schneefloeckchen/bonus",
+      "passed": true,
+      "musicxml": "course/materials/schneefloeckchen_bonus.musicxml",
+      "midi": "course/materials/schneefloeckchen_bonus.mid",
+      "musicxml_sha256": "9b4e381b59102476571c1acb534611a6124c9888ffbd6bde251be7249897cdf1",
+      "midi_sha256": "ad2a079f2b2d800de61871bd43a41c90efffd4671ebca6f14892799fed290635",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "alle-jahre-wieder/basic",
+      "passed": true,
+      "musicxml": "course/materials/alle-jahre-wieder_basic.musicxml",
+      "midi": "course/materials/alle-jahre-wieder_basic.mid",
+      "musicxml_sha256": "c577129cd779795b0dca1e133e4d5266e9527c1f870d1797373e95f0c60b1619",
+      "midi_sha256": "cae528c45954b4f1dd7b24d5fe3e772a1281f8ef3f56ccabeed5633dcf24af68",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "alle-jahre-wieder/bonus",
+      "passed": true,
+      "musicxml": "course/materials/alle-jahre-wieder_bonus.musicxml",
+      "midi": "course/materials/alle-jahre-wieder_bonus.mid",
+      "musicxml_sha256": "d04f6d3bd993c7640947478553b3e0f0985c2ac24bb510d4556a2cbeebecf717",
+      "midi_sha256": "3c99db4395c52188dbfb39ed3c49aee1d710e2f9bfb7d06b19ce2fb24c334567",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "o-du-froehliche/basic",
+      "passed": true,
+      "musicxml": "course/materials/o-du-froehliche_basic.musicxml",
+      "midi": "course/materials/o-du-froehliche_basic.mid",
+      "musicxml_sha256": "7ec56ade8ea7299a6973c69cdd63627d19b83b78a81405c30eb4c1fbc28d2d95",
+      "midi_sha256": "f956b75c81bec3bb4d97a06e4b04c022adb86ea352c2893bd09c8096af41ed45",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    },
+    {
+      "track": "o-du-froehliche/bonus",
+      "passed": true,
+      "musicxml": "course/materials/o-du-froehliche_bonus.musicxml",
+      "midi": "course/materials/o-du-froehliche_bonus.mid",
+      "musicxml_sha256": "182ac66bd69f832112ae35c38dade4b61e4c3a04daa12a4cb606f82acc9a6e5d",
+      "midi_sha256": "5cb4f1f15a67559be8345ef371639b493f812c5a620a3ab6d101a824dba8ca81",
+      "midi_gate_fraction": "23/25 (92%); start grid and total duration remain complete"
+    }
+  ]
+}

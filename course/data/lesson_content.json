@@ -1,0 +1,162 @@
+{
+  "morgen-kommt-der-weihnachtsmann": {
+    "index": 1,
+    "date_range": "23.–28.11.2026",
+    "goal": "Eine ganze Melodie auf drei Knöpfen ruhig spielen.",
+    "new_skill": "C bis A lesen; Viertel, Halbe und Viertelpause zählen.",
+    "pitfalls": [
+      "Knopf 3 klingt auf Druck C und auf Zug D.",
+      "Gleiche Töne mit dem Finger neu anspielen; die Balgrichtung bleibt gleich.",
+      "In Takt 4 und 12 die Viertelpause vollständig mitzählen."
+    ],
+    "chunks": [
+      "Takte 1–2: Anfang",
+      "Takte 3–4: erste Schlusswendung",
+      "Takte 5–6; dann dieselben Takte als 7–8",
+      "Takte 9–12: Wiederholung von 1–4"
+    ],
+    "practice_steps": [
+      "C, D, E, F, G und A im Notensystem zeigen und auf Knopf 3–5 finden.",
+      "Takte 1–2 langsam spielen; Viertel mit einem, Halbe mit zwei Schlägen zählen.",
+      "Takte 3–4 und 5–6 einzeln ergänzen; danach die ganze Form verbinden.",
+      "Knopfzahlen bei Takt 1–2 abdecken; danach das ganze Lied dreimal ruhig spielen."
+    ],
+    "mastery": [
+      "Alle sechs Tonnamen im Notenblatt richtig zeigen.",
+      "C und D auf Knopf 3 dreimal mit richtiger Balgrichtung spielen.",
+      "Eine Viertel einen, eine Halbe zwei Schläge halten.",
+      "Takte 1–2 dreimal ohne sichtbare Knopfzahlen spielen.",
+      "Alle zwölf Takte mit beiden Pausen dreimal ohne Neustart spielen."
+    ],
+    "bonus_tip": "Wenn die Melodie sicher ist, in Takt 1 einzelne C-Bassimpulse ergänzen. Für den Grundkurs genügt die Melodie allein.",
+    "target_bpm": 60
+  },
+  "lasst-uns-froh": {
+    "index": 2,
+    "date_range": "29.11.–05.12.2026",
+    "goal": "Das Nikolauslied bis zum 6. Dezember vollständig spielen.",
+    "new_skill": "Zwei Achtel pro Schlag; hohes C auf Knopf 6.",
+    "pitfalls": [
+      "Die Achtel gleichmäßig auf Zahl und „und“ verteilen.",
+      "Takt 6 enthält schnelle G–A-Wechsel auf demselben Knopf 5.",
+      "Takt 8 endet auf G; Takt 10 endet auf C."
+    ],
+    "chunks": [
+      "Takte 1–2: erste Liedzeile",
+      "Takte 3–4: zweite Liedzeile",
+      "Takte 5–6: Übergang und G–A-Wechsel",
+      "Takte 7–8; dann 9–10 mit anderem Schluss"
+    ],
+    "practice_steps": [
+      "Den Rhythmus von Takt 1 klatschen: Viertel und gleichmäßige Achtel.",
+      "Takte 1–4 langsam spielen; wiederholte Töne sauber mit dem Finger trennen.",
+      "Takte 5–6 üben, dann 7–10 ergänzen und die beiden Schlussnoten vergleichen.",
+      "Knopfzahlen bei Takt 1–4 abdecken; die vollständige Melodie täglich einmal wiederholen."
+    ],
+    "mastery": [
+      "Vier Achtel gleichmäßig über zwei Schläge verteilen.",
+      "Das hohe C auf Knopf 6 dreimal sicher auf Druck finden.",
+      "Takt 6 dreimal langsam ohne vertauschte G–A-Töne spielen.",
+      "Takte 1–4 ohne sichtbare Knopfzahlen spielen.",
+      "Alle zehn Takte mit dem richtigen Schluss-C dreimal ohne Neustart spielen."
+    ],
+    "bonus_tip": "Optional zunächst nur die C-Begleitung in Takt 2 ausprobieren. Bei einem Balgwechsel den Bass vorher loslassen.",
+    "target_bpm": 66
+  },
+  "schneefloeckchen": {
+    "index": 3,
+    "date_range": "06.–11.12.2026",
+    "goal": "Im Dreiertakt mit richtigem Auftakt beginnen.",
+    "new_skill": "3/4-Takt, zwei Auftaktachtel und B als deutsches H.",
+    "pitfalls": [
+      "Der Auftakt besteht aus zwei Achteln und dauert zusammen einen Schlag.",
+      "Den Auftakt auf „3 und“ spielen; der erste volle Takt beginnt danach.",
+      "Der letzte Takt enthält nur zwei Schläge als Ergänzung zum Auftakt."
+    ],
+    "chunks": [
+      "Auftakt + Takte 1–2",
+      "Takte 3–4",
+      "Takte 5–6: hohes C, dann B und A",
+      "Takte 7–8: Schluss mit zwei Schlägen"
+    ],
+    "practice_steps": [
+      "Drei Schläge klopfen; den Auftakt E–F auf „3 und“ sprechen.",
+      "Auftakt und Takte 1–2 verbinden, danach Takte 3–4 ergänzen.",
+      "Takte 5–8 üben; B auf Zug und C auf Druck an Knopf 6 unterscheiden.",
+      "Knopfzahlen beim Auftakt und Takt 1–4 abdecken; anschließend das ganze Lied spielen."
+    ],
+    "mastery": [
+      "Drei volle Takte mit gleichmäßigem 1–2–3-Puls klopfen.",
+      "Den Auftakt dreimal auf „3 und“ richtig beginnen.",
+      "B und C auf Knopf 6 dreimal mit richtiger Balgrichtung spielen.",
+      "Auftakt und Takte 1–4 ohne sichtbare Knopfzahlen spielen.",
+      "Die ganze Melodie dreimal mit einem zweischlägigen Schlusstakt beenden."
+    ],
+    "bonus_tip": "Später nur am Schluss einen passenden C-Bass ergänzen. Die zwei Schläge des verkürzten Schlusstakts bleiben unverändert.",
+    "target_bpm": 66
+  },
+  "alle-jahre-wieder": {
+    "index": 4,
+    "date_range": "12.–17.12.2026",
+    "goal": "Punktierte Noten lesen und gleichmäßig halten.",
+    "new_skill": "Punktierte Viertel mit Achtel; punktierte Halbe mit Pause.",
+    "pitfalls": [
+      "Das erste G dauert eineinhalb Schläge; A beginnt auf „2 und“.",
+      "D in Takt 4 und E in Takt 8 jeweils drei Schläge halten.",
+      "Die anschließende Viertelpause zählt als vierter Schlag."
+    ],
+    "chunks": [
+      "Takte 1–2: punktierter Anfang",
+      "Takte 3–4: erste lange Schlussnote",
+      "Takte 5–6: Sprung zum hohen C",
+      "Takte 7–8: letzte Liedzeile"
+    ],
+    "practice_steps": [
+      "Takt 1 sprechen und klopfen; G halten, A auf „2 und“ einsetzen.",
+      "Takte 1–4 langsam spielen und die Pause auf Schlag 4 mitzählen.",
+      "Takte 5–8 ergänzen; das hohe C vor dem Spielen im Notenblatt zeigen.",
+      "Alle Knopfzahlen abdecken; die acht Takte aus dem Notenblatt ruhig durchspielen."
+    ],
+    "mastery": [
+      "Den Punkt als Verlängerung um die Hälfte des Notenwerts erklären.",
+      "Takt 1 dreimal mit A auf „2 und“ spielen.",
+      "Beide punktierten Halben jeweils drei Schläge halten.",
+      "Die acht Takte ohne sichtbare Knopfzahlen spielen.",
+      "Das ganze Lied dreimal einschließlich beider Viertelpausen ohne Neustart spielen."
+    ],
+    "bonus_tip": "Auf dem späteren Bonusblatt einzelne F-Töne in der inneren Reihe ausprobieren. Bis die Alternative sicher ist, für den Vortrag die vertraute Grundfassung benutzen.",
+    "target_bpm": 60
+  },
+  "o-du-froehliche": {
+    "index": 5,
+    "date_range": "18.–22.12.2026",
+    "goal": "Ein längeres Lied in vier Abschnitten sicher verbinden.",
+    "new_skill": "Bekannte Notenwerte über 16 Takte sicher lesen und gestalten.",
+    "pitfalls": [
+      "Die halben Noten jeweils zwei Schläge halten.",
+      "Takte 3–4 wiederholen 1–2; ab Takt 5 geht die Melodie anders weiter.",
+      "Bei den punktierten Vierteln die folgende Achtel nicht vorziehen."
+    ],
+    "chunks": [
+      "Takte 1–4: zweimal derselbe Anfang",
+      "Takte 5–8: lange Noten und erste Pause",
+      "Takte 9–12: Mittelteil in zwei Zweitaktgruppen",
+      "Takte 13–16: Schlusswendung"
+    ],
+    "practice_steps": [
+      "Takte 1–2 langsam spielen und unmittelbar als 3–4 wiederholen.",
+      "Takte 5–8 ergänzen; die langen Noten mit hörbarem Puls halten.",
+      "Takte 9–10, 11–12 und 13–16 einzeln üben; dann alle Abschnitte verbinden.",
+      "Knopfzahlen abdecken; das ganze Lied in einem ruhigen Tempo dreimal vorspielen."
+    ],
+    "mastery": [
+      "Alle acht Tonnamen von C4 bis C5 im Notenblatt richtig zeigen.",
+      "Den Anfang über vier Takte ohne zusätzliche Wiederholung spielen.",
+      "Alle vier Abschnitte einzeln ohne sichtbare Knopfzahlen spielen.",
+      "Die Schlussnote in Takt 16 drei Schläge halten und die Pause mitzählen.",
+      "Alle 16 Takte dreimal ohne Neustart und ohne vertauschte D/Z-Töne spielen."
+    ],
+    "bonus_tip": "Die Begleitung bleibt freiwillig. Eine andere Reihenführung erst abschnittsweise lernen und den verfügbaren Balgweg beobachten.",
+    "target_bpm": 60
+  }
+}

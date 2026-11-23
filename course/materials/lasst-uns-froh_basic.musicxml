@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score-partwise version="4.0">
+  <work>
+    <work-title>Lasst uns froh und munter sein</work-title>
+  </work>
+  <identification>
+    <creator type="composer">Traditional; author unconfirmed</creator>
+    <rights>New C/F learning arrangement; sources and rights in source.json and README.md.</rights>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Corso C/F</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1" implicit="no">
+      <attributes>
+        <divisions>8</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <staves>1</staves>
+        <clef number="1">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>48</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="48" />
+      </direction>
+      <note id="lasst-uns-froh-m0-e0-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m0-e1-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m0-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m0-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m0-e4-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m0-e5-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="2" implicit="no">
+      <note id="lasst-uns-froh-m1-e0-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m1-e1-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m1-e2-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m1-e3-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="3" implicit="no">
+      <note id="lasst-uns-froh-m2-e0-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m2-e1-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m2-e2-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m2-e3-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m2-e4-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m2-e5-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="4" implicit="no">
+      <note id="lasst-uns-froh-m3-e0-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m3-e1-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m3-e2-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m3-e3-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="5" implicit="no">
+      <note id="lasst-uns-froh-m4-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m4-e1-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m4-e2-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m4-e3-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="6" implicit="no">
+      <note id="lasst-uns-froh-m5-e0-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m5-e1-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m5-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m5-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m5-e4-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m5-e5-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="7" implicit="no">
+      <note id="lasst-uns-froh-m6-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>6D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m6-e1-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m6-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m6-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m6-e4-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m6-e5-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="8" implicit="no">
+      <note id="lasst-uns-froh-m7-e0-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m7-e1-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m7-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m7-e3-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+    </measure>
+    <measure number="9" implicit="no">
+      <note id="lasst-uns-froh-m8-e0-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>6D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C5</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m8-e1-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m8-e2-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m8-e3-0-0">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>A4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m8-e4-0-0">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>5D</text>
+        </lyric>
+        <lyric number="2">
+          <text>G4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m8-e5-0-0">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>F4</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="10" implicit="no">
+      <note id="lasst-uns-froh-m9-e0-0-0">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>4D</text>
+        </lyric>
+        <lyric number="2">
+          <text>E4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m9-e1-0-0">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3Z</text>
+        </lyric>
+        <lyric number="2">
+          <text>D4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m9-e2-0-0">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+        <lyric number="1">
+          <text>3D</text>
+        </lyric>
+        <lyric number="2">
+          <text>C4</text>
+        </lyric>
+      </note>
+      <note id="lasst-uns-froh-m9-e3-0-0">
+        <rest />
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>
