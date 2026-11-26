@@ -83,3 +83,18 @@ Für diese Titel gibt es **Lernseiten und autorisierte Kaufquellen**, aber keine
 Die Datenprüfung umfasst **743 Melodietöne, 22 Melodiepausen und 589 Bassimpulse**: konstante Transposition, vollständige Takte, richtige Knöpfe und Balgrichtungen sowie übereinstimmende MusicXML-, MEI-, MIDI- und Playerdaten. Das PDF-Layout wird zusätzlich visuell kontrolliert. Die Playerlogik wurde mit einem simulierten DOM-/Audio-Lauf geprüft; eine reale Browser-/Audio- und Instrumentenprobe ist damit nicht behauptet.
 
 [Quellen und Rechte](../docs/SOURCES_AND_RIGHTS.md) dokumentieren die ausgewählten historischen Melodien und ihre Varianten. Moderne Verlagssätze und fremde Grifftabellen werden nicht als Scans übernommen. Eigene neue Beiträge stehen im beschriebenen Umfang unter CC0, eigener Werkzeug-/Playercode unter MIT; siehe [Lizenz und Abgrenzung](../LICENSE.md). [Änderungsverlauf](../CHANGELOG.md).
+
+## Pop-, Rock- und Filmmusik – spätere Lernwunschliste
+
+Nur Titel und Interpreten; keine Noten oder Audiodateien. Spielbarkeit auf der Corso C/F noch nicht geprüft. Kinder- und Weihnachtslieder haben Vorrang.
+
+| Titel | Interpret |
+|---|---|
+| Cantina Band | John Williams |
+| When a Man Loves a Woman | Michael Bolton |
+| Barbie Girl | Aqua |
+| American Idiot | Green Day |
+| Somebody That I Used to Know | Gotye feat. Kimbra |
+| Blinding Lights | The Weeknd (Titelannahme, noch zu bestätigen) |
+| The Fate of Ophelia | Taylor Swift |
+| Shake It Off | Taylor Swift |
